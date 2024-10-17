@@ -1,0 +1,289 @@
+/* General Styles */
+.black-background {
+  background: linear-gradient(135deg, #e64a19, #6a1b9a, #177ce0);
+  color: #f0f0f0;
+  min-height: 100vh;
+  display: flex;
+  font-family: 'Arial', sans-serif;
+}
+.dash-head
+{
+  font-size: 22px;
+font-weight: bold;
+margin-right: 20px;
+color: #dfe619;
+  
+}
+.Dashheading {
+  color: #e9ecef;
+}
+
+.dashboard-container {
+  display: flex;
+  width: 100%;
+  overflow: hidden;
+}
+
+.sidebar {
+  width: 250px;
+  background: linear-gradient(135deg, #003366, #6a1b9a, #fbc02d, #e64a19);
+  color: #fff;
+  padding: 20px;
+  display: flex;
+ 
+  flex-direction: column;
+  transition: all 0.3s ease;
+}
+
+.sidebar-header {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+  text-align: center;
+  color: #fff;
+}
+
+.dash {
+  margin-top: 45px;
+}
+
+.sidebar-menu {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar-menu li {
+  margin: 15px 0;
+}
+
+.sidebar-menu li a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.1rem;
+  display: block;
+  padding: 10px;
+  border-radius: 5px;
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+.sidebar-menu li a:hover {
+  background: rgba(255, 255, 255, 0.2);
+  color: #fff;
+}
+
+.sidebar-menu li.active a {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.main-content {
+  flex: 1;
+  padding: 20px;
+  overflow-y: auto;
+}
+
+.charts-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-left: 200px;
+}
+
+.charts-part {
+  width: 40%;
+  margin: 20px 10px 50px 80px;
+}
+
+.chart {
+  background: linear-gradient(135deg, #f8f9fa, #e9ecef);
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  animation: fadeIn 1s ease-in-out;
+  width: 100%;
+  max-width: 400px;
+}
+
+.chart h3 {
+  font-size: 1.2rem;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.chart-item {
+  width: 100%;
+  padding: 15px;
+  animation: grow 0.5s ease-in-out;
+}
+
+@keyframes grow {
+  from {
+    transform: scale(0.95);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+
+.chart-item:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s ease;
+}
+
+/* Tablet View */
+@media (max-width: 1200px) {
+  .dashboard-container {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    margin-top: 0;
+    width: 100%; /* Full-width sidebar for small tablet view */
+    position: relative;
+    height: auto;
+  }
+  .dash{
+    margin-top: 0;
+  }
+ 
+  .sidebar-header {
+    font-size: 1.3rem; /* Slightly smaller font */
+  }
+
+  .charts-part {
+    width: 80%; /* Make charts wider for better display */
+    margin: 60px auto; /* Center the charts */
+  }
+
+  .chart {
+    max-width: none; /* Allow charts to grow naturally */
+    width: 100%; /* Take full width of available space */
+  }
+
+  .main-content {
+    padding: 15px;
+  }
+
+  .charts-container {
+    margin-left: 0; /* Remove left margin */
+    justify-content: center; /* Center the charts */
+  }
+  .chart-item
+  {
+    margin-top: 60px;
+  }
+}
+
+/* Mobile View */
+@media (max-width: 768px) {
+  .dashboard-container {
+    flex-direction: column;
+  }
+  .dash{
+    margin-top: 0;
+  }
+  .charts-part {
+    width: 90%; /* Full width for charts in mobile view */
+    margin: 10px auto; /* Center charts on mobile */
+  }
+
+  .sidebar {
+    margin-top: 0;
+    width: 100%; /* Full-width sidebar on mobile */
+    position: relative;
+    height: auto;
+    margin-top: 0;
+  }
+.chart-item
+{
+  margin-top: 60px;
+}
+  .main-content {
+    padding: 10px;
+  }
+
+  .charts-container {
+    margin-left: 0;
+    justify-content: center; /* Center charts in mobile view */
+  }
+}
+
+/* Small Mobile View */
+@media (max-width: 480px) {
+  .charts-part {
+    width: 100%; /* Make charts take full width on small mobile screens */
+    margin: 10px auto;
+  }
+  .chart-item
+{
+  margin-top: 60px;
+}
+  .dash{
+    margin-top: 0;
+  }
+  .sidebar {
+    margin-top: 0;
+    padding: 10px;
+    font-size: 0.9rem; /* Reduce font size on small screens */
+    height: auto;
+    margin-top: 0;
+  }
+
+  .sidebar-menu li a {
+    font-size: 1rem; /* Slightly smaller links */
+  }
+
+  .main-content {
+    padding: 5px; /* Reduce padding for small screens */
+  }
+}
+@media (min-width: 768px) and (max-width: 990px) {
+  .dashboard-container {
+    flex-direction: column;
+  }
+.dash{
+  margin-top: 0;
+}
+.chart-item
+{
+  margin-top: 60px;
+}
+  .sidebar {
+    margin-top: 0;
+    width: 100%; /* Full-width sidebar for small tablet view */
+    position: relative;
+    height: auto;
+  }
+
+  .sidebar-header {
+    font-size: 1.3rem; /* Slightly smaller font */
+  }
+
+  .charts-part {
+    width: 80%; /* Make charts wider for better display */
+    margin: 20px auto; /* Center the charts */
+  }
+
+  .chart {
+    max-width: none; /* Allow charts to grow naturally */
+    width: 100%; /* Take full width of available space */
+  }
+
+  .main-content {
+    padding: 15px;
+  }
+
+  .charts-container {
+    margin-left: 0; /* Remove left margin */
+    justify-content: center; /* Center the charts */
+  }
+}

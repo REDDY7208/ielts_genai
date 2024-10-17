@@ -1,0 +1,78 @@
+
+.container {
+    max-width: 95%;
+    margin: 0 auto;
+    padding: 20px;
+ 
+   }
+  
+  .heading {
+    text-align: center;
+    color: #ed0909;
+    font-size: 2rem;
+    margin-bottom:30px;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.8), 0 0 10px rgba(255, 255, 255, 0.6), 0 0 15px rgba(255, 255, 255, 0.4);
+    animation: colorCycle 5s infinite;
+  }
+  
+  @keyframes colorCycle {
+    0% { color: #ed5d09; }
+    50% { color: #093eed; }
+    100% { color: #ed0909; }
+  }
+
+  .button-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+    justify-content: center; 
+    align-items: center;/* Center the buttons */
+  }
+ 
+  
+  .button-write {
+    padding: 25px 20px;
+    margin: 10px;
+    cursor: pointer;
+    background-color:#c064f5 !important;
+    color: 000 ;
+    border: 2px solid #000;
+    border-radius: 8px;
+    display: block;
+    text-align: left;
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition for zoom and shadow */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  
+  .button-write:hover {
+    transform: scale(1.05); /* Slightly zoom in on hover */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+    background-color: #fff !important;
+    
+    /* Increase shadow on hover */
+  }
+  
+  .buttonTitle {
+    margin: 0;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+
+    
+    
+  }
+  
+  
+  .btn-instruction {
+    margin: 5px 0;
+  color: #000;
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 3px;
+    
+  }
+   
+ 
+  

@@ -1,0 +1,215 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ 
+ 
+ 
+}
+.icon-fade-in
+{
+  animation: pulseAnimation 3s ease-in-out infinite;
+ overflow: hidden !important;
+  font-size: 40px;
+  color: #000;
+  margin-bottom: 10px;
+}
+.icon-fade-in :hover
+{
+  color: #fff !important;
+}
+ 
+/* Full-screen container for the test selection */
+.test-selection-container {
+ 
+ 
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4 buttons per row for desktop */
+  gap: 30px; /* Spacing between buttons */
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  width: 100vw; /* Ensures full-screen width */
+background-color: #FFF;
+  background-attachment: fixed;
+  background-size: cover;
+  padding: 20px 40px;
+  overflow: hidden !important; /* Prevents overflow issues */
+  position: relative; /* Ensure full-page coverage */
+font-family:sans-serif;
+ 
+}
+ 
+/* Title styling */
+/* Title styling with animation */
+.test-selection-container h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin: 30px;
+  color: #8511d2;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  grid-column: span 4; /* Span the entire row for the title */
+  text-align: center;
+ 
+  /* Animation */
+  animation: pulseAnimation 3s ease-in-out infinite; /* Loop the animation */
+}
+ 
+/* Define the keyframes for the animation */
+@keyframes pulseAnimation {
+  0%, 100% {
+    transform: scale(1);
+    opacity: 1; /* Fully visible at the start and end */
+  }
+  50% {
+    transform: scale(1.1); /* Slight scale up at the midpoint */
+    opacity: 0.7; /* Slight fade out at the midpoint */
+  }
+}
+ 
+ 
+/* Dynamic button styling */
+.btn-dynamic {
+  background: linear-gradient(135deg, #FF7E5F, #e68346);
+ 
+  color: #FFF;
+  padding: 15px 30px;
+  border: 3px solid #8511d2;
+  border-radius: 20px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  letter-spacing: 1px;
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+  width: 100%; /* Button takes full width of its grid column */
+   /* Limit the maximum width */
+  height: 200px;
+}
+span
+{
+  color: #FFF;
+}
+span:hover
+{
+  color: #000;
+}
+ 
+/* Animated gradient hover effect */
+.btn-dynamic::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+ 
+  height: 100%;
+  background: linear-gradient(120deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0));
+  transition: all 0.5s ease;
+}
+ 
+/* Hover effect moves gradient */
+.btn-dynamic:hover::before {
+  left: 100%;
+}
+ 
+/* Zoom effect on hover */
+.btn-dynamic:hover {
+  transform: scale(1.1); /* Zoom in */
+ 
+  color: #000;
+}
+ 
+/* Zoom out effect when clicked */
+@keyframes zoomOut {
+  0% {
+      transform: scale(1.1);
+  }
+  100% {
+      transform: scale(1);
+  }
+}
+ 
+.btn-dynamic:active {
+  animation: zoomOut 0.2s forwards; /* Zoom out on click */
+}
+ 
+/* Responsive layout: 2 buttons per row for tablets (max-width 768px) */
+@media (max-width: 768px) {
+  .test-selection-container {
+    display: grid; /* Keep grid for tablets */
+    grid-template-columns: repeat(2, 1fr); /* 2 buttons per row for tablets */
+    gap: 20px; /* Adjust spacing between buttons */
+  }
+ 
+  .test-selection-container h1 {
+    font-size: 2rem; /* Smaller title on tablets */
+  }
+ 
+  .btn-dynamic {
+    padding: 12px 25px; /* Adjust padding for smaller screens */
+    font-size: 1rem; /* Adjust font size */
+    width: 100%; /* Full width for buttons */
+    max-width: 100%; /* Allow maximum width */
+    height: auto; /* Allow height to adjust based on content */
+    margin: 0 auto; /* Center button horizontally */
+  }
+}
+ 
+/* Responsive layout: Single column layout for mobile (max-width 480px) */
+@media (max-width: 480px) {
+  .test-selection-container {
+    display: flex; /* Use flexbox for mobile layout */
+    flex-direction: column; /* Stack buttons vertically */
+    align-items: center; /* Center buttons */
+    gap: 10px; /* Space between buttons */
+  }
+ 
+  .test-selection-container h1 {
+    font-size: 1.8rem; /* Smaller title on mobile */
+    text-align: center; /* Center title */
+  }
+ 
+  .btn-dynamic {
+    padding: 10px 20px; /* Adjust padding */
+    font-size: 0.9rem; /* Smaller font size */
+    width: 90%; /* Set width to 90% for better spacing */
+    height: auto; /* Adjust height automatically */
+    margin: 0; /* Remove extra margin */
+    border-radius: 10px; /* Slightly adjust border radius for mobile */
+  }
+}
+/* Responsive layout: Adjust styles for tablets (max-width 1024px) */
+@media (max-width: 1024px) {
+  .test-selection-container {
+    display: flex; /* Use flexbox layout */
+    flex-direction: column; /* Stack buttons vertically */
+    align-items: center; /* Center buttons horizontally */
+    justify-content: center; /* Center content vertically */
+    padding: 20px; /* Add padding */
+    gap: 15px; /* Space between buttons */
+   /* Ensure full viewport height */
+ 
+  }
+ 
+  .test-selection-container h1 {
+    font-size: 2.2rem; /* Adjust title size for tablets */
+    text-align: center; /* Center the title */
+    margin: 40px 50px; /* Space below the title */
+  }
+ 
+  .btn-dynamic {
+    padding: 10px 15px;
+    line-height: 2; /* Button padding */
+    font-size: 1.2rem; /* Set font size */
+    width: 90%; /* Set width to 90% for better spacing */
+    max-width: 400px; /* Set a maximum width */
+    border-radius: 15px; /* Adjust border radius */
+    margin: 0; /* Remove margin for better alignment */
+    transition: transform 0.3s ease, background-color 0.3s ease; /* Animation */
+  }
+}
+ 
+ 

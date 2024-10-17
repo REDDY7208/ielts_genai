@@ -1,0 +1,193 @@
+.learning-resources {
+  text-align: center;
+  padding: 20px;
+  margin: 40px 0;
+  background: #fff;
+  overflow: hidden;
+}
+ 
+.learning-resources h1 {
+  font-size: 2.5rem;
+  color: #000;
+  margin-bottom: 30px;
+}
+ 
+.resource-sections {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+ 
+.resource-section {
+  width: 90%;
+  max-width: 500px; /* Set a max-width for larger screens */
+  height: auto; /* Adjust height based on content */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  margin: 10px 0;
+  box-sizing: border-box;
+  transition: transform 0.3s ease-in-out;
+}
+ 
+.resource-section:hover {
+  transform: scale(1.05);
+}
+ 
+.resource-section h2 {
+  font-size: 1.6rem;
+  display: inline-block;
+  animation: pulse 2s infinite;
+  margin: 10px 0;
+  text-shadow: 2px 2px 8px rgba(235, 241, 240, 0.3);
+}
+.resource-section .icon{
+  font-size: 40px;
+}
+ 
+.resource-section p {
+  font-size: 1.1rem;
+  margin-bottom: 8px;
+}
+.Reading-content{
+  color:#fff;
+}
+ 
+.learn-more {
+  padding: 10px 15px;
+  font-size: 1.1rem;
+  background-color: white ;
+  border: 2px solid #000;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 80%;
+  margin-top: 10px;
+}
+ 
+.learn-more:hover {
+  background-color: #e1dede;
+}
+ 
+ 
+ 
+.blog-page {
+  max-width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  background-color: #fff !important;
+ 
+}
+ 
+.blog-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+ 
+.blog-header h1 {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+}
+ 
+.blog-header p {
+  font-size: 1.2em;
+  color: #fff ;
+}
+ 
+.blog-content {
+  line-height: 1.6;
+  display: none;
+}
+ 
+.blog-content.active {
+  display: block;
+}
+ 
+.blog-content h2 {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+ 
+.blog-content h3 {
+  font-size: 1.5em;
+  margin-bottom: 8px;
+}
+ 
+.blog-content h4 {
+  font-size: 1.3em;
+  margin-bottom: 8px;
+}
+ 
+.blog-content p,
+.blog-content ul {
+  font-size: 1.1em;
+  color: #000;
+}
+ 
+.blog-content ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+ 
+.blog-content ul li {
+  margin-bottom: 8px;
+}
+ 
+.pagination {
+  text-align: center;
+  margin-top: 20px;
+}
+ 
+.pagination button {
+  padding: 10px 20px;
+  font-size: 1em;
+  margin: 0 10px;
+  cursor: pointer;
+}
+ 
+.pagination button:disabled {
+  background-color: #ddd;
+  cursor: not-allowed;
+}
+ 
+.pagination span {
+  font-size: 1.2em;
+}
+ 
+/* Media Queries */
+ 
+/* Extra small devices (phones, less than 576px) */
+@media (max-width: 575.98px) {
+  .resource-sections {
+    flex-direction: column;
+    align-items: center;
+  }
+ 
+  .resource-section {
+    width: 90%;
+  }
+}
+ 
+/* Small devices (tablets, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .resource-section {
+    width: 80%;
+  }
+}
+ 
+/* Medium devices (desktops, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .resource-section {
+    width: 45%;
+  }
+}
+ 
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  .resource-section {
+    width: 22%;
+  }
+}
+ 

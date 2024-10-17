@@ -1,0 +1,373 @@
+{
+    "test_id": "test_05",
+    "sections": [
+      {
+        "part": "Section_01",
+        "paragraph_title": "Enquiry about Booking Hotel Room for Event",
+        "instructions": {
+          "main_head_001": "SECTION 1 - Questions 1 – 7.Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer.",
+          "main_head_002": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
+        },
+        "questions": [
+          {
+            "id": 1,
+            "text": "<b>Rooms</b> <br>Adelphi Room <br>– number of people who can sit down to eat: <b>(1) ____________ </b> <br>– has a gallery suitable for musicians <br>",
+            "type": "fill_in_the_blanks",
+            "correct_answer": "85",
+            "marks": 1
+          },
+          {
+            "id":2,
+            "text": "– can go out and see the  <b>(2) ____________ </b> in pots on the terrace <br>",
+            "type": "fill_in_the_blanks",
+            "correct_answer": "roses",
+            "marks": 1
+          },
+          {
+            "id": 3,
+            "text": "– terrace has a view of a group of  <b>(3) ____________ </b>",
+            "type": "fill_in_the_blanks",
+            "correct_answer": "trees",
+            "marks": 1
+          },
+          {
+            "id": 4,
+            "text": "<b>Carlton Room</b><br> – number of people who can sit down to eat: 110 <br>– has a <b>(4) ___________ </b><br> – view of the lake",
+            "type": "fill_in_the_blanks",
+            "correct_answer": "stage",
+            "marks": 1
+          },
+          {
+            "id": 5,
+            "text": "<b>Options</b> <br> Master of Ceremonies: <br>–  Can give a <b>(5) _______</b>while people are eating.",
+            "type": "fill_in_the_blanks",
+            "correct_answer": "speech",
+            "marks": 1
+          },
+          {
+            "id": 6,
+            "text": " – Will provide <b>(6) _______</b> if there are any problems.",
+            "type": "fill_in_the_blanks",
+            "correct_answer": "support",
+            "marks": 1
+          },
+          {
+            "id": 7,
+            "text": "Accommodation: in hotel rooms or <b>(7) _______</b> ",
+            "type": "fill_in_the_blanks",
+            "correct_answer": "cabins",
+            "marks": 1
+          },
+      
+          {
+            "id": 8,
+            "text": "<b>Questions 8 – 10</b><br><b>What is said about using each of the following hotel facilities?</b><br>Choose <b>THREE</b> answers from the options below and write the correct letter <b>A, B or C</b> next to Questions <b>8-10</b><br><br><b>Availability</b><br><b>A</b> Included in cost of hiring room.<br><b>B</b> Available at extra charge.<br><b>C</b> Not available.<br><br> Outdoor swimming pool:<b>(8)_______</b>",
+            "type": "dropdown",
+            "options":["A Included in cost of hiring room.","B Available at extra charge.","C Not available."],
+            "correct_answer": "C Not available.",
+            "marks": 1
+          },
+          {
+            "id": 9,
+            "text": " Gym: <b>(9)_______</b>",
+            "type": "dropdown",
+            "options":["A Included in cost of hiring room.","B Available at extra charge.","C Not available."],
+            "correct_answer": "A Included in cost of hiring room.",
+            "marks": 1
+          },
+          {
+            "id": 10,
+            "text": " Tennis courts: <b>(10)_______</b>",
+            "type": "dropdown",
+            "options":["A Included in cost of hiring room.","B Available at extra charge.","C Not available."],
+            "correct_answer": "B Available at extra charge.",
+            "marks": 1
+          }
+        ]
+      },
+      {
+        "part": "Section_02",
+        "paragraph_title": "Excursions",
+        "instructions": {
+          "main_head_001": "SECTION 2 - Questions 11-20 ",
+          "main_head_002": "What information does the speaker give about each of the following excursions? Choose SIX answers from the box and write the correct letter, A-H, next to Questions 11-16."
+        },
+        "questions": [
+          {
+            "id": 11,
+            "text": "<b>Questions 11-16</b><br><b>What information does the speaker give about each of the following excursions?</b><br>Choose <b>SIX</b> answers from the options below and write the correct letter <b>A-H</b> next to Questions <b>11-16</b><br><br><b>Information</b><br><b>A</b> All downhill.<br><b>B</b> Suitable for beginners.<br><b>C</b> Only in good weather.<br><b>D</b> Food included.<br><b>E</b> No charge.<br><b>F</b> Swimming possible.<br><b>G</b> Fully booked today.<br><b>H</b> Transport not included.<br><br><b>11</b>. Dolphin watching: _______",
+            "type": "dropdown",
+            "options":["A All downhill."," B Suitable for beginners."," C Only in good weather.","D Food included.","E No charge.","F Swimming possible."," G Fully booked today.","H Transport not included."],
+            "correct_answer": " G Fully booked today.",
+            "marks": 1
+          },
+          {
+            "id": 12,
+            "text": "<b>12</b>. Forest walk: _______",
+            "type": "dropdown",
+            "options":["A All downhill."," B Suitable for beginners."," C Only in good weather.","D Food included.","E No charge.","F Swimming possible."," G Fully booked today.","H Transport not included."],
+            "correct_answer": "D Food included.",
+            "marks": 1
+          },
+          {
+            "id": 13,
+            "text": "<b>13</b>. Cycle trip: _______",
+            "type": "dropdown",
+            "options":["A All downhill."," B Suitable for beginners."," C Only in good weather.","D Food included.","E No charge.","F Swimming possible."," G Fully booked today.","H Transport not included."],
+            "correct_answer": "A All downhill.",
+            "marks": 1
+          },
+          {
+            "id": 14,
+            "text": "<b>14</b>. Local craft tour: _______",
+            "type": "dropdown",
+            "options":["A All downhill."," B Suitable for beginners."," C Only in good weather.","D Food included.","E No charge.","F Swimming possible."," G Fully booked today.","H Transport not included."],
+            "correct_answer": "E No charge.",
+            "marks": 1
+          },
+          {
+            "id": 15,
+            "text": "<b>15</b>. Observatory trip: _______",
+            "type": "dropdown",
+            "options":["A All downhill."," B Suitable for beginners."," C Only in good weather.","D Food included.","E No charge.","F Swimming possible."," G Fully booked today.","H Transport not included."],
+            "correct_answer": "F Swimming possible.",
+            "marks": 1
+          },
+          {
+            "id": 16,
+            "text": "<b>16</b>. Horse riding: _______",
+            "type": "dropdown",
+            "options":["A All downhill."," B Suitable for beginners."," C Only in good weather.","D Food included.","E No charge.","F Swimming possible."," G Fully booked today.","H Transport not included."],
+            "correct_answer": " B Suitable for beginners.",
+            "marks": 1
+          },
+       
+          {
+            "id": 17,
+            "text": "<b>Questions 17 and 18</b><br>Choose <b>TWO</b> letters <b>A-E</b><br>Which <b>TWO</b> things does the speaker say about the attraction called Musical Favourites?<br>",
+            "type": "checkbox",
+            "options": [
+              "A You pay extra for drinks.",
+              "B You must book it in advance.",
+              "C You get a reduction if you buy two tickets.",
+              "D You can meet the performers.",
+              "E You can take part in the show."
+            ],
+            "correct_answer": ["B You must book it in advance.", "D You can meet the performers."],
+            "marks": 2
+          },
+     
+          {
+            "id": 18,
+            "text": "<b>Questions 19 and 20</b><br>Choose <b>TWO</b> letters <b>A-E</b><br>Which <b>TWO</b> things does the speaker say about the Castle Feast?",
+            "type": "checkbox",
+            "options": [
+              "A Visitors can dance after the meal.",
+              "B There is a choice of food.",
+              "C Visitors wear historical costume.",
+              "D Knives and forks are not used.",
+              "E The entertainment includes horse races."
+            ],
+            "correct_answer": ["A Visitors can dance after the meal.", "D Knives and forks are not used."],
+            "marks": 2
+          }
+        ]
+      },
+      {
+        "part": "Section_03",
+        "paragraph_title": "Trevor's Module Reflections",
+        "instructions": {
+          "main_head_001": "SECTION 3 - Questions 21 – 25",
+          "main_head_002": "Choose the correct letter A, B or C."
+        },
+        "questions": [
+          {
+            "id": 19,
+            "text": "<b>21. What does Trevor find interesting about the purpose of children’s literature?</b>",
+            "type": "choose_the_best",
+            "options": [
+              "A the fact that authors may not realise what values they’re teaching",
+              "B the fact that literature can be entertaining and educational at the same time",
+              "C the fact that adults expect children to imitate characters in literature"
+            ],
+            "correct_answer":  "A the fact that authors may not realise what values they’re teaching",
+            "marks": 1
+          },
+          {
+            "id": 20,
+            "text": "<b>22. Trevor says the module about the purpose of children’s literature made him</b>",
+            "type": "choose_the_best",
+            "options": [
+              "A analyse some of the stories that his niece reads.",
+              "B wonder how far popularity reflects good quality.",
+              "C decide to start writing some children’s stories."
+            ],
+            "correct_answer": "C decide to start writing some children’s stories.",
+            "marks": 1
+          },
+          {
+            "id": 21,
+            "text": "<b>23. Stephanie is interested in the Pictures module because</b>",
+            "type": "choose_the_best",
+            "options": [
+              "A she intends to become an illustrator.",
+              "B she can remember beautiful illustrations from her childhood.",
+              "C she believes illustrations are more important than words."
+            ],
+            "correct_answer":   "A she intends to become an illustrator.",
+            "marks": 1
+          },
+          {
+            "id": 22,
+            "text": "<b>24. Trevor and Stephanie agree that comics</b>",
+            "type": "choose_the_best",
+            "options": [
+              "A are inferior to books.",
+              "B have the potential for being useful.",
+              "C discourage children from using their imagination."
+            ],
+            "correct_answer": "B have the potential for being useful.",
+            "marks": 1
+          },
+          {
+            "id": 23,
+            "text": "<b>25. With regard to books aimed at only boys or only girls, Trevor was surprised</b>",
+            "type": "choose_the_best",
+            "options": [
+              "A how long the distinction had gone unquestioned.",
+              "B how few books were aimed at both girls and boys.",
+              "C how many children enjoyed books intended for the opposite sex."
+            ],
+            "correct_answer": "B how few books were aimed at both girls and boys.",
+            "marks": 1
+          },
+
+          {
+            "id": 24,
+            "text": "What comment is made about each of these stories? <br><b> Choose <b>FIVE</b> answers from the box and write the correct letter <b>A-G</b> next to Questions 26-30.</b><br> <b>Comments</b><br><b>A</b> translated into many other languages.<br><b>B</b> hard to read.<br><b>C</b> inspired a work in a different area of art.<br><b>D</b> more popular than the author’s other works.<br><b>E</b> original title refers to another book.<br><b>F</b> started a new genre.<br><b>G</b> unlikely topic.<br><br><b>Stories</b><br><b>26</b>. Perrault’s fairy tales: _______",
+            "type": "dropdown",
+            "options":["A translated into many other languages.", "B hard to read."," C inspired a work in a different area of art.","D more popular than the author’s other works."," E original title refers to another book.","F started a new genre."," G unlikely topic."],
+            "correct_answer": "F started a new genre.",
+            "marks": 1
+          },
+          {
+            "id": 25,
+            "text": "<b>27</b>. The Swiss Family Robinson: _______",
+            "type": "dropdown",
+            "options":["A translated into many other languages.", "B hard to read."," C inspired a work in a different area of art.","D more popular than the author’s other works."," E original title refers to another book.","F started a new genre."," G unlikely topic."],
+        
+            "correct_answer": " E original title refers to another book.",
+            "marks": 1
+          },
+          {
+            "id": 26,
+            "text": "<b>28</b>. The Nutcracker and The Mouse King: _______",
+            "type": "dropdown",
+            "options":["A translated into many other languages.", "B hard to read."," C inspired a work in a different area of art.","D more popular than the author’s other works."," E original title refers to another book.","F started a new genre."," G unlikely topic."],
+        
+            "correct_answer": " C inspired a work in a different area of art.",
+            "marks": 1
+          },
+          {
+            "id": 27,
+            "text": "<b>29</b>. The Lord of the Rings: _______",
+            "type": "dropdown",
+            "options":["A translated into many other languages.", "B hard to read."," C inspired a work in a different area of art.","D more popular than the author’s other works."," E original title refers to another book.","F started a new genre."," G unlikely topic."],
+        
+            "correct_answer": "B hard to read.",
+            "marks": 1
+          },
+          {
+            "id": 28,
+            "text": "<b>30</b>. War Horse: _______",
+            "type": "dropdown",
+            "options":["A translated into many other languages.", "B hard to read."," C inspired a work in a different area of art.","D more popular than the author’s other works."," E original title refers to another book.","F started a new genre."," G unlikely topic."],
+            "correct_answer": " G unlikely topic.",
+            "marks": 1
+          }
+        ]
+      },
+      {
+        "part": "Section_04",
+        "paragraph_title": "The hunt for sunken settlements and ancient shipwrecks",
+        "instructions": {
+          "main_head_001": "SECTION 4 - Questions 31 – 40",
+          "main_head_002": "Complete the notes below. Write ONE WORD ONLY for each answer."
+        },
+        "questions": [
+          {
+            "id": 29,
+            "text": "Complete the notes below. Write <b>ONE WORD ONLY</b>for each answer. <br> - had a semicircle of large stones round a <b>(31)_______</b>",
+            "type": "fill_in_the_blanks",
+            "correct_answer": "spring",
+            "marks": 1
+          },
+          {
+            "id": 30,
+            "text": "- research carried out into structures, <b>(32)_______</b>and human remains",
+            "type": "fill_in_the_blanks",
+            "correct_answer": "tools",
+            "marks": 1
+          },
+          {
+            "id": 31,
+            "text": "- used in the oil industry, e.g. to make <b>(33)_______</b>",
+            "type": "fill_in_the_blanks",
+            "correct_answer": "maps",
+            "marks": 1
+          },
+          {
+            "id": 32,
+            "text": "- problems: they were expensive and <b>(34)_______</b>",
+            "type": "fill_in_the_blanks",
+            "correct_answer": "heavy",
+            "marks": 1
+          },
+          {
+            "id": 33,
+            "text": "- found ancient Roman ships carrying architectural elements made of <b>(35)_______</b>",
+            "type": "fill_in_the_blanks",
+            "correct_answer": "marble",
+            "marks": 1
+          },
+          {
+            "id": 34,
+            "text": "- <b>(36)_______</b>is used for short distance communication",
+            "type": "fill_in_the_blanks",
+            "correct_answer": "light",
+            "marks": 1
+          },
+          {
+            "id": 35,
+            "text": "- AUV can send data to another AUV that has better _<b>(37)_______</b>",
+            "type": "fill_in_the_blanks",
+            "correct_answer": "cameras",
+            "marks": 1
+          },
+          {
+            "id": 36,
+            "text": "- one carrying <b>(38)_______</b>supplies",
+            "type": "fill_in_the_blanks",
+            "correct_answer": "medical",
+            "marks": 1
+          },
+          {
+            "id": 37,
+            "text": "- tablets may have been used for cleaning the <b>(39)_______</b>",
+            "type": "fill_in_the_blanks",
+            "correct_answer": "eyes",
+            "marks": 1
+          },
+          {
+            "id": 38,
+            "text": "- others carrying containers of olive oil or <b>(40)_______</b>",
+            "type": "fill_in_the_blanks",
+            "correct_answer": "wine",
+            "marks": 1
+          }
+        ]
+      }
+    ],
+       "submitEndpoint": "http://localhost:5010/api/submit/test05"
+  }
+  

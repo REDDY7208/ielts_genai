@@ -1,0 +1,145 @@
+.auth-container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: linear-gradient(135deg, #f0f0f0, #7bbcfe); /* Gradient background */
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2); /* Smooth shadow */
+    border-radius: 12px;
+    padding: 30px;
+    width: 600px;
+    text-align: center;
+    animation: fadeIn 0.5s ease; /* Animation for popup */
+    z-index: 9999;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: scale(0.8) translate(-50%, -50%);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1) translate(-50%, -50%);
+    }
+}
+
+.auth-container h2 {
+    color: rgb(8, 0, 0);
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    font-family: 'Arial', sans-serif;
+    letter-spacing: 1.5px;
+    font-weight: bold;
+}
+
+.video-preview {
+    border: 2px solid #fff;
+    border-radius: 8px;
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.button-group {
+    display: flex;
+    justify-content: center; /* Center alignment */
+    gap: 15px; /* Space between buttons */
+    flex-wrap: wrap; /* Allow wrapping for smaller screens */
+    margin-bottom: 20px;
+}
+
+.action-button, .ok-button, .close-button {
+    background-color: white;
+    color: #ff7e5f;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.action-button:hover, .ok-button:hover, .close-button:hover {
+    background-color: #ff7e5f;
+    color: white;
+    transform: scale(1.05); /* Slight scaling animation */
+}
+
+.access-granted-message p {
+    color: #000000;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-family: 'Arial', sans-serif;
+}
+
+.error-message {
+    color: #ff4e50;
+    font-size: 16px;
+    margin-top: 15px;
+}
+
+.close-button {
+    background: none;
+    border: none;
+    font-size: 14px; /* Slightly larger for visibility */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margin */
+    cursor: pointer;
+    color: #ff0000; /* Red color for visibility */
+    line-height: 1; /* Adjust line height for better centering */
+    position: absolute; /* Positioning close button */
+    top: 10px; /* Adjust placement */
+    right: 10px;
+}
+
+.ok-button {
+    background-color: #22ff00;
+    color: white;
+    padding: 12px 30px;
+    border-radius: 30px;
+    font-size: 16px;
+    font-weight: bold;
+    animation: pulse 1.5s infinite ease-in-out; /* Pulsing animation for OK button */
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.1);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+/* Media queries for responsiveness */
+@media (max-width: 500px) {
+    .auth-container {
+        width: 90%;
+        padding: 20px;
+    }
+
+    .action-button, .ok-button, .close-button {
+        font-size: 14px;
+        padding: 8px 15px;
+    }
+
+    .button-group {
+        flex-direction: column; /* Stack buttons vertically */
+        align-items: center;
+    }
+
+    .close-button {
+        font-size: 16px; /* Adjust font size for better visibility on small screens */
+        top: 5px; /* Adjust position for small screens */
+        right: 5px;
+    }
+}

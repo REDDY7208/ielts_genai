@@ -1,0 +1,73 @@
+[
+  {
+    "name": "7 Days Plan",
+    "price": " 1999",
+    "detail": [
+      "7 Days access to all unlimited Mock tests.      ",
+   
+      "7 Days access to all learning Resources.",
+      "7 Days access to unlimited AI tutor messages.",
+      "7 Days access to all exercises.",
+      "Complete result & feedback.",
+      "All previous results tracking.",
+      "Provide PDF Files and document"
+    ],
+    "image": "./il4.jpg",
+    "color": "#F7CE56",
+    "razorpayProductId": "prod_7DaysPlan",
+    "plan_id": "PLAN_7DAYS"
+  },
+  {
+    "name": "1 Month Plan",
+    "price": " 6999",
+    "detail": [
+      "1 Month access to all unlimited Mock tests.",
+      "1 Month access to all learning plans.",
+      "1 Month access to unlimited AI tutor messages.",
+      "1 Month access to all exercises.",
+      "Complete result & feedback.",
+      "All previous results tracking.",
+      "Provide PDF Files."
+    ],
+    "image": "./il8.jpg",
+    "color": "#7253A4",
+    "razorpayProductId": "prod_1MonthPlan",
+    "plan_id": "PLAN_1MONTH"
+  },
+  {
+    "name": "3 Months Plan",
+    "price": " 11,999",
+    "detail": [
+      "3 Months access to all unlimited Mock tests.",
+      "3 Months access to all learning plans.",
+      "3 Months access to unlimited AI tutor messages.",
+      "3 Months access to all exercises.",
+      "Complete result & feedback.",
+      "All previous results tracking..",
+      "Provide PDF Files."
+    ],
+    "image": "./il3.jpg",
+    "color": "#FE753F",
+    "razorpayProductId": "prod_3MonthPlan",
+    "plan_id": "PLAN_3MONTH"
+  },
+  {
+    "name": "6 Months Plan",
+    "price": " 17,999",
+    "detail": [
+      "6 Months access to all unlimited Mock tests.",
+      "6 Months access to all learning plans.",
+      "6 Months access to unlimited AI tutor messages.",
+      "6 Months access to all exercises.",
+      "Complete result & feedback.",
+      "All previous results tracking.",
+      "Provide PDF Files."
+    ],
+    "image": "./il7.jpg ",
+    "color": "#5383EC",
+    "razorpayProductId": "prod_6MonthPlan",
+    "plan_id": "PLAN_6MONTH"
+  }
+ 
+]
+ 

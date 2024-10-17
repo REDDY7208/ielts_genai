@@ -1,0 +1,762 @@
+/* General Styles */
+ 
+.reading-test {
+    /* margin: 0; */
+    padding: 0;
+    max-width: 100%;
+    height: 100vh;
+    width: 100vw;
+    color: #333;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+ 
+.paraNumber-reading {
+    color: #ebb410;
+    font-size: 35px;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+    margin-top: 30px;
+    text-align: center;
+}
+ 
+.paraTitle-reading {
+    color: #FE753F;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px 0;
+    padding: 0;
+    text-align: center;
+}
+ 
+.paraInstruction-reading {
+    color: #5a0a8f;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+ 
+.paraTEXT-reading {
+    text-align: justify;
+    line-height: 1.5;
+ 
+ 
+}
+ 
+/* Fixed Header */
+.fixed-header-reading {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    /* margin-top: 60px; */
+    margin-bottom: 30px;
+    height: 70px;
+    background-color: #f1f1f1;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.5rem;
+}
+.questionNumber-reading{
+    color: #a41717;
+    font-size: 25px;
+    margin: 10px ;
+}
+ 
+/* Timer */
+.timer-reading p {
+    margin: 25px;
+    color: blue;
+    /* justify-content: center; */
+    display: flex;
+    justify-content: center;
+    /* Centers horizontally */
+    /* align-items: center; */
+}
+.timer-reading i{
+    font-size: 40px;
+    margin-right: 10px;
+}
+ 
+/* Submit Button */
+.submit-button-reading {
+    padding: 10px ;
+    background-color: #FE753F;
+    color: white;
+    border: none;
+    width: 120px;
+    height: 45px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+ 
+.submit-button-reading:disabled {
+    background-color: #5c5656;
+    cursor: not-allowed;
+}
+ 
+.loading-overlay-reading {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1200;
+}
+ 
+.loading-content-reading {
+    color: white !important;
+    text-align: center;
+}
+ 
+/* Fixed Footer */
+.swap-section-reading {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    background-color: #f1f1f1;
+    padding: 10px;
+    box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ 
+.reading-content {
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 0 !important;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+}
+ 
+/* Swap Buttons */
+.swap-part-reading button {
+    padding: 10px 20px;
+    background-color: #8808d2;
+    color: white;
+    margin: 0 5px;
+  border-radius: 5px;
+ 
+ border:none;
+    cursor: pointer;
+}
+ 
+.swap-part-reading button:hover {
+    background-color:#fe753f;
+}
+ 
+/* Layout Styles */
+.scrollable-content-reading {
+    display: flex;
+    height: calc(100vh - 140px);
+    /* max-height: 400px; */
+    overflow: auto !important;
+    /*  */
+    margin: 0;
+    /* Full height minus fixed header and footer */
+}
+ 
+.part-container-reading {
+    display: flex;
+    flex: 1;
+    /* Prevents unwanted overflow in the container */
+}
+ 
+.content-wrapper-reading {
+    display: flex;
+    flex: 1;
+ 
+}
+ 
+.paragraph-reading {
+    flex: 1;
+    margin-right: 20px;
+    color: #000;
+    margin-top: 50px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    overflow-y: auto !important;
+    /* Enable vertical scrolling */
+}
+ 
+.questions-reading {
+    flex: 1;
+    color: #000;
+    padding: 10px;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    margin-top: 50px;
+    /* Enable vertical scrolling */
+    overflow-y: auto;
+}
+ 
+ 
+.questionNumber {
+    color: #5a0a8f;
+}
+ 
+/* .questionInstruction {
+    font-weight: bolder;
+    font-size: 18px;
+    color: #a41717;
+} */
+ 
+/* Dropdown and Button Styling */
+select {
+    padding: 5px;
+    margin-right: 10px;
+}
+ 
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+ 
+/* Styling for Selected Option Text */
+p {
+    margin: 10px 0;
+    color: #333;
+}
+ 
+.question-reading {
+    background-color: white;
+    color: black;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 16px;
+    margin-bottom: 16px;
+}
+ 
+.question-reading label {
+    display: block;
+    margin-bottom: 8px;
+    cursor: pointer;
+}
+ 
+.question-reading input[type="text"],
+.question-reading select {
+    width: 40%;
+    padding: 8px;
+    margin-top: 8px;
+    border: 1px solid #ccc;
+    color: #000;
+    background-color: #fff;
+}
+ 
+input[type="radio"],
+input[type="checkbox"] {
+    background-color: #fff;
+    border: 1px solid #000;
+    border-radius: 5px;
+    margin-right: 8px;
+}
+ 
+/* Prevent Redline */
+input[type="text"] {
+    outline: none;
+    border: 1px solid #ccc;
+}
+ 
+input[type="text"]::placeholder {
+    color: transparent;
+}
+ 
+textarea {
+    outline: none;
+    border: 1px solid #ccc;
+}
+ 
+textarea::placeholder {
+    color: transparent;
+}
+ 
+ 
+ 
+.fullscreen-overlay-reading {
+    background-color: #FFF;
+    display: block;
+    margin-top: 40px;
+}
+ 
+/* Instructions Styles */
+.instructions-wrapper-reading {
+    display: flex;
+    justify-content: center;
+ 
+    gap: 50px;
+    margin: 10px 50px;
+    height: auto;
+    width: auto;
+}
+ 
+.instructions-wrapper-reading::-webkit-scrollbar {
+    display: block;
+    /* For Chrome, Safari, and Opera */
+}
+ 
+ 
+ 
+.instructions-container-reading,
+.video-tab-instructions-reading {
+  background-color: #ffcf68;
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);;
+    margin: 30px 0;
+    max-height: 100vh;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    max-width: 50%;
+  border: 2px solid #000;
+    border-radius: 10px;
+ 
+ 
+ 
+ 
+ 
+}
+ 
+ 
+.instructions-container-reading h2,
+.video-tab-instructions-reading h2 {
+    font-size: 28px;
+    color: #801bd8;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+ 
+.instructions-container-reading p,
+.instructions-container-reading h3,
+.video-tab-instructions-reading p {
+    font-size: 16px;
+    color: #000;
+    margin-bottom: 5px;
+}
+.instructions-container-reading h3
+{
+    color:#fff;
+    font-size: 19px;
+    font-weight: bold;
+    margin: 15px 0;
+}
+ 
+.instructions-container-reading h4,
+.video-tab-instructions-reading h4 {
+    text-align: center;
+    color: #a41717;
+    font-size: 20px;
+    font-weight: bold;
+}
+ 
+ 
+ 
+ol {
+    padding-left: 20px;
+    margin: 20px 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    text-align: justify;
+}
+ 
+ol li strong {
+    color: #fff;
+    font-size: 1.1em;
+    margin: 10px;
+}
+ 
+.spinner-reading {
+    border: 4px solid rgba(255, 255, 255, 0.3);
+    border-radius: 50%;
+    border-top: 4px solid #fff;
+    width: 40px;
+    margin-left: 80px;
+    height: 40px;
+    animation: spin 1s linear infinite;
+}
+ 
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+ 
+    100% {
+        transform: rotate(360deg);
+    }
+}
+.start-button-reading {
+    background-color: #ece5e3;
+    color: #000;
+    border: 2px solid #000;
+    width: 200px;
+    font-weight: bold;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 50px;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+    align-self: center  !important;
+    justify-content: center !important;
+   
+ 
+}
+ 
+.start-button-reading:hover {
+    background-color: #7d22e6;
+    filter: drop-shadow(0 0 10px #b35f00);
+border: 2px solid #fff;
+color: #fff;
+}
+ 
+/* Custom Scrollbar for Chrome, Edge, Safari */
+::-webkit-scrollbar {
+    width: 8px; /* Width of the scrollbar */
+   
+  }
+ 
+  ::-webkit-scrollbar-track {
+    background-color: #f1f1f1; /* Background color of the scrollbar track */
+    border-radius: 8px; /* Round edges on track */
+   
+  }
+ 
+  ::-webkit-scrollbar-thumb {
+    background-color: rgb(223, 223, 223); /* Color of the scrollbar thumb */
+    border: 1px solid rgb(255, 255, 255); /* Border around the thumb */
+    background-clip: padding-box; /* Ensures the thumb background fits within the padding */
+    border-radius: 6px; /* Rounded corners for the scrollbar thumb */
+  }
+ 
+  ::-webkit-scrollbar-thumb:hover {
+    background-color: rgb(200, 200, 200); /* Darken on hover for a better UI feel */
+  }
+ 
+  /* Firefox Support */
+  * {
+    scrollbar-width: thin; /* Makes the scrollbar thinner */
+    scrollbar-color: rgb(223, 223, 223) #f1f1f1; /* Scrollbar thumb and track colors */
+    /* scrollbar-border-radius: 6px;  */
+  }
+ 
+ 
+ 
+ 
+ 
+/* Media Queries */
+@media (max-width: 1200px) {
+    .fixed-header-reading {
+        height: 95px;
+    }
+ 
+    .swap-section-reading {
+        height: 70px;
+    }
+ 
+    .scrollable-content-reading {
+        margin: 0px;
+    }
+ 
+    .submit-button-reading {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: white;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+}
+ 
+@media (max-width: 992px) {
+    .timer-reading p {
+        margin: 15px;
+        color: blue;
+        text-align: center;
+        align-items: center;
+    }
+ 
+    .paraNumber-reading {
+        font-size: 30px;
+    }
+ 
+    .paraTitle-reading {
+        font-size: 18px;
+    }
+ 
+    .paraInstruction-reading {
+        font-size: 16px;
+    }
+ 
+    .instructions-wrapper-reading {
+        flex-direction: column;
+        gap: 20px;
+        margin: 10px 20px;
+    }
+ 
+    .instructions-container-reading,
+    .video-tab-instructions-reading {
+        max-width: 100%;
+        padding: 15px;
+        margin: 0 30px !important;
+ 
+    }
+ 
+    .fixed-header-reading {
+        height: 80px;
+        padding: 8px;
+    }
+ 
+    .swap-section-reading {
+        height: 60px;
+        padding: 8px;
+    }
+ 
+    .paragraph-reading,
+    .questions-reading {
+        margin-right: 10px;
+    }
+ 
+    .question-reading input[type="text"],
+    .question-reading select {
+        width: 60%;
+    }
+ 
+    .start-button-reading {
+        width: 120px;
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+    .questionNumber-reading{
+        color: #a41717;
+    }
+}
+ 
+@media (max-width: 768px) {
+ 
+ 
+    .reading-test {
+        width: 100%;
+        height: auto;
+    }
+    .instructions-container-reading,
+    .video-tab-instructions-reading{
+        margin: 30px;
+    }
+ 
+    .reading-content {
+        height: auto;
+    }
+ 
+    .fixed-header-reading {
+        flex-direction: row;
+        align-items: flex-start;
+    }
+ 
+    .submit-button-reading {
+        width: 25%;
+        background-color: #FE753F;
+        /* margin-top: 10px; */
+    }
+ 
+    .scrollable-content-reading {
+        flex-direction: column;
+    }
+ 
+    .paragraph-reading,
+    .questions-reading {
+        width: 100%;
+        margin-right: 0;
+    }
+ 
+    .swap-section-reading {
+        flex-direction: row;
+        align-items: center;
+    }
+ 
+    .swap-part-reading button {
+        width: 100%;
+        margin-bottom: 5px;
+    }
+ 
+    .timer-reading p {
+        margin: 15px 0;
+        color: blue;
+        text-align: center;
+        align-items: center;
+    }
+ 
+    .paraNumber-reading {
+        font-size: 25px;
+    }
+ 
+    .paraTitle-reading {
+        font-size: 16px;
+    }
+ 
+    .paraInstruction-reading {
+        font-size: 14px;
+    }
+ 
+    .scrollable-content-reading {
+        margin: 0;
+    }
+ 
+    .paragraph-reading,
+    .questions-reading {
+        margin-right: 0;
+    }
+ 
+    .question-reading input[type="text"] {
+        width: 80%;
+    }
+ 
+    .question-reading select {
+        width: 55%;
+    }
+ 
+    .instructions-wrapper-reading {
+        gap: 10px;
+        margin: 5px;
+    }
+ 
+    .instructions-container-reading,
+    .video-tab-instructions-reading {
+        padding: 10px;
+    }
+ 
+    .start-button-reading {
+        width: 100px;
+        font-size: 12px;
+    }
+    .questionNumber-reading{
+        color: #a41717;
+    }
+}
+ 
+@media (max-width: 576px) {
+    .submit-button-reading {
+        padding: 10px 10px;
+        background-color: #FE753F;
+        color: white;
+        font-size: 15px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        margin: 8px !important;
+    }
+ 
+    .fullscreen-overlay-reading {
+        display: block;
+    }
+ 
+ 
+ 
+    .paraNumber-reading {
+ 
+        font-size: 20px;
+    }
+ 
+    .paraTitle-reading {
+        font-size: 14px;
+    }
+ 
+    .paraInstruction-reading {
+        font-size: 12px;
+    }
+ 
+    .scrollable-content-reading {
+        margin: 0 20px;
+    }
+ 
+    .instructions-wrapper-reading {
+        flex-direction: column;
+        gap: 10px;
+        margin:  5px;
+    }
+ 
+    .instructions-container-reading,
+    .video-tab-instructions-reading {
+        padding: 10px 30px;
+ 
+    }
+ 
+    .instructions-container-reading {
+        /* display: block; */
+        padding: left;
+        margin: 20px 0;
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+ 
+    }
+ 
+    .start-button-reading {
+        width: 130px;
+        font-size: 10px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+ 
+    }
+ 
+    .timer-reading p {
+        margin: 10px  0!important;
+        color: blue;
+        font-size: 20px !important;
+        text-align: center;
+        align-items: center;
+    }
+    .timer-reading i{
+        font-size: 30px;
+       
+    }
+    .questionNumber-reading{
+        color: #a41717;
+    }
+}
+ 
+ 
+/* Responsive Styles */
+@media (max-width: 1200px) {
+    .reading-test {
+        width: 100%;
+        height: 100vh;
+    }
+ 
+    .content-wrapper-reading {
+        flex-direction: column;
+    }
+ 
+    .paragraph-reading,
+    .questions-reading {
+        flex: 1;
+        margin-right: 0;
+        border: none;
+    }
+ 
+ 
+ 
+}

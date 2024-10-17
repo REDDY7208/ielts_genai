@@ -1,0 +1,439 @@
+[
+  
+  {
+  
+    
+  
+  "test_id": "test_02",
+  "essay_no": "para_001",
+  "paragraph_title": "AUSTRALIA’S PLATYPUS",
+  "paragraph_text": "AUSTRALIA’S PLATYPUS Of all the creatures on the earth, the Australian platypus, Omithorbynchusparadoxus, is perhaps one of the most mysterious and reclusive. Derived from the Latin platys meaning ‘flat and broad’ and pous meaning ‘foot’, the platypus has long been an iconic symbol of Australia. Upon being discovered in Australia in the 1700s, sketches of this unusual creature were made and sent back to England whereupon they were considered by experts to be a hoax. Indeed, the incredible collection of its body parts – broad, flat tail, rubbery snout, webbed feet and short dense fur – make it one of the world’s most unusual animals. Officially classified as a mammal, the egg-laying platypus is mostly active during the night, a nocturnal animal. As if this combination of characteristics and behaviours were not unusual enough, the platypus is the only Australian mammal known to be venomous. The male platypus has a sharply pointed, moveable spur on its hind foot which delivers a poison capable of killing smaller animals and causing severe pain to humans.\n\n The spur – about 2 centimetres in length – is quite similar to the fang of a snake and, if provoked, is used as a means of defence. Those who have been stung by a platypus’ spur report an immediate swelling around the wound followed by increased swelling throughout the affected limb. Excruciating, almost paralysing pain in the affected area accompanies the sting which, in some victims has been known to last for a period of months. One report from a victim who was stung in the palm of the hand states that “…the spur could not be pulled out of the hand until the platypus was killed.” During the breeding season, the amount of venom in the male platypus increases. This has led some zoologists to theorise that the poisonous spur is primarily for asserting dominance amongst fellow-males. To be stung by a male platypus is a rare event with only a very small number of people being on the receiving end of this most reclusive creature. In the same area of the hind foot where the male has the poisonous spur, the female platypus only develops two buds which drop off in their first year of life never to appear again. The female platypus produces a clutch of one to three eggs in late winter or spring, incubating them in an underground burrow.\n\n The eggs are 15-18 millimetres long and have a whitish, papery shell like those of lizards and snakes. The mother is believed to keep the eggs warm by placing them between her lower belly and curled-up tail for a period of about 10 or 11 days as she rests in an underground nest made of leaves or other vegetation collected from the water. The baby platypus drinks a rich milk which is secreted from two round patches of skin midway along the mother’s belly. It is believed that a baby platypus feeds by slurping up milk with rhythmic sweeps of its stubby bill. When the juveniles first enter the water at the age of about four months, they are nearly (80-90%) as long as an adult. Male platypus do not help to raise the young. In Australia, the platypus is officially classified as ‘Common but Vulnerable’. As a species, it is not currently considered to be endangered. However, platypus populations are believed to have declined or disappeared in many catchments, particularly in urban and agricultural landscapes. In most cases, the specific underlying reasons for the reduction in numbers remain unknown.\n\n Platypus surveys have only been carried out in a few catchments in eastern Australia. It is therefore impossible to provide an accurate estimate of the total number of platypus remaining in the wild. Based on recent studies, the average platypus population density along relatively good quality streams in the foothills of Victoria’s Great Dividing Range is only around one to two animals per kilometre of channel. Because platypus are predators near the top of the food chain and require large amounts of food to survive (up to about 30% of a given animal’s body weight each day), it is believed that their numbers are most often limited by the availability of food, mainly in the form of bottom-dwelling aquatic invertebrates such as shrimps, worms, yabbies, pea-shell mussels, and immature and adult aquatic insects.\n\n Small frogs and fish eggs are also eaten occasionally, along with some terrestrial insects that fall into the water from overhanging vegetation. Until the early twentieth century, platypus were widely killed for their fur. The species is now protected by law throughout Australia. Platypus are wild animals with specialised living requirements. It is illegal for members of the public to keep them in captivity. A platypus which has been accidentally captured along a stream or found wandering in an unusual place should never be taken home and treated as a pet, even for a brief time. The animal will not survive the experience. Only a small number of Australian zoos and universities hold a permit to maintain platypus in captivity for legitimate display or research purposes. Current Australian government policy does not allow this species to be taken overseas for any reason.",
+  "instructions": {
+      "main_head_001": "Questions 1-5 Do the following statements reflect the claims of the writer? In boxes 1-5 on your answer sheet, write YES. if the statement agrees with the views of the writer NO. if the statement contradicts the views of the writer NOT GIVEN. if it is impossible to say what the writer thinks about this",
+      "main_head_002": "Questions 6-9 Complete the summary. Choose NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 6-9 on your answer sheet. Male and Female Platypus",
+      "main_head_003": "Questions 10-13 Complete the sentences below with words taken from Reading Passage 1. Use NO MORE THAN THREE WORDS for each answer. Write your answers in boxes 10-13 on your answer sheet."
+    },
+    "questions":[
+      {
+        "id": 1,
+        "type": "dropdown",
+        "text": "<strong>Questions 1-5 Do the following statements reflect the claims of the writer?write YES. if the statement agrees with the views of the writer NO. if the statement contradicts the views of the writer NOT GIVEN. if it is impossible to say what the writer thinks about this</strong><br><br><b>1. The appearance of the platypus caused experts to doubt it was  real.</b>",
+        "options": ["YES", "NO", "NOT GIVEN"],
+        "correct_answer": "YES",
+        "passage_id": "para_001",
+        "test_id": "test_02",
+        "marks": 1
+      },
+      {
+        "id": 2,
+        "type": "dropdown",
+        "text": "<b>2. The amount of venom in a male platypus changes during the year.</b>",
+        "options": ["YES", "NO", "NOT GIVEN"],
+        "correct_answer": "YES",
+        "passage_id": "para_001",
+        "test_id": "test_02",
+        "marks": 1
+      },
+      {
+        "id": 3,
+        "type": "dropdown",
+        "text": "<b>3. Most platypus live in Eastern Australia.</b>",
+        "options": ["YES", "NO", "NOT GIVEN"],
+        "correct_answer": "NOT GIVEN",
+        "passage_id": "para_001",
+        "test_id": "test_02",
+        "marks": 1
+      },
+      {
+        "id": 4,
+        "type": "dropdown",
+        "text": "<b>4. Snake venom and platypus venom are very similar.</b>",
+        "options": ["YES", "NO", "NOT GIVEN"],
+        "correct_answer": "NOT GIVEN",
+        "passage_id": "para_001",
+        "test_id": "test_02",
+        "marks": 1
+      },
+      {
+        "id": 5,
+        "type": "dropdown",
+        "text": "<b>5. Because their environment is specialised, platypus cannot be kept as pets.</b>",
+        "options": ["YES", "NO", "NOT GIVEN"],
+        "correct_answer": "YES",
+        "passage_id": "para_001",
+        "test_id": "test_02",
+        "marks": 1
+      },
+      {
+        "id": 6,
+        "type": "fill_in_the_blanks",
+        "text": "<strong>Questions 6-9 Complete the summary. Choose NO MORE THAN THREE WORDS from the passage for each answer.</strong><br><br><b>6. Platypus are unique Australian animals. Although all platypus share many similarities, the male and female are somewhat different from each other. For example, on the hind feet, the male has a ____________</b>",
+        "options": [],
+        "correct_answer": "poisonous spur",
+        "passage_id": "para_001",
+        "test_id": "test_02",
+        "marks": 1
+      },
+      {
+        "id": 7,
+        "type": "fill_in_the_blanks",
+        "text": "<b>7. while the young female has _________</b>",
+        "options": [],
+        "correct_answer": "buds",
+        "passage_id": "para_001",
+        "test_id": "test_02",
+        "marks": 1
+      },
+      {
+        "id": 8,
+        "type": "fill_in_the_blanks",
+        "text": "<b>8. In the _________ the mother keeps her eggs warm and, once born,</b>",
+        "options": [],
+        "correct_answer": "underground burrow",
+        "passage_id": "para_001",
+        "test_id": "test_02",
+        "marks": 1
+      },
+      {
+        "id": 9,
+        "type": "fill_in_the_blanks",
+        "text": "<b>9.supplies her _________. On the other hand, the male platypus does not help raise the young at all.</b>",
+        "options": [],
+        "correct_answer": "milk",
+        "passage_id": "para_001",
+        "test_id": "test_02",
+        "marks": 1
+      },
+      {
+        "id": 10,
+        "type": "fill_in_the_blanks",
+        "text": "<strong>Questions 10-13 Complete the sentences below with words taken from Reading Passage 1. Use NO MORE THAN THREE WORDS for each answer.</strong><br><br><b>10. Even though the platypus is not endangered, it is considered __________</b>",
+        "options": [],
+        "correct_answer": "Common but Vulnerable",
+        "passage_id": "para_001",
+        "test_id": "test_02",
+        "marks": 1
+      },
+      {
+        "id": 11,
+        "type": "fill_in_the_blanks",
+        "text": "<b>11. Platypus numbers in __________ areas have declined in many catchments.</b>",
+        "options": [],
+        "correct_answer": "urban and agricultural",
+        "passage_id": "para_001",
+        "test_id": "test_02",
+        "marks": 1
+      },
+      {
+        "id": 12,
+        "type": "fill_in_the_blanks",
+        "text": "<b>12. Platypus numbers are low which is probably due to a lack of _______</b>",
+        "options": [],
+        "correct_answer": "food availability",
+        "passage_id": "para_001",
+        "test_id": "test_02",
+        "marks": 1
+      },
+      {
+        "id": 13,
+        "type": "fill_in_the_blanks",
+        "text": "<b>13. Platypus captivity for research and study purposes requires a ________</b>",
+        "options": [],
+        "correct_answer": "government permit",
+        "passage_id": "para_001",
+        "test_id": "test_02",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    
+    "test_id": "test_02",
+  "essay_no": "para_002",
+    "paragraph_title": "Creature sleeps",
+    "paragraph_text": " A. Almost every living creature sleeps. For humans, it is typically something we dislike doing when we are younger and, as we age, something we increasingly look forward to at the end of each day. On the one hand, it is something that we absolutely need to sustain our life and on the other, we tend to feel guilty if we spend more time in bed than we should. Sleep researcher Professor Stanley Limpton believes that 7 hours – the average amount of sleep most people get per night – is not enough. Limpton points out that the average person is now getting 2 hours less sleep than those who lived 100 years ago and contends that this lack of sleep is one of the main reasons so many people are often clumsy, unhappy, irritable and agitated. Other scientists share Limpton’s thinking. Many other researchers feel that we are not getting enough sleep and the negative impacts are being regularly felt around the world in the workplace and in the home.\n\n B. The first experiments in recorded scientific history on the effects of people not getting enough sleep took place in the late 1800s. According to records, three volunteers were deprived of sleep for a total of 90 hours. Later on, in 1920 more experiments in sleep deprivation were conducted by scientists where several people were deprived of sleep for a period of 60 hours. The results of many sleep deprivation experiments have been recorded and conducted by American ‘sleep scientist’ Nathaniel Kleitman. Often referred to as ‘the father of modern sleep research’, Kleitman’s work has formed the foundation for many areas of current sleep research. In one experiment, Kleitman examined thirty five volunteers who had been awake for 60 hours and also conducted an experiment on himself, remaining awake for a total of 100 hours. It was revealed that people who are sleep-deprived for periods of more than 60 hours try to fall asleep in any environment and show- signs of mental disturbances, visions and hallucinations. As the length of sleep deprivation increases, so too does the mental decline in an individual. Having studied a group of 3 sleep deprived people, sleep researcher Dr. Tim Oswald, concluded that chronic sleep deprivation often leads to drastic consequences. Oswald’s experiments reinstated the necessity of sleep for proper human functioning.\n\nC. Studies of sleep patterns in some of the more remote areas of the world have also been a subject of interest amongst sleep researchers. It is well-known that during the summer months in both the Arctic and Antarctic Circles the phenomenon known as the midnight sun occurs. Given fair weather conditions, the sun is visible for a continuous 24 hours. One summer, Dr. Peter Suedfeld traveled to the Arctic and conducted a series of research projects. All participants were required to get rid of all clocks, watches and any other timekeeping devices and conduct work and sleep according to their own ‘body dock’. Those involved in the experiment were required to note down when they- had a nap and when they actually went to bed. The results were that most people slept around 10 hours per day and all participants reported feeling completely invigorated and refreshed.\n\n D. The affect of sleep interruptions have also been a focal point of some sleep research. In urban societies, traffic and aircraft noise are often referred to as ‘the bane of urban existence’. Tom Grimstead took people who were classified as ‘good sleepers’ from quiet neighbourhoods and introduced into their bedrooms and night the noise equivalents of a major urban road. An actimeter – a device which measures the amount of movement in sleep – was used to gauge the quality of the participant’s sleep. The participants emerged from the experiment in a depressed-like state after four days. Grimstead reported that participants had depression and mood scores similar to people with clinical depression…a reduction in certain performance tasks was also noted’.\n\n E. Another area of interest in the field of sleep study involves such famous people as Thomas Edison and Winston Churchill who, reportedly, were known to be and have been classified as short sleepers. A short sleeper is one who claims to be able to get by with only 4 or 5 hours of sleep per night. Dr David Joske. secretary’ of the British Sleep Association believes that ‘genetically short sleepers may have some natural resistance to the effects of sleep deprivation but it is not entirely certain why some people seem to require more and others less՝. Determining what makes up the differences between short and long sleepers has been difficult for researchers. Says Joske, ‘When we brought long and short sleepers into controlled environments which were dark and soundproof we found that all participants slept between nine and ten hours, which seemed to preclude the short sleeper category.’\n\n F. A study in Norway was undertaken on a number of bus drivers. They were hooked up to various computers which monitored their states of being awake. The study revealed that bus drivers were asleep for as much as 25% of the time they were driving the bus. What the drivers w ere having was a series of ‘micro-­sleeps’ – short periods of time of 10 to 20 seconds where they would be classified as being asleep. In the micro-sleep state, the individual may appear awake, even with their eyes open but in fact they are actually sleeping.",
+    "instructions": {
+      "main_head_001": "Questions 14-18 Reading Passage 2 has 6 paragraphs, A-F. Choose the correct heading for each paragraph from the list of headings below. Write the correct number i-ix in boxes 14-18 on your answer sheet. List of Headings i. Research into short periods of sleep ii. Famous people, short sleepers iii. Measuring sleep movement iv. Sleep experiments over the past century v. Monitoring the effects of sleep deprivation vi. Antarctic and Arctic sleep means quality sleep vii. Challenging research in reduced normal sleeping hours viii. Are we getting enough sleep? ix. The impact of noise on sleep x. Sleep experiments in an isolated area",
+      "main_head_002": "Questions 19-23 Look at the following list of statements (Questions 19-23) and the list of people below. Match each statement with the correct company. Write the correct letter A-D in boxes 19-23 on your answer sheet. NB You may use any letter more than once. List of Researchers A.David Joske B.Stanley Limpton C.Tim Oswald D.Dr. Peter Suedfeld",
+      "main_head_003": "Questions 24-25 Choose TWO letters A-F. Write your answers in boxes 24-25 on your answer sheet.The list below lists some health issues associated with lack of sleep.",
+      "main_head_004":"Question 26 Choose the correct letter, A-E Write the correct letter in box 26 on your answer sheet."
+    },
+    "questions":[
+      {
+        "id": 14,
+        "type": "dropdown",
+        "text": "<strong>Questions 14-18 Reading Passage 2 has 6 paragraphs, A-F. Choose the correct heading for each paragraph from the list of headings below.<br>List of Headings<br> i. Research into short periods of sleep <br>ii. Famous people, short sleepers <br>iii. Measuring sleep movement <br>iv. Sleep experiments over the past century <br> v. Monitoring the effects of sleep deprivation<br> vi. Antarctic and Arctic sleep means quality sleep <br>vii. Challenging research in reduced normal sleeping hours <br> viii. Are we getting enough sleep? <br> ix. The impact of noise on sleep<br> x. Sleep experiments in an isolated area</strong><br><br><b>14. Paragraph B</b>",
+        "options": ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x"],
+        "correct_answer": "iv",
+        "passage_id": "para_002",
+        "test_id": "test_02",
+        "marks": 1
+      },
+      {
+        "id": 15,
+        "type": "dropdown",
+        "text": "<b>15. Paragraph C </b>",
+        "options": ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x"],
+        "correct_answer": "x",
+        "passage_id": "para_002",
+        "test_id": "test_02",
+        "marks": 1
+      },
+      {
+        "id": 16,
+        "type": "dropdown",
+        "text": "<b>16. Paragraph D</b>",
+        "options": ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x"],
+        "correct_answer": "ix",
+        "passage_id": "para_002",
+        "test_id": "test_02",
+        "marks": 1
+      },
+      {
+        "id": 17,
+        "type": "dropdown",
+        "text": "<b>17. Paragraph E</b>",
+        "options": ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x"],
+        "correct_answer": "ii",
+        "passage_id": "para_002",
+        "test_id": "test_02",
+        "marks": 1
+      },
+      {
+        "id": 18,
+        "type": "dropdown",
+        "text": "<b>18. Paragraph F</b>",
+        "options": ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x"],
+        "correct_answer": "v",
+        "passage_id": "para_002",
+        "test_id": "test_02",
+        "marks": 1
+      },
+      {
+        "id": 19,
+        "type": "dropdown",
+        "text": "<strong> Look at the following list of statements (Questions 19-23) and the list of people below. Match each statement with the correct company.  You may use any letter more than once.<br> List of Researchers <br> A. David Joske<br> B. Stanley Limpton <br> C. Tim Oswald <br>D. Dr.Peter Suedfeld</strong><br><br><b>19. People need to increase their average amount of sleep.</b>",
+        "options": ["A", "B", "C", "D"],
+        "correct_answer": "B",
+        "passage_id": "para_002",
+        "test_id": "test_02",
+        "marks": 1
+      },
+      {
+        "id": 20,
+        "type": "dropdown",
+        "text": "<b>20. Extended periods of no sleep causes serious health problems.</b>",
+        "options": ["A", "B", "C", "D"],
+        "correct_answer": "C",
+        "passage_id": "para_002",
+        "test_id": "test_02",
+        "marks": 1
+      },
+      {
+        "id": 21,
+        "type": "dropdown",
+        "text": "<b>21. Some need more sleep and others seem to get by with less sleep.</b>",
+        "options": ["A", "B", "C", "D"],
+        "correct_answer": "A",
+        "passage_id": "para_002",
+        "test_id": "test_02",
+        "marks": 1
+      },
+      {
+        "id": 22,
+        "type": "dropdown",
+        "text": "<b>22. The quality of sleep can be measured by an individual’s sleep activity.</b>",
+        "options": ["A", "B", "C", "D"],
+        "correct_answer": "D",
+        "passage_id": "para_002",
+        "test_id": "test_02",
+        "marks": 1
+      },
+      {
+        "id": 23,
+        "type": "dropdown",
+        "text": "<b>23. Most people need to sleep the same number of hours.</b>",
+        "options": ["A", "B", "C", "D"],
+        "correct_answer": "A",
+        "passage_id": "para_002",
+        "test_id": "test_02",
+        "marks": 1
+      },
+      {
+        "id": 24,
+        "type": "checkbox",
+        "text": "<strong>Questions 24-25 Choose TWO letters A-F. The list below lists some health issues associated with lack of sleep.</strong><br><br><b>  Which TWO of these health issues are mentioned by the writer?",
+        "options": ["A heart problems", "B nervous disorders", "C dizziness", "D depression", "E problems with mental state", "F increased blood pressure"],
+        "correct_answer": ["D depression", "E problems with mental state"],
+        "passage_id": "para_002",
+        "test_id": "test_02",
+        "marks": 2
+      },
+      {
+        "id": 25,
+        "type": "true_false_not_given",
+        "text": "<strong> Question 26 Choose the correct letter, A-E </strong><br><br><b>26.Which of the following is the most suitable title for Reading Passage 2?",
+        "options": ["A heart problems", "B nervous disorders", "C dizziness", "D depression", "E problems with mental state", "F increased blood pressure"],
+        "correct_answer": ["D. depression", "E. problems with mental state"],
+        "passage_id": "para_002",
+        "test_id": "test_02",
+        "marks": 1
+      }
+    ]
+  },
+  { 
+    
+    "test_id": "test_02",
+    "essay_no": "para_003",
+    "paragraph_title": "THE SEARCH FOR FRESH WATER",
+    "paragraph_text": "The assertion that water has always been the essence of life is nothing new. Water comes in many forms: spring water, sea and river water, rainwater, and fog and dew water. Yet water is becoming scarce and this scarcity is becoming a very real worry for governments all around the world. The reality is that one of the main obstacles to the economic development of a particular country is its lack of an adequate supply of fresh water. Current figures show that an inhabitant of a wealthy, modern town consumes 100-400 litres of water daily. In some developing countries the amount of water consumed does not exceed 20-30 litres per day. Rich or poor, annual water consumption has continued to grow, increasing fourfold over the last 50 years. \n\n The world’s fresh water supplies are drawn from a number of sources. The largest cache of the estimated 35 million km3 fresh water reserve is located in glaciers and snow. The amount contained in these ‘storehouses’ has been estimated to be around 24 million km3. Ground water is also a big contributor to the world’s fresh water supplies amounting to an estimated 10.5 million km3. Considering that the total volume of water, salt and fresh, is estimated to be around 400 million km3 it can be clearly seen that the amount of fresh water available in the world is only the proverbial ‘drop in the bucket՝. Artesian wells, rivers and lakes only account for about 0.1 and 0.5 million km3 respectively, all of which include atmospheric precipitation such as rain and snow.\n\n Since water is such an important commodity, various attempts to acquire stores of it have been tried with varying degrees of success. The question of what are the alternative water sources available to us today is not an easy one to answer but is certainly worthy of our best efforts to find one. One such area of interest has been desalination – the turning of salt water into drinkable water. As there is much more salt water on the earth than dry land, the idea of using desalinated seawater seems a logical one. However, some estimates put the annual quantity of desalinated water at only around ten cubic kilometres – a tiny amount given the amount of sea water available. In parts of Senegal, for example, the greenhouse effect has been one way to desalinate seawater whereby the salt in the water is separated from the water through a process of evaporation. As part of the process, water vapour forms on large panes of glass at outside air temperature and is transported via gravity into drums. This method yields only a few cubic meters per day of fresh water but is surprisingly energy efficient. In larger scale production however, the energy efficiency plummets. The best systems bum at least a tonne of fossil fuel to produce approximately one hundred cubic metres of fresh water. This amounts to almost $ 1 per cubic metre – a considerable cost.\n\n Although there are several different areas from which water can be sourced, paradoxically the most extensive are the most difficult to tap. The atmosphere, for example, contains vast amounts of fresh water composed of 2% condensed water in the form of clouds and 98% water vapour. The vastness of this water source is comparable to the renewable liquid water resources of all inhabited lands. The amounts are easy to calculate, but being able and knowing how to economically obtain this water in liquid form is most challenging. One approach in drawing water from the atmosphere is fog nets. Places such as the coastal desens of West Africa and areas of Chile and Peru have favourable condensation conditions. In these areas, ocean humidity condenses in the form of fog on the mid-range mountains (over 500m). This fog composed of droplets of suspended water can be collected in nets. In the 1960s, a University in Northern Chile conducted the first major experiments with fog nets. Drawing on the knowledge gained from these experiments, further testing was done which culminated in one village using fog nets to yield a healthy daily average of 11,000 litres of water. On a smaller scale, fog-collecting nets have recently been used in the Canary Islands and Namibia.\n\n Unfortunately, due to its need for a combination of several factors, fog is not readily available. Dew however appears far more frequently and is less subject to the constraints of climate and geography. In order for dew to form there needs to be some humidity in the air and a reasonably clear sky. Many hot areas of countries that suffer from a lack of water such as the Sahel region of Northern Africa for example, experience significant quantities of dew. When the temperature is lowered over a short space of time by ten degrees or so, the water-harvesting possibilities from the air yield an amazing ten grams of water from each cubic meter of air – significant drops in air temperature make for greater yields. Unlike fog, dew formation can occur even in a relatively dry atmosphere, such as a desert. All it takes is for the right mix of temperatures between the earth and the air to combine and dew formation occurs.",
+    "instructions": {
+      "main_head_001": "Questions 27-29 Choose the correct letter, A, B. C or D Write your answers in boxes 27-29 on your answer sheet.",
+      "main_head_002":  "Questions 30-34 Complete each sentence with the correct ending A-F from the box below. Write the correct letter A-F in boxes 30-34 on your answer sheet. A.is quite popular due to it not being too affected by temperature and location. B.is being tried via an evaporation process. C.is not energy efficient. D.is best for poorer countries. E.is made up of both clouds and water vapour. F.is increased when temperatures fall rapidly.",
+      "main_head_003": "Questions 35-40 Do the following statements agree with the information given in Reading Passage 3? In boxes 35-40 on your answer sheet, write TRUE. if the statement agrees with the information FALSE. if the statement contradicts the information NOT GIVEN. If there is no information on this"
+    
+    },
+    "questions": [
+      {
+        "id": 26,
+        "type": "true_false_not_given",
+        "text": "<strong>Questions 27-29  Choose the correct letter, A, B. C or D</strong><br><br><b>27. As a method of obtaining fresh water, fog</b>",
+        "options": ["A forms best when the air is dry","B is easier to collect than dew","C is being tried in a large-scale way in Senegal","D is not easy to collect"],
+        "correct_answer": "D is not easy to collect",
+        "passage_id": "para_003",
+        "test_id": "test_02",
+        "marks": 1
+      },
+      {
+        "id": 27,
+        "type": "true_false_not_given",
+        "text": "<b>28. Small-scale ‘greenhouse effect’ desalination</b>",
+        "options": ["A uses a considerable amount of energy.","B is the most effective way to obtain larger water reserves.","C uses very little energy.","D burns quite a lot of fossil fuel."],
+        "correct_answer": "C uses very little energy.",
+        "passage_id": "para_003",
+        "test_id": "test_02",
+        "marks": 1
+      },
+      {
+        "id": 28,
+        "type": "true_false_not_given",
+        "text": "<b>29. One of the largest stores of fresh water in the world is</b>",
+        "options": ["A rivers and lakes.","B atmospheric rain and snow.","C ground water.","D artesian wells"],
+        "correct_answer": "C ground water.",
+        "passage_id": "para_003",
+        "test_id": "test_02",
+        "marks": 1
+      },
+      {
+        "id": 29,
+        "type": "dropdown",
+        "text": "<strong>Questions 30-34 Complete each sentence with the correct ending A-F from the box below.<br> A. is quite popular due to it not being too affected by temperature and location.<br> B. is being tried via an evaporation process.<br> C. is not energy efficient. D.is best for poorer countries. <br>E. is made up of both clouds and water vapour. <br>F. is increased when temperatures fall rapidly.</strong><br><br><b>30.Turning salt water into drinking water</b>",
+        "options": ["A","B","C","D","E","F"],
+        "correct_answer": "B",
+        "passage_id": "para_003",
+        "test_id": "test_02",
+        "marks": 1
+      },
+      {
+        "id": 30,
+        "type": "dropdown",
+        "text": "<b>31. Large-scale fresh water production through evaporation</b>",
+        "options": ["A","B","C","D","E","F"],
+        "correct_answer": "C",
+        "passage_id": "para_003",
+        "test_id": "test_02",
+        "marks": 1
+      },
+      {
+        "id": 31,
+        "type": "dropdown",
+        "text": "<b>32. Water available in the atmosphere</b>",
+        "options": ["A","B","C","D","E","F"],
+        "correct_answer": "E",
+        "passage_id": "para_003",
+        "test_id": "test_02",
+        "marks": 1
+      },
+      {
+        "id": 32,
+        "type": "dropdown",
+        "text": "<b>33. The use of dew as a water source</b>",
+        "options": ["A","B","C","D","E","F"],
+        "correct_answer": "A",
+        "passage_id": "para_003",
+        "test_id": "test_02",
+        "marks": 1
+      },
+      {
+        "id": 33,
+        "type": "dropdown",
+        "text": "<b>34. The amount of water collected from dew</b>",
+        "options": ["A","B","C","D","E","F"],
+        "correct_answer": "F",
+        "passage_id": "para_003",
+        "test_id": "test_02",
+        "marks": 1
+      },
+      {
+        "id": 34,
+        "type": "dropdown",
+        "text": "<strong>Questions 35-40 Do the following statements agree with the information given in Reading Passage 3?write TRUE. if the statement agrees with the information FALSE. if the statement contradicts the information NOT GIVEN. If there is no information on this</strong><br><br><b>35. The amount of water consumed by wealthier countries is just as much as poorer countries.</b>",
+        "options": ["TRUE","FALSE","NOT GIVEN"],
+        "correct_answer": "FALSE",
+        "passage_id": "para_003",
+        "test_id": "test_02",
+        "marks": 1
+      },
+      {
+        "id": 35,
+        "type": "dropdown",
+        "text": "<b>36. Glaciers, rivers, artesian wells and ground water are all sources of fresh water.</b>",
+        "options": ["TRUE","FALSE","NOT GIVEN"],
+        "correct_answer": "TRUE",
+        "passage_id": "para_003",
+        "test_id": "test_02",
+        "marks": 1
+      },
+      {
+        "id": 36,
+        "type": "dropdown",
+        "text": "<b>37. Large bodies of water, such as the sea, have yielded the most fresh water.</b>",
+        "options": ["TRUE","FALSE","NOT GIVEN"],
+        "correct_answer": "FALSE",
+        "passage_id": "para_003",
+        "test_id": "test_02",
+        "marks": 1
+      },
+      {
+        "id": 37,
+        "type": "dropdown",
+        "text": "<b>38. The collection of water through the use of fog nets is becoming increasingly more popular around the world.</b>",
+        "options": ["TRUE","FALSE","NOT GIVEN"],
+        "correct_answer": "NOT GIVEN",
+        "passage_id": "para_003",
+        "test_id": "test_02",
+        "marks": 1
+      },
+      {
+        "id": 38,
+        "type": "dropdown",
+        "text": "<b>39. If the sky is cloudy, dew will not form.</b>",
+        "options": ["TRUE","FALSE","NOT GIVEN"],
+        "correct_answer": "TRUE",
+        "passage_id": "para_003",
+        "test_id": "test_02",
+        "marks": 1
+      },
+      {
+        "id": 39,
+        "type": "dropdown",
+        "text": "<b>40. Dew and fog are major sources of water in smaller villages and isolated areas.</b>",
+        "options": ["TRUE","FALSE","NOT GIVEN"],
+        "correct_answer": "TRUE",
+        "passage_id": "para_003",
+        "test_id": "test_02",
+        "marks": 1
+      }
+    ]   
+  }
+]

@@ -1,0 +1,246 @@
+/* General Navbar Styles */
+.navbar {
+  background: linear-gradient(135deg, #ebcb78, #e78d71, #514dc2); /* Gradient background */
+  color: #fff;
+  padding: 15px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: background 0.3s ease;
+  z-index: 1000;
+  bottom: 0px;
+}
+
+.navbar h1 {
+  font-size: 1.8rem;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+.navbar-links {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.navbar-link a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.1rem;
+
+  transition: color 0.3s ease, transform 0.3s ease;
+  font-family: 'Roboto', sans-serif;
+}
+
+.navbar-link a:hover, .mocktest-btn:hover, .mocktest-nav:hover {
+  color: #333;
+  transform: scale(1.1);
+  font-weight: bold;
+  filter: drop-shadow(0 0 10px #fffdef);
+ 
+}
+.mocktest-nav
+{
+  color: #fff;
+ 
+  padding: 10px ;
+
+  cursor: pointer;
+
+  font-size: 1.1rem;
+  transition: background 0.3s ease, color 0.3s ease;
+}
+.mocktest-btn {
+  background: #ffeb3b; /* Bright yellow button */
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 1rem;
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+.mocktest-btn:hover {
+  background: #fdd835;
+  color: #000;
+}
+
+.profile-icon-container {
+  position: relative;
+  cursor: pointer;
+}
+
+.profile-icon-container i {
+  font-size: 1.5rem;
+  color: #fff;
+}
+
+.profile-dropdown {
+  position: absolute;
+  top: 300%;
+  right: 0;
+  background: rgba(8, 214, 233, 0.8);
+  color: #0e0101;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  opacity: 0;
+  transform: translateY(-10px);
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  z-index: 100;
+}
+
+.profile-icon-container:hover .profile-dropdown {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.profile-dropdown p {
+  margin: 0;
+  padding: 10px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+ 
+}
+
+.profile-dropdown p:hover {
+  background: rgb(244, 228, 4);
+
+}
+
+.email-dropdown {
+  position: absolute;
+  top: 100%; /* Aligns it just below the profile icon */
+  left: -90%; /* Centers horizontally relative to the profile icon */
+  transform: translateX(-50%) translateY(10px); /* Centers it and adds space below */
+  background: rgb(242, 226, 4);
+  color: #0a0101;
+  padding: 5px;
+  border-radius: 5px;
+  opacity: 0;
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  z-index: 100;
+}
+
+.profile-icon-container:hover .email-dropdown {
+  opacity: 1;
+  transform: translateX(-50%) translateY(10px); /* Maintains centered and space below */
+}
+
+.email-dropdown p {
+  margin: 0;
+  padding: 5px;
+}
+
+/* Menu Toggle Icon */
+.navbar-menu-toggle {
+  display: none;
+  margin-right: 30px;
+
+}
+
+.navbar-menu-toggle i {
+  font-size: 1.5rem;
+  color: #fff;
+  cursor: pointer;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .navbar-links {
+    display: none;
+  }
+
+  .navbar-menu-toggle {
+    display: block;
+  }
+}
+
+.logoImage{
+ padding: 15px 60px;
+}
+
+
+/* Example CSS for sidebar */
+/* Hide the sidebar by default */
+.sidebar {
+display: none; /* Hide sidebar by default */
+position: absolute; /* Position sidebar absolutely */
+top: 60px; /* Adjust according to your navbar height */
+left: 0; /* Align to the left */
+/* Set width of sidebar */
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add shadow */
+text-align: end;
+
+z-index: 1000; /* Ensure it appears above other content */
+
+}
+.sidebar-link {
+color: #000;
+font-size: 18px;
+text-align: end;
+
+}
+.sidebar-link .link
+{
+text-decoration: none !important;
+color: #000;
+font-size: 20px;
+
+}
+.link:hover
+{
+color: #fff;
+}
+
+/* Show the sidebar when it's visible */
+.sidebar.visible {
+display: block; /* Show sidebar */
+}
+
+/* Hide menu toggle icon on larger screens */
+.navbar-menu-toggle {
+display: block; /* Show by default */
+}
+
+.mocktest-btnn {
+/* Bright yellow button */
+border: none;
+
+border-radius: 5px;
+
+color: #000;
+cursor: pointer;
+
+font-size: 20px;
+transition: background 0.3s ease, color 0.3s ease;
+}
+.mocktest-btnn :hover
+{
+color: #fff;
+}
+
+
+
+/* Use media query to hide the menu toggle on larger screens */
+@media (min-width: 800px) {
+.navbar-menu-toggle {
+  display:none; /* Hide menu toggle on larger screens */
+}
+
+.sidebar {
+  display: none; /* Hide sidebar on larger screens */
+}
+}
+
+/* Show sidebar links */
+
+
+/* Other styles */
+.sidebar-link:hover {
+background-color: #f0f0f0; /* Highlight on hover */
+}
+

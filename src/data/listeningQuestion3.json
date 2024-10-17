@@ -1,0 +1,391 @@
+{
+
+  "test_id": "test_03",
+  "sections": [
+    {
+      "part": "Section_01",
+      "paragraph_title": "Employment agency: Possible jobs",
+      "instructions": {
+        "main_head_001": "SECTION 1 - Questions 1-10 Complete the notes below. Write ONE WORD AND/OR A NUMBER.",
+        "main_head_002": ""
+      },
+      "questions": [
+        {
+          "id": 1,
+          "text": "<b>First job</b><br>• Administrative assistant in a company that produces (1) __________ (North London)",
+          "type": "fill_in_the_blanks",
+          "options": [],
+          "correct_answer": "furniture",
+          "marks": 1
+        },
+        {
+          "id": 2,
+          "text": "<b>Responsibilities</b> <br> • Data entry <br>• Go to <b> (2) ________ </b>.  and take notes <br>",
+          "type": "fill_in_the_blanks",
+          "options": [],
+          "correct_answer": "meetings",
+          "marks": 1
+        },
+        {
+          "id": 3,
+          "text": "• General admin <br>• Management of <b> (3) ________ </b>.",
+          "type": "fill_in_the_blanks",
+          "options": [],
+          "correct_answer": "diary",
+          "marks": 1
+        },
+      
+        {
+          "id": 4,
+          "text": "<b>Requirements</b> <br>• Good computer skills including spreadsheets <br> • Good interpersonal skills  • Attention to <b> (4) __________ </b>",
+          "type": "fill_in_the_blanks",
+          "options": [],
+          "correct_answer": ["detail","details"],
+          "marks": 1
+        },
+        {
+          "id": 5,
+          "text": "<b>Experience</b> <br> • Need a minimum of <b> (5) __________ </b>of experience of teleconferencing",
+          "type": "fill_in_the_blanks",
+          "options": [],
+          "correct_answer": [1,"one year"],
+          "marks": 1
+        },
+        {
+          "id": 6,
+          "text": "<b>Second job</b><br>Warehouse assistant in South London <br> <b>Responsibilities</b> <br> • Stock management <br>• Managing Managing <b> (6) __________ </b>",
+          "type": "fill_in_the_blanks",
+          "options": [],
+          "correct_answer": "deliveries",
+          "marks": 1
+        },
+        {
+          "id": 7,
+          "text": "<b>Requirements</b><br> • Ability to work with numbers<br> • Good computer skillsVery organized and <b>(7) __________</b><br>",
+          "type": "fill_in_the_blanks",
+          "options": [],
+          "correct_answer": "tidy",
+          "marks": 1
+        },
+        {
+          "id": 8,
+          "text": "• Good communication skills<br> • Used to working in a <b> (8) __________ </b> <br>",
+          "type": "fill_in_the_blanks",
+          "options": [],
+          "correct_answer": "team",
+          "marks": 1
+        },
+         {
+          "id": 9,
+          "text": "• Able to cope with items that are <b>(9) __________ </b>",
+          "type": "fill_in_the_blanks",
+          "options": [],
+          "correct_answer": "heavy",
+          "marks": 1
+        },
+       
+        {
+          "id": 10,
+          "text": "<b>Need experience of </b> <br> • Driving in London <br>• Warehouse work <br> • <b>(10) __________ </b>service",
+          "type": "fill_in_the_blanks",
+          "options": [],
+          "correct_answer": "customer",
+          "marks": 1
+        }
+      ]
+    },
+    {
+        "part": "Section_02",
+        "paragraph_title": "Street Play Scheme",
+        "instructions": {
+          "main_head_001": "SECTION 2 - Questions 11-16. Choose the correct letter A, B, or C."
+        },
+        "questions": [
+          {
+            "id": 11,
+            "text": "<b> 11. </b>When did the Street Play Scheme first take place?",
+            "type": "choose_the_best",
+            "options": [
+              "A two years ago",
+              "B three years ago",
+              "C six years ago"
+            ],
+            "correct_answer": "B three years ago",
+            "marks": 1
+          },
+          {
+            "id": 12,
+            "text": "<b> 12. </b>How often is Beechwood Road closed to traffic now?",
+            "type": "choose_the_best",
+            "options": [
+              "A once a week",
+              "B on Saturdays and Sundays",
+              "C once a month"
+            ],
+            "correct_answer": "A once a week",
+            "marks": 1
+          },
+          {
+            "id": 13,
+            "text": "<b> 13. </b>Who is responsible for closing the road?",
+            "type": "choose_the_best",
+            "options": [
+              "A a council official",
+              "B the police",
+              "C local wardens"
+            ],
+            "correct_answer": "C local wardens",
+            "marks": 1
+          },
+          {
+            "id": 14,
+            "text": "<b> 14. </b>Residents who want to use their cars",
+            "type": "choose_the_best",
+            "options": [
+              "A have to park in another street",
+              "B must drive very slowly",
+              "C need permission from a warden"
+            ],
+            "correct_answer": "B must drive very slowly",
+            "marks": 1
+          },
+          {
+            "id": 15,
+            "text": "<b> 15. </b>Alice says that Street Play Schemes are most needed in",
+            "type": "choose_the_best",
+            "options": [
+              "A wealthy areas",
+              "B quiet suburban areas",
+              "C areas with heavy traffic"
+            ],
+            "correct_answer":  "C areas with heavy traffic",
+            "marks": 1
+          },
+          {
+            "id": 16,
+            "text": "<b> 16. </b>What has been the reaction of residents who are not parents?",
+            "type": "choose_the_best",
+            "options": [
+              "A many of them were unhappy at first",
+              "B they like seeing children play in the street",
+              "C they are surprised by the lack of noise"
+            ],
+            "correct_answer": "B they like seeing children play in the street",
+            "marks": 1
+          },
+          {
+            "id": 17,
+            "text": "<b>Questions 17 and 18</b><br>Choose <b>TWO</b> letters <b>A-E</b><br>Which <b>TWO</b> benefits for children does Alice think are the most important?",
+            "type": "checkbox",
+            "options": [
+              "A increased physical activity",
+              "B increased sense of independence",
+              "C opportunity to learn new games",
+              "D opportunity to be part of a community",
+              "E opportunity to make new friends"
+            ],
+            "correct_answer": ["B increased sense of independence","D opportunity to be part of a community"],
+            "marks": 2
+          },
+          {
+            "id": 18,
+            "text": "<b>Questions 19 and 20</b><br>Choose <b>TWO</b> letters <b>A-E</b><br>Which <b>TWO</b> results of the King Street experiment surprised Alice?",
+            "type": "checkbox",
+            "options": [
+              "A more shoppers",
+              "B improved safety",
+              "C less air pollution",
+              "D more relaxed atmosphere",
+              "E less noise pollution"
+            ],
+            "correct_answer": ["A more shoppers", "E less noise pollution"],
+            "marks": 2
+          }
+        ]
+    },
+    {
+        "part": "Section_03",
+        "paragraph_title": "What Hazel should analyse about items in newspapers",
+        "instructions": {
+          "main_head_001": "SECTION 3 - Questions 21-26. Complete the notes below. Write ONE WORD ONLY for each answer."
+        },
+        "questions": [
+          {
+            "id": 19,
+            "text": "What Hazel should analyse about items in newspapers:<br> • What <b>(21) __________ </b>the item is on<br> ",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "page",
+            "marks": 1
+          },
+          {
+            "id": 20,
+            "text": "• The <b>(22) __________ </b>of the item, including the headline<br> ",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "size",
+            "marks": 1
+          },
+          {
+            "id": 21,
+            "text": "• Any <b>(23) __________ </b> accompanying the item<br> ",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": ["graphic","graphics"],
+            "marks": 1
+          },
+          {
+            "id": 22,
+            "text": " • The <b>(24) __________ </b> of the item e.g. what’s made prominent<br> ",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "structure",
+            "marks": 1
+          },
+          {
+            "id": 23,
+            "text": " • The writer’s main <b>(25) __________ </b><br>",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "purpose",
+            "marks": 1
+          },
+          {
+            "id": 24,
+            "text": "• The <b>(26) __________ </b>the writer may make about the reader",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer":["assumption","assumptions"],
+            "marks": 1
+          },
+         
+          {
+            "id": 25,
+            "text": "<b>Questions 27-30</b><br>What does Hazel decide to do about each of the following types of articles?<br>Write the correct letter <b>A, B or C</b> next to Questions <b>27-30</b>.<br><br><b>A</b> she will definitely look for a suitable article<br><b>B</b> she may look for a suitable article<br><b>C</b> she definitely won’t look for an article<br><br><b>27</b>. national news item: _______",
+            "type": "dropdown",
+            "options":["A she will definitely look for a suitable article","B she may look for a suitable article","C she definitely won’t look for an article"],
+            "correct_answer": "A she will definitely look for a suitable article",
+            "marks": 1
+          },
+          {
+            "id": 26,
+            "text": "<b>28</b>. editorial: <b> _______ </b>",
+            "type": "dropdown",
+            "options":["A she will definitely look for a suitable article","B she may look for a suitable article","C she definitely won’t look for an article"],
+            "correct_answer": "C she definitely won’t look for an article",
+            "marks": 1
+          },
+          {
+            "id": 27,
+            "text": "<b>29</b>. human interest: <b> _______ </b>",
+            "type": "dropdown",
+            "options":["A she will definitely look for a suitable article","B she may look for a suitable article","C she definitely won’t look for an article"],
+            "correct_answer": "C she definitely won’t look for an article",
+            "marks": 1
+          },
+          {
+            "id": 28,
+            "text": "<b>30</b>. arts:<b>  _______ </b>",
+            "type": "dropdown",
+            "options":["A she will definitely look for a suitable article","B she may look for a suitable article","C she definitely won’t look for an article"],
+            "correct_answer": "B she may look for a suitable article",
+            "marks": 1
+          }
+        ]
+    },
+    {
+        "part": "Section_04",
+        "paragraph_title": "Early history of keeping clean",
+        "instructions": {
+          "main_head_001": "SECTION 4 - Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer."
+          
+        },
+        "questions": [
+          {
+            "id": 29,
+            "text": "<b>Prehistoric times:</b> <br> • Water was used to wash off <b>(31) __________</b>",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "mud",
+            "marks": 1
+          },
+          {
+            "id": 30,
+            "text": "<b>Ancient Babylon:</b><br> • Soap like material found in <b>(32) __________ </b>cylinders.",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "clay",
+            "marks": 1
+          },
+          {
+            "id": 31,
+            "text": "<b>Ancient Greece:</b> <br>• People cleaned themselves with sand and other substances <br>• Used a strigil – scraper made of <b>(33) __________ </b> <br> • Washed clothes in streams",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "metal",
+            "marks": 1
+          },
+          {
+            "id": 32,
+            "text": "<b>Ancient Germany and Gaul:</b> <br>•  Used soap to colour their <b>(34) __________</b>",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "hair",
+            "marks": 1
+          },
+          {
+            "id": 33,
+            "text": "<b>Ancient Rome:</b><br> • Animal fat, ashes and clay mixed through action of rain, used for washing clothes<br> •  From about 312 BC, water carried to Roman <b>(35) __________ </b>by aqueducts.",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": ["bath","baths"],
+            "marks": 1
+          },
+          {
+            "id": 34,
+            "text": "<b>Europe in Middle Ages:</b> <br> •  Decline in bathing contributed to occurrence of <b>(36) __________</b> <br>",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": ["disease","diseases"],
+            "marks": 1
+          },
+          {
+            "id": 35,
+            "text": "• <b> (37) __________ </b> began to be added to soap.",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "perfume",
+            "marks": 1
+          },
+       
+          {
+            "id": 36,
+            "text": "<b>Europe from 17th century:</b><br> • 1600s: cleanliness and bathing started becoming usual <br> • 1791: Leblanc invented a way of making soda ash from <b>(38) __________</b><br>",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "salt",
+            "marks": 1
+          },
+          {
+            "id": 37,
+            "text": "• Early 1800s: Chevreul turned soapmaking into a <b>(39) __________ </b><br> ",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "science",
+            "marks": 1
+          },
+          {
+            "id": 38,
+            "text": "• From 1800s, there was no longer a <b>(40) __________ </b>on soap.<br>",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "tax",
+            "marks": 1
+          }
+      
+        ]
+      }
+      
+    ],
+     "submitEndpoint": "http://localhost:5010/api/submit/test03"
+} 

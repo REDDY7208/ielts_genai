@@ -1,0 +1,435 @@
+[  
+{
+     
+    "test_id": "test_04",
+    "essay_no": "para_001",
+    "paragraph_title": "How should reading be taught?",
+    "paragraph_text": "A. Learning to speak is automatic for almost all children, but learning to read requires elaborate instruction and conscious effort. Well aware of the difficulties, educators have given a great deal of thought to how they can best help children learn to read. No single method has triumphed. Indeed, heated arguments about the most appropriate form of reading instruction continue to polarize the teaching community.\n\n B.  Three general approaches have been tried. In one, called whole-word instruction, children learn by rote how to recognise at a glance a vocabulary of 50 to 100 words. Then they gradually acquire other words, often through seeing them used over and over again in the context of a story. Speakers of most languages learn the relationship between letters and the sounds associated with them (phonemes). That is, children are taught how to use their knowledge of the alphabet to sound out words. This procedure constitutes a second approach to teaching reading – phonics. Many schools have adopted a different approach: the whole-language method. The strategy here relies on the child’s experience with the language. For example, students are offered engaging books and are encouraged to guess the words that they do not know by considering the context of the sentence or by looking for clues in the storyline and illustrations, rather than trying to sound them out. Many teachers adopted the whole-language approach because of its intuitive appeal. Making reading fun promises to keep children motivated, and learning to read depends more on what the student does than on what the teacher does. The presumed benefits of whole-language instruction – and the contrast to the perceived dullness of phonics – led to its growing acceptance across American during the 1990s and a movement away from phonics.\n\n C.  However, many linguists and psychologists objected strongly to the abandonment of phonics in American schools. Why was this so? In short, because research had clearly demonstrated that understanding how letters related to the component sounds in words is critically important in reading. This conclusion rests, in part, on knowledge of how experienced readers make sense of words on a page. Advocates of whole-language instruction have argued forcefully that people often derive meanings directly from print without ever determining the sound of the word. Some psychologists today accept this view, but most believe that reading is typically a process of rapidly sounding out words mentally. Compelling evidence for this comes from experiments which show that subjects often confuse homophones (words that sound the same, such as ‘rose’ and ‘rows’). This supports the idea that readers convert strings of letters to sounds.\n\n D.  In order to evaluate different approaches to teaching reading, a number of experiments have been carried out, firstly with college students, then with school pupils. Investigators trained English-speaking college students to read using unfamiliar symbols such as Arabic letters (the phonics approach), while another group learned entire words associated with certain strings of Arabic letters (whole-word). Then both groups were required to read a new set of words constructed from the original characters. In general, readers who were taught the rules of phonics could read many more new words than those trained with a whole-word procedure. Classroom studies comparing phonics with either whole-word or whole-language instruction are also quite illuminating. One particularly persuasive study compared two programmes used in 20 first-grade classrooms. Half the students were offered traditional reading instruction, which included the use of phonics drills and applications. The other half were taught using an individualised method that drew from their experiences with languages; these children produced their own booklets of stories and developed sets of words to be recognised (common components of the whole-language approach). This study found that the first group scored higher at year’s end on tests of reading and comprehension.\n\n E.  If researchers are so convinced about the need for phonics instruction, why does the debate continue? Because the controversy is enmeshed in the philosophical differences between traditional and progressive (or new) approaches, differences that have divided educators for years. The progressive challenge the results of laboratory tests and classroom studies on the basis of a broad philosophical skepticism about the values of such research. They champion student-centred learning and teacher empowerment. Sadly, they fail to realise that these very admirable educational values are equally consistent with the teaching of phonics.\n\n F.  If schools of education insisted that would-be reading teachers learned something about the vast research in linguistics and psychology that bears on reading, their graduates would be more eager to use phonics and would be prepared to do so effectively. They could allow their pupils to apply the principles of phonics while reading for pleasure. Using whole-language activities to supplement phonics instruction certainly helps to make reading fun and meaningful for children, so no one would want to see such tools discarded. Indeed, recent work has indicated that the combination of literature-based instruction and phonics is more powerful than either method used alone.\n\nTeachers need to strike a balance. But in doing so, we urge them to remember that reading must be grounded in a firm understanding of the connections between letters and sounds. Educators who deny this reality are neglecting decades of research. They are also neglecting the needs of their students.",
+    "instructions": {
+      "main_head_001": "Questions 1-5 Reading Passage has six sections, A-F. Choose the correct heading for sections B-F from the list of headings below. Write the correct number, i-ix, in boxes 1-5 on your answer sheet.",
+      "main_head_002": "Questions 6-10 Do the following statements agree with the information given in Reading Passage? In boxes 6-10 on your answer sheet, write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+      "main_head_003": "Questions 11-14 Complete the summary of sections E and F using the list of words, A-G, below. Write the correct letter, A-G, in boxes 11-14 on your answer sheet."
+    },
+    "questions": [
+      {
+        "id": 1,
+        "type": "dropdown",
+        "text": " <b>Questions 1-5 Reading Passage has six sections, A-F. Choose the correct heading for sections B-F from the list of headings below. Write the correct number, i-ix,<br>1.Section B</b>",
+        "options": ["i.Disagreement about the reading process", "ii.The roots of the debate", "iii.A combined approach", "iv.Methods of teaching reading", "v.A controversial approach", "vi.Inconclusive research", "vii.Research with learners", "viii.Allowing teachers more control", "ix.A debate amongst educators"],
+        "correct_answer": "iv.Methods of teaching reading",
+        "passage_id": "para_001",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 2,
+        "type": "dropdown",
+        "text": "<b>2.Section C</b>",
+        "options": ["i.Disagreement about the reading process", "ii.The roots of the debate", "iii.A combined approach", "iv.Methods of teaching reading", "v.A controversial approach", "vi.Inconclusive research", "vii.Research with learners", "viii.Allowing teachers more control", "ix.A debate amongst educators"],
+        "correct_answer": "i.Disagreement about the reading process",
+        "passage_id": "para_001",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 3,
+        "type": "dropdown",
+        "text": "<b>3. Section D</b>",
+        "options": ["i.Disagreement about the reading process", "ii.The roots of the debate", "iii.A combined approach", "iv.Methods of teaching reading", "v.A controversial approach", "vi.Inconclusive research", "vii.Research with learners", "viii.Allowing teachers more control", "ix.A debate amongst educators"],
+        "correct_answer": "viii.Allowing teachers more control",
+        "passage_id": "para_001",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 4,
+        "type": "dropdown",
+        "text": "<b>4. Section E</b>",
+        "options": ["i.Disagreement about the reading process", "ii.The roots of the debate", "iii.A combined approach", "iv.Methods of teaching reading", "v.A controversial approach", "vi.Inconclusive research", "vii.Research with learners", "viii.Allowing teachers more control", "ix.A debate amongst educators"],
+        "correct_answer": "ii.The roots of the debate",
+        "passage_id": "para_001",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 5,
+        "type": "dropdown",
+        "text": "<b>5. Section F</b>",
+        "options": ["i.Disagreement about the reading process", "ii.The roots of the debate", "iii.A combined approach", "iv.Methods of teaching reading", "v.A controversial approach", "vi.Inconclusive research", "vii.Research with learners", "viii.Allowing teachers more control", "ix.A debate amongst educators"],
+        "correct_answer": "iii.A combined approach",
+        "passage_id": "para_001",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 6,
+        "type": "dropdown",
+        "text": "<b>Questions 6-10 Do the following statements agree with the information given in Reading Passage?write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.<br><br>6. The whole-language approach relates letters to sounds.</b>",
+        "options": ["TRUE", "FALSE", "NOT GIVEN"],
+        "correct_answer": "FALSE",
+        "passage_id": "para_001",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 7,
+        "type": "dropdown",
+        "text": "<b>7. Many educators believe the whole-language approach to be the most interesting way to teach children to read.</b>",
+        "options": ["TRUE", "FALSE", "NOT GIVEN"],
+        "correct_answer": "TRUE",
+        "passage_id": "para_001",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 8,
+        "type": "dropdown",
+        "text": "<b>8. Research supports the theory that we read without linking words to sounds.</b>",
+        "options": ["TRUE", "FALSE", "NOT GIVEN"],
+        "correct_answer": "FALSE",
+        "passage_id": "para_001",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 9,
+        "type": "dropdown",
+        "text": "<b>9. Research has shown that the whole-language approach is more effective than phonics.</b>",
+        "options": ["TRUE", "FALSE", "NOT GIVEN"],
+        "correct_answer": "NOT GIVEN",
+        "passage_id": "para_001",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 10,
+        "type": "dropdown",
+        "text": "<b>10. The traditional approach to teaching reading has remained unchanged.</b>",
+        "options": ["TRUE", "FALSE", "NOT GIVEN"],
+        "correct_answer": "TRUE",
+        "passage_id": "para_001",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 11,
+        "type": "dropdown",
+        "text": "<b>Questions 11-14 Complete the summary of sections E and F using the list of words, A-G, below. Write the correct letter,<br><br>11.In the teaching community, ____ question the usefulness of research into methods of teaching reading. ",
+        "options": ["A.the phonics method", "B.the whole-word method", "C.the whole-language method", "D.traditionalists", "E.progressives", "F.linguistics", "G.research studies"],
+        "correct_answer": "E.progressives",
+        "passage_id": "para_001",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 12,
+        "type": "dropdown",
+        "text": "<b>12. These critics believe that _______ is incompatible with student-centred learning.</b>",
+        "options": ["A.the phonics method", "B.the whole-word method", "C.the whole-language method", "D.traditionalists", "E.progressives", "F.linguistics", "G.research studies"],
+        "correct_answer": "A.the phonics method",
+        "passage_id": "para_001",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 13,
+        "type": "dropdown",
+        "text": "<b>13. In the future, teachers need to be aware of ______ so that they understand the importance of phonics.</b>",
+        "options": ["A.the phonics method", "B.the whole-word method", "C.the whole-language method", "D.traditionalists", "E.progressives", "F.linguistics", "G.research studies"],
+        "correct_answer": "G.research studies",
+        "passage_id": "para_001",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 14,
+        "type": "dropdown",
+        "text": "<b>14. They should not, however, ignore the ideas of ______ which make reading enjoyable for learners.</b>",
+        "options": ["A.the phonics method", "B.the whole-word method", "C.the whole-language method", "D.traditionalists", "E.progressives", "F.linguistics", "G.research studies"],
+        "correct_answer": "C.the whole-language method",
+        "passage_id": "para_001",
+        "test_id": "test_04",
+        "marks": 1
+      }
+    ]
+   },
+   {
+    
+    "test_id": "test_04",
+    "essay_no": "para_002",
+    "paragraph_title": "Fishbourne Roman Palace",
+    "paragraph_text": "Fishbourne Roman Palace is located in the village of Fishbourne in West Sussex, England. This large palace was built in the 1st century AD, around thirty years after the Roman conquest of Britain, on the site of Roman army grain stores that had been established after the invasion during the reign of the Roman Emperor Claudius in 43 AD. The rectangular palace was built around formal gardens, the northern half of which has been reconstructed. There were extensive alterations in the 2nd and 3rd centuries AD, with many of the original black-and-white mosaic floors being overlaid with more sophisticated colored ones, including a perfectly preserved mosaic of a dolphin in the north wing. More alterations were in progress when the palace burned down around 270 AD, after which it was abandoned.\n\nLocal people had long believed that a Roman palace once existed in the area. However, it was not until 1960 that the archaeologist Barry Cunliffe, of Oxford University, first systematically excavated the site after workmen accidentally uncovered a wall while laying a water main. The Roman villa excavated by Cunliffe's team was so grand that it became known as Fishbourne Roman Palace, and a museum was erected to preserve some of the remains. This is administered by the Sussex Archaeological Society.\n\nIn its day, the completed palace would have comprised four large wings with colonnaded fronts. The north and east wings consisted of suites of private rooms built around courtyards, with a monumental entrance in the middle of the east wing. In the northeast corner, there was an assembly hall. The west wing contained state rooms, a large ceremonial reception room, and a gallery. The south wing contained the owner’s private apartments. The palace included as many as 50 mosaic floors, underfloor central heating, and a bathhouse. In size, Fishbourne Palace would have been approximately equivalent to some of the great Roman palaces of Italy and was by far the largest known Roman residence north of the European Alps, at about 500 feet (150 meters) square. A team of volunteers and professional archaeologists is involved in ongoing archaeological excavation on the site of nearby, possibly military, buildings.\n\nThe first buildings to be erected on the site were constructed in the early part of the conquest in 43 AD. Later, two timber buildings were constructed, one with clay and mortar floors and plaster walls, which appears to have been a house of some comfort. These buildings were demolished in the 60s AD and replaced by a substantial stone house, which included colonnades and a bath suite. It has been suggested that the palace itself, incorporating the previous house in its southeast corner, was constructed around 73-75 AD. However, Dr. Miles Russell, of Bournemouth University, reinterpreted the ground plan and the collection of objects found and has suggested that, given the extremely close parallels with the imperial palace of Domitian in Rome, its construction may more plausibly date to after 92 AD.\n\nRegarding who lived in Fishbourne Palace, there are a number of theories; for example, one proposed by Professor Cunliffe is that, in its early phase, the palace was the residence of Tiberius Claudius Cogidubnus, a local chieftain who supported the Romans and who may have been installed as king of a number of territories following the first stage of the conquest. Cogidubnus is known from a reference to his loyalty in 'Agricola,' a work by the Roman writer Tacitus, and from an inscription commemorating a temple dedicated to the gods Neptune and Minerva found in the nearby city of Chichester. Another theory is that it was built for Sallustius Lucullus, a Roman governor of Britain in the late 1st century, who may have been the son of the British prince Adminius. Two inscriptions recording the presence of Lucullus have been found in Chichester, and the re-dating by Miles Russell suggests that if the palace was designed for Lucullus, then it may have only been in use for a few years, as the Roman historian Suetonius records that Lucullus was executed by the Emperor Domitian in or shortly after 93 AD.\n\nAdditional theories suggest that either Verica, a British king during the Roman Empire in the years preceding the Claudian invasion, was the owner of the palace, or Tiberius Claudius Catuarus, following the recent discovery of a gold ring belonging to him. The palace outlasted the original owner, whoever he was, and was extensively re-planned early in the 2nd century AD, subdivided into a series of lesser apartments. Further redevelopment was begun in the late 3rd century AD, but these alterations were incomplete when the north wing was destroyed in a fire around 270 AD. The damage was too great to repair, and the palace was abandoned and later dismantled.\n\nA modern museum has been built by the Sussex Archaeological Society, incorporating most of the visible remains, including one wing of the palace. The gardens have been re-planted using authentic plants from the Roman period.",
+    "instructions": {
+      "main_head_001": "Questions 15-20: Do the following statements agree with the information given in the Reading Passage? In boxes 15-20 on your answer sheet, write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+      "main_head_002": "Questions 21-27: Complete the notes below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer. Write your answers in boxes 21-27 on your answer sheet."
+    },
+    "questions": [
+      {
+        "id": 15,
+        "type": "dropdown",
+        "text": "<b>Questions 15-20 Do the following statements agree with the information given in the Reading Passage? Choose TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.<br><br>15. Fishbourne Palace was the first structure to be built on its site.</b>",
+        "options": ["TRUE", "FALSE", "NOT GIVEN"],
+        "correct_answer": "FALSE",
+        "passage_id": "para_002",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 16,
+        "type": "dropdown",
+        "text": "<b>16.Fishbourne Palace was renovated more than once.</b>",
+        "options": ["TRUE", "FALSE", "NOT GIVEN"],
+        "correct_answer": "TRUE",
+        "passage_id": "para_002",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 17,
+        "type": "dropdown",
+        "text": "<b>17. Fishbourne Palace was large in comparison with Roman palaces in Italy.</b>",
+        "options": ["TRUE", "FALSE", "NOT GIVEN"],
+        "correct_answer": "FALSE",
+        "passage_id": "para_002",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 18,
+        "type": "dropdown",
+        "text": "<b>18.Research is continuing in the area close to Fishbourne Palace.</b>",
+        "options": ["TRUE", "FALSE", "NOT GIVEN"],
+        "correct_answer": "TRUE",
+        "passage_id": "para_002",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 19,
+        "type": "dropdown",
+        "text": "<b>19. Researchers agree on the identity of the person for whom Fishbourne Palace was constructed.</b>",
+        "options": ["TRUE", "FALSE", "NOT GIVEN"],
+        "correct_answer": "FALSE",
+        "passage_id": "para_002",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 20,
+        "type": "dropdown",
+        "text": "<b>20. Fishbourne Palace was burnt down by local people.</b>",
+        "options": ["TRUE", "FALSE", "NOT GIVEN"],
+        "correct_answer": "NOT GIVEN",
+        "passage_id": "para_002",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 21,
+        "type": "fill_in_the_blanks",
+        "text": "<b>Questions 21-27 <br>Complete the notes below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.  <br><br>21.The first buildings on the site contained food for the ________.</b>",
+        "correct_answer": "Roman army",
+        "passage_id": "para_002",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 22,
+        "type": "fill_in_the_blanks",
+        "text": "<b>22. The palace building surrounded ________.</b>",
+        "correct_answer": "gardens",
+        "passage_id": "para_002",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 23,
+        "type": "fill_in_the_blanks",
+        "text": "<b>23.In the 2nd and 3rd centuries, colour was added to the ________ of the palace.</b>",
+        "correct_answer": "floors",
+        "passage_id": "para_002",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 24,
+        "type": "fill_in_the_blanks",
+        "text": "<b>24. The first part of the palace to be found was part of a ________.</b>",
+        "correct_answer": "wall",
+        "passage_id": "para_002",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 25,
+        "type": "fill_in_the_blanks",
+        "text": "<b>25.Sallustius Lucullu-he may have lived there until approximately ______ AD.</b>",
+        "correct_answer": "93",
+        "passage_id": "para_002",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 26,
+        "type": "fill_in_the_blanks",
+        "text": "<b>26. Verica -a British king Catuarus-his _____  was found there.</b>",
+        "correct_answer": "gold ring",
+        "passage_id": "para_002",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 27,
+        "type": "fill_in_the_blanks",
+        "text": "<b>27. A ________ has been built on the site to help protect it.</b>",
+        "correct_answer": "modern museum",
+        "passage_id": "para_002",
+        "test_id": "test_04",
+        "marks": 1
+      }
+    ]
+   },
+   {
+    
+    "test_id": "test_04",
+    "essay_no": "para_003",
+    "paragraph_title": "Insect decision-making",
+    "paragraph_text": "It has long been held that decisions made collectively by large groups of people are more likely to turn out to be accurate than decisions made by individuals. The idea goes back to the 'jury theorem’ of Nicolas de Condorcet, an 18th-century French philosopher who was one of the first to apply mathematics to the social sciences. Condorcet’s theory describes collective decisions, outlining how democratic decisions tend to outperform dictatorial ones. If, for example, each member of a jury has only partial information, the majority decision is more likely to be correct than a decision arrived at by a single juror. Moreover, the probability of a correct decision increases with the size of the jury. \n\nNow it is becoming clear that group decisions are also extremely valuable for the success of social animals, such as ants, bees, birds, and dolphins. Bees make collective decisions, and they do it rather well, according to Christian List of the London School of Economics, who has studied group decision-making in humans and animals. Researchers led by Dr List looked at colonies once the original colony reaches a certain size. The queen goes off with about two-thirds of the worker bees to live in a new home or nest, leaving a daughter queen in the old nest with the remaining workers. Among the bees that depart are some that have searched for and found some new nest sites and reported back using a characteristic body movement known as a 'waggle dance' to indicate to the other bees the suitable places they have located. The longer the dance, the better the site. After a while, other bees start to visit the sites signaled by their companions to see for themselves and, on their return, also perform more waggle dances. The process eventually leads to a consensus on the best site and the breakaway swarm migrates. The decision is remarkably reliable, with the bees choosing the best site even when there are only small differences between alternative sites. \n\nBut exactly how do bees reach such a robust consensus? To find out, Dr List and his colleagues used a computer-generated model of the decision-making process. By experimenting with it, they found that, when bees in the model were very good at finding nesting sites but did not share their information, this dramatically slowed down the migration, leaving the swarm homeless and vulnerable. Conversely, bees in the model blindly following the waggle dances of others without first checking. The researchers concluded that the ability of bees to identify successfully and quickly the best site depends on both the bees' interdependence in communicating the whereabouts of the site, and their independence in confirming this information for themselves. \n\nAnother situation in which collective decisions are taken occurs when animals are either isolated from crucial sources of information or dominated by other members of the group. José Halloy of the Free University of Brussels in Belgium used robotic cockroaches to subvert the behavior of living cockroaches and control their decision-making process. In his experiment, the artificial bugs were introduced to the live ones and soon became sufficiently socially integrated that they were perceived by the real cockroaches as equals. By manipulating the robots, which were in the minority, Halloy was able to persuade the living cockroaches to choose an inappropriate shelter – even one which they had rejected before being infiltrated by the robots. \n\nThe way insects put into effect collective decisions can be complex and as important as the decisions themselves. At the University of Bristol, in the UK, Nigel Franks and his colleagues studied how a species of ant establishes a new nest. Franks and his associates reported how the insects reduce the problems associated with making a necessarily swift choice. If the ants’ existing nest becomes suddenly threatened, the insects choose certain ants to act as scouts to find a new nest. \n\nHow quickly they accomplish the transfer to a new home depends not only on how soon the best available site is found, but also on how quickly the migration there can be achieved. \n\nOnce the suitable new nest is identified, the chosen ants begin to lead others, which have made it to the new site or which may simply be in the vicinity, back to the original threatened nest. In this way, those ants which are familiar with the route can help transport, for example, the queen and young ants to the new site, and simultaneously show the way to those ants which have been left behind to guard the old nest. In this way, moving processes are accomplished faster and more efficiently. Thus, the dynamics of collective decision-making are closely related to the efficient implementation of those decisions. How this might apply to choices that humans make is, as yet, unclear. But it does suggest, even for humans, the importance of recruiting dynamic leaders to a cause, because the most important thing about collective decision-making, as shown by these insect experiments, is to get others to follow.",
+    "instructions": {
+      "main_head_001": "Questions 28-33: Choose the correct heading for each paragraph from the list of headings below. Write the correct number, i-vii, in boxes 28-33 on your answer sheet.",
+      "main_head_002": "Questions 34-37: Match each finding with the correct academic, A-D. Write the correct letter, A-D, in boxes 34-37 on your answer sheet.",
+      "main_head_003": "Questions 38-40: Complete the summary below using ONE WORD ONLY from the passage for each answer. Write your answers in boxes 38-40 on your answer sheet."
+    },
+    "questions": [
+      {
+        "id": 28,
+        "type": "dropdown",
+        "text": " <b>Questions 28-33 Choose the correct heading for each paragraph from the list of headings below.</b><br><br><b>28.Paragraph A</b>",
+        "options": ["i.The effect of man-made imitations on insects", "ii.The need to instruct additional insect guides", "iii.Signals used by certain insects to indicate a discovery", "iv.How urgency can affect the process of finding a new home", "v.The use of trained insects in testing scientific theories", "vi.The use of virtual scenarios in the study of insect behaviour", "vii.How the number of decision-makers affects the decision"],
+        "correct_answer": "vii.How the number of decision-makers affects the decision",
+        "passage_id": "para_003",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 29,
+        "type": "dropdown",
+        "text": "<b>29. Paragraph B</b>",
+        "options": ["i.The effect of man-made imitations on insects", "ii.The need to instruct additional insect guides", "iii.Signals used by certain insects to indicate a discovery", "iv.How urgency can affect the process of finding a new home", "v.The use of trained insects in testing scientific theories", "vi.The use of virtual scenarios in the study of insect behaviour", "vii.How the number of decision-makers affects the decision"],
+        "correct_answer": "iii.Signals used by certain insects to indicate a discovery",
+        "passage_id": "para_003",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 30,
+        "type": "dropdown",
+        "text": "<b>30. Paragraph C</b>",
+        "options": ["i.The effect of man-made imitations on insects", "ii.The need to instruct additional insect guides", "iii.Signals used by certain insects to indicate a discovery", "iv.How urgency can affect the process of finding a new home", "v.The use of trained insects in testing scientific theories", "vi.The use of virtual scenarios in the study of insect behaviour", "vii.How the number of decision-makers affects the decision"],
+        "correct_answer": "vi.The use of virtual scenarios in the study of insect behaviour",
+        "passage_id": "para_003",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 31,
+        "type": "dropdown",
+        "text": "<b>31.Paragraph D</b>",
+        "options": ["i.The effect of man-made imitations on insects", "ii.The need to instruct additional insect guides", "iii.Signals used by certain insects to indicate a discovery", "iv.How urgency can affect the process of finding a new home", "v.The use of trained insects in testing scientific theories", "vi.The use of virtual scenarios in the study of insect behaviour", "vii.How the number of decision-makers affects the decision"],
+        "correct_answer": "i.The effect of man-made imitations on insects",
+        "passage_id": "para_003",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 32,
+        "type": "dropdown",
+        "text": "<b>32.Paragraph E</b>",
+        "options": ["i.The effect of man-made imitations on insects", "ii.The need to instruct additional insect guides", "iii.Signals used by certain insects to indicate a discovery", "iv.How urgency can affect the process of finding a new home", "v.The use of trained insects in testing scientific theories", "vi.The use of virtual scenarios in the study of insect behaviour", "vii.How the number of decision-makers affects the decision"],
+        "correct_answer": "iv.How urgency can affect the process of finding a new home",
+        "passage_id": "para_003",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 33,
+        "type": "dropdown",
+        "text": "<b>33.Paragraph F</b>",
+        "options": ["i.The effect of man-made imitations on insects", "ii.The need to instruct additional insect guides", "iii.Signals used by certain insects to indicate a discovery", "iv.How urgency can affect the process of finding a new home", "v.The use of trained insects in testing scientific theories", "vi.The use of virtual scenarios in the study of insect behaviour", "vii.How the number of decision-makers affects the decision"],
+        "correct_answer": "ii.The need to instruct additional insect guides",
+        "passage_id": "para_003",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 34,
+        "type": "dropdown",
+        "text": "<b>Questions 34-37 Match each finding with the correct academic, A-D. Write the correct letter</b><br><br><b>Certain members can influence the rest of the group to alter a previous decision.</b>",
+        "options": ["A.Nicolas de Condorcet", "B.Christian List and colleagues", "C.José Halloy", "D.Nigel Franks and colleagues"],
+        "correct_answer": "C.José Halloy",
+        "passage_id": "para_003",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 35,
+        "type": "dropdown",
+        "text": "<b>35.Individual verification of a proposed choice is important for successful decision outcome.</b>",
+        "options": ["A.Nicolas de Condorcet", "B.Christian List and colleagues", "C.José Halloy", "D.Nigel Franks and colleagues"],
+        "correct_answer": "B.Christian List and colleagues",
+        "passage_id": "para_003",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 36,
+        "type": "dropdown",
+        "text": "<b>36.The more individuals taking part in a decision, the better the decision will be.</b>",
+        "options": ["A.Nicolas de Condorcet", "B.Christian List and colleagues", "C.José Halloy", "D.Nigel Franks and colleagues"],
+        "correct_answer": "A.Nicolas de Condorcet",
+        "passage_id": "para_003",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 37,
+        "type": "dropdown",
+        "text": "<b>37.The decision-making process of certain insects produces excellent results even when multiple tasks are required.</b>",
+        "options": ["A.Nicolas de Condorcet", "B.Christian List and colleagues", "C.José Halloy", "D.Nigel Franks and colleagues"],
+        "correct_answer": "B.Christian List and colleagues",
+        "passage_id": "para_003",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 38,
+        "type": "fill_in_the_blanks",
+        "text": "<b>Questions 38-40 Complete the summary below using ONE WORD ONLY from the passage for each answer.</b><br><br><b>38.A Bristol University study looked at how insects make decisions when their home has been_______</b>",
+        "correct_answer": "computer",
+        "passage_id": "para_003",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 39,
+        "type": "fill_in_the_blanks",
+        "text": "<b>39.The ants in the experiment relied on the use of individuals called _______ new nest and efficiently direct the others to go there.</b>",
+        "correct_answer": "equals",
+        "passage_id": "para_003",
+        "test_id": "test_04",
+        "marks": 1
+      },
+      {
+        "id": 40,
+        "type": "fill_in_the_blanks",
+        "text": "<b>40. The study emphasized the necessity, for people well as insects, of having active ______ in order to execute decisions successfully.</b>",
+        "correct_answer": "scouts",
+        "passage_id": "para_003",
+        "test_id": "test_04",
+        "marks": 1
+      }
+    ]
+  }
+  
+
+] 

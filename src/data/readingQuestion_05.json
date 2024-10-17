@@ -1,0 +1,604 @@
+[
+  {
+    "test_id": "test_05",
+    "essay_no": "para_001",
+    "paragraph_title": "Flight of the Honeybee",
+    "paragraph_text": "Honeybees are characterised by their ability to produce liquefied sugar (honey) and a propensity to construct colonial nests using wax, two tasks that necessitate a significant level of social integration among members. As a result, they maintain strict divisions of labour, based on sex, with all males functioning as drones to fertilize and care for the eggs, and all females, with the exception of the single fertile queen, responsible for fetching nectar for the colony’s progeny. In addition, honeybees have devised a sophisticated system of communication to relay important information from member to member.\n\nPerhaps the most intriguing feature of honeybee communication is a series of flight moves only performed by a female worker bee that has returned to the nest with nectar and needs to tell the rest of her colony that she has discovered food supplies and where they can be found. This so-called honeybee dance was first interpreted by German zoologist Karl von Frisch in the early 1970s. To facilitate observation, von Frisch and his students built several glass walled hives and marked a collection of worker bees, or foragers, with paint. He then trained those foragers to find nectar at designated sources at various distances from the hives, and when the bees returned he carefully recorded their movements, the angle and direction of their flight, and any additional visual cues offered to the colony. What von Frisch discovered was that each aspect of the dance indicated certain details about the location of the nectar reserves and recruited others to return to the site.\n\nThe first piece of information conveyed by dancing bees is the distance of the field to the hive, and they do this in one of three ways. If it is less than 50 meters from the colony’s nest the bee will fly around in narrow circles, and then suddenly fly in the opposite direction. She will repeat this pattern, which von Frisch’s team called the round dance, until she has recruited several other workers to return with her to the field. When the distance is greater than 50 meters, but less than 150 meters, she will perform a sickle dance, a crescent shaped flight course. If the field is farther than 150 meters, the forager will act out a waggle dance in which she will run straight ahead briefly before returning to her original position in a semi-circular movement. Then, she will run forward again and return from the opposite side. The length of the forward run coincides with the distance of the food supplies; for example, a 2.5 second run indicates that the nectar was found about 2500 meters way.\n\nRecruits also need to know the direction in which they should fly to arrive at the appropriate foraging location, and this information is communicated via the bee’s angular orientation to the hive. It, however, is not a direct connection to the position of the food supplies from the hive, but its location relative to the sun. Therefore if the food is situated directly opposite from the sun, the bee will fly a straight run vertically downward; if it is in the same direction as the sun, it will fly directly upward from the colony nest. A position 60 degrees to the right of the sun will prompt the bee to fly downwards at a 60 degrees angle toward the right of the nest. Moreover, because the sun is in constant motion throughout the day, the bee’s orientation will shift depending on the time at which the dance is performed. Sceptics of von Frisch’s findings, however, claim that visual cues are not enough to provide all the clues necessary to convey the location of a food resource. Several scientists, among them Adrian Wenner, believe that the dance is only one component of honeybee communications; odour is the second key element. Using robotic bees to perform the same dances, Wenner was unable to attract new recruits to the foraging activities; however, when he added a bit of nectar to the robot, workers quickly followed. He also discovered that the odors must be representative of the actual flowers containing the food source; otherwise the bees will arrive at the site, but not know which ones will be profitable.",
+    "instructions": {
+      "main_head_001": "Questions 1-3 Choose the correct letter, A, B, C or D. Write your answers in boxes 1–3 on your answer sheet.",
+      "main_head_002": "Questions 4-8 Complete the sentences below USING NO MORE THAN TWO AND/OR A NUMBER. Write your answers in boxes 4–8 on your answer sheet.",
+      "main_head_003": "Questions 9-12 Do the following statements agree with the information given in the reading passage? In boxes 9–12 on your answer sheet write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this."
+    },
+    "questions": [
+      {
+        "id": 1,
+        "type": "true_false_not_given",
+        "text": "<b>Questions 1-3 <br><br>Choose the correct letter, A, B, C or D </b><br><b>1. Honeybees</b>",
+        "options": [
+          "A. have a rudimentary ability to convey information.",
+          "B. have clearly segregated roles.",
+          "C. are found in equal numbers of male and female.",
+          "D. often relocate to areas with certain types of flower."
+        ],
+        "correct_answer": "B. have clearly segregated roles.",
+        "passage_id": "para_001",
+        "test_id": "test_05",
+        "marks": 1
+      },
+      {
+        "id": 2,
+        "type": "true_false_not_given",
+        "text": "<b>2. Research conducted in the 1970s</b>",
+        "options": [
+          "A. was undertaken using traditional hives.",
+          "B. determined that forager bees had special markings.",
+          "C. closely studied the phenomenon of the honeybee body language.",
+          "D. concluded that there was no discernible pattern to the movement of the bees."
+        ],
+        "correct_answer": "C. closely studied the phenomenon of the honeybee body language.",
+        "passage_id": "para_001",
+        "test_id": "test_05",
+        "marks": 1
+      },
+      {
+        "id": 3,
+        "type": "true_false_not_given",
+        "text": "<b>3. To identify that the source of nectar is close, forager bees</b>",
+        "options": [
+          "A. will repeatedly fly the same direction.",
+          "B. will begin to move only when other bees are watching.",
+          "C. will run straight forward.",
+          "D. will repeat a pattern of flying in one direction then abruptly reversing direction."
+        ],
+        "correct_answer": "D. will repeat a pattern of flying in one direction then abruptly reversing direction.",
+        "passage_id": "para_001",
+        "test_id": "test_05",
+        "marks": 1
+      },
+      {
+        "id": 4,
+        "type": "fill_in_the_blanks",
+        "text": "<b> Questions 4-8 Complete the sentences below USING NO MORE THAN TWO AND/OR A NUMBER.<br><br>4. Von Frisch focused on a number of _______ clues to deduce how bees communicated.</b>",
+        "correct_answer": "visual",
+        "passage_id": "para_001",
+        "test_id": "test_05",
+        "marks": 1
+      },
+      {
+        "id": 5,
+        "type": "fill_in_the_blanks",
+        "text": "<b>5. The bee will move forward for _______ seconds for every 1000 metres away the food source is.</b>",
+        "correct_answer": "1/one second",
+        "passage_id": "para_001",
+        "test_id": "test_05",
+        "marks": 1
+      },
+      {
+        "id": 6,
+        "type": "fill_in_the_blanks",
+        "text": "<b>6. To locate the direction of the nectar, the forager will base its movements on the position of ________.</b>",
+        "correct_answer": "the sun",
+        "passage_id": "para_001",
+        "test_id": "test_05",
+        "marks": 1
+      },
+      {
+        "id": 7,
+        "type": "fill_in_the_blanks",
+        "text": "<b>7. For food sources over 150 metres away, the forager will indicate distance with a _______ dance.</b>",
+        "correct_answer": "waggle",
+        "passage_id": "para_001",
+        "test_id": "test_05",
+        "marks": 1
+      },
+      {
+        "id": 8,
+        "type": "fill_in_the_blanks",
+        "text": "<b>8. It has been argued that ________ as well as movement may help to locate food sources.</b>",
+        "correct_answer": "odour",
+        "passage_id": "para_001",
+        "test_id": "test_05",
+        "marks": 1
+      },
+      {
+        "id": 9,
+        "type": "dropdown",
+        "text": "<b>Questions 9-12 Do the following statements agree with the information given in the reading passage?  write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.<br><br>9. Drone bees communicate using a complicated set of movements.</b>",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correct_answer": "FALSE",
+        "passage_id": "para_001",
+        "test_id": "test_05",
+        "marks": 1
+      },
+      {
+        "id": 10,
+        "type": "dropdown",
+        "text": "<b>10.The honeybee dance is performed until a number of other bees join in the collection of the nectar.</b>",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correct_answer": "TRUE",
+        "passage_id": "para_001",
+        "test_id": "test_05",
+        "marks": 1
+      },
+      {
+        "id": 11,
+        "type": "dropdown",
+        "text": "<b>11. Honeybee foragers were trained to locate food sources.</b>",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correct_answer": "NOT GIVEN",
+        "passage_id": "para_001",
+        "test_id": "test_05",
+        "marks": 1
+      },
+      {
+        "id": 12,
+        "type": "dropdown",
+        "text": "<b>12. Robotic bees successfully communicated the location of food resources to foragers.</b>",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correct_answer": "FALSE",
+        "passage_id": "para_001",
+        "test_id": "test_05",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "test_id": "test_05",
+    "essay_no": "para_002",
+    "paragraph_title": "Recent Research",
+    "paragraph_text": "A. Recent research in Hong Kong indicates that staying in bed after a long week at school is just what children need to avoid becoming obese. The research, which focused on children aged five to fifteen, discovered that those who slept late on Saturdays and Sundays decreased the probability of having weight problems as they grew up. Published in the journal Paediatrics, the findings add to previous research that indicated a connection between regular sleep deprivation and obesity.\n\nB. The scientists involved believe the weekend lie-in is vital for school-age children to catch up on the sleep they lose during a busy week at school. This catch-up sleep helps the children to regulate calorie consumption by cutting down on eating snacks during waking hours. Scientists and others in the medical fields have long known that a lack of sleep and irregular sleep patterns cause obesity as this combination affects the body’s natural metabolism and tends to also encourage snacking to reduce the feeling of tiredness. However, this is thought to be the first time researchers have found sleeping in at weekends to be a key factor in helping ‘reset’ children’s sleeping patterns.\n\nC. Since the 1980s, obesity rates among children in the UK and in the United States have been on the rise, and medical and childcare experts fear a diabetes and heart disease epidemic is developing. Although estimates for obesity rates have recently been lowered, current expectations are that close to one in three boys aged from two to eleven are likely to be overweight or obese by the year 2020. The prediction for girls is slightly over one in four, a much lower prediction than ten years ago when forecasts were that almost half would be overweight.\n\nD. The relationship between sleep deficiency and obesity has been drawing much attention in the past several years with studies showing that sleeping just a few hours a night can seriously disturb the body’s natural metabolism, leading to an increase in overall calorie intake and a much greater danger of weight-related illnesses. Yun Kwok Wing of Hong Kong University and other experts investigated the possibility that catching up on sleep at the weekends would help youngsters to overcome such disruption of the body’s metabolism. They questioned the parents of over 5,000 schoolchildren and accumulated data on diet, lifestyle, weight, and sleeping habits. During school time, the average amount of sleep was a little over nine hours on average. However, a surprising number of kids slept well under eight hours a night.\n\nE. What the researchers found most interesting was that those children who managed to catch up on missed sleep on the weekend actually remained relatively slim while those who did not had a higher probability of putting on weight (as measured by body mass index, or BMI). A report the researchers published revealed: “Overweight and obese children tended to wake up earlier and had shorter sleep durations throughout weekdays, weekends, and holidays than their normal-weight peers. Our study suggests sleeping longer on weekends or holidays could lower the risk of being overweight or obese.”\n\nF. The study authors mentioned that reduced sleep duration has become a hallmark of modern society, with people generally sleeping one to two hours less than a few decades ago, and children were no exception to this. However, the researchers were not quite sure why obese and overweight children were less likely to sleep late on weekends, but indicated that they tended to spend more time doing their homework and watching television than their normal-weight peers. Still, the researchers urged caution in the interpretation of their findings, acknowledging that “an irregular sleep-wake schedule and insufficient sleep among school-aged children and adolescents has been documented with a variety of serious repercussions, including increased daytime sleepiness, academic difficulties, and mood and behavioral problems.”",
+    "instructions": {
+      "main_head_001": "Questions 13-15 Choose THREE letters A-G. Write your answers in boxes 13-15 on your answer sheet. NB: Your answers may be given in any order.",
+      "main_head_002": "Questions 16-21 Reading Passage 2 has seven paragraphs A-G. Write the correct letter A-G in boxes 16-21.",
+      "main_head_003": "Questions 22-25 Complete the summary with the list of words A-L below. Write the correct letter A-L in boxes 22-25 on your answer sheet."
+    },
+    "questions": [
+      {
+        "id": 13,
+        "type": "checkbox",
+        "text": "<b>Questions 13-15 Choose THREE letters A-G.Your answers may be given in any order.<br><br>13. Which THREE of the following statements are true of the research in Hong Kong?</b>",
+        "options": [
+          "A Researchers discovered that overweight children tend to sleep more.",
+          "B The researchers believe the weekend lie-in is very important for busy children.",
+          "C The findings show that overweight children tend to wake up earlier and sleep less.",
+          "D Obesity in children may be triggered by a fluctuation in sleep patterns.",
+          "E The researchers do not know the reasons why obese children are less likely to sleep late on weekends.",
+          "F The researchers interviewed the children’s teachers to gain information.",
+          "G All children investigated slept more than eight hours a day."
+        ],
+        "correct_answer": [
+          "B",
+          "C",
+          "E"
+        ],
+        "passage_id": "para_002",
+        "test_id": "test_05",
+        "marks": 3
+      },
+      {
+        "id": 14,
+        "type": "dropdown",
+        "text": "<b>Reading Passage 2 has seven paragraphs A-G. Choose the correct letter A-G<br><br>16. Predictions on rates of obesity in children.</b>",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "correct_answer": "C",
+        "passage_id": "para_002",
+        "test_id": "test_05",
+        "marks": 1
+      },
+      {
+        "id": 15,
+        "type": "dropdown",
+        "text": "<b>17. An outline of the most notable research finding.</b>",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "correct_answer": "E",
+        "passage_id": "para_002",
+        "test_id": "test_05",
+        "marks": 1
+      },
+      {
+        "id": 16,
+        "type": "dropdown",
+        "text": "<b>18. Ideas on why overweight children don’t sleep in on weekends.</b>",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "correct_answer": "F",
+        "passage_id": "para_002",
+        "test_id": "test_05",
+        "marks": 1
+      },
+      {
+        "id": 17,
+        "type": "dropdown",
+        "text": "<b>19. How sleeping in on weekends can help a child keep slim.</b>",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "correct_answer": "B",
+        "passage_id": "para_002",
+        "test_id": "test_05",
+        "marks": 1
+      },
+      {
+        "id": 18,
+        "type": "dropdown",
+        "text": "<b>20.A study looking into sleep deprivation and the effect on body metabolism.</b>",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "correct_answer": "D",
+        "passage_id": "para_002",
+        "test_id": "test_05",
+        "marks": 1
+      },
+      {
+        "id": 19,
+        "type": "dropdown",
+        "text": "<b>21. Advice for parents concerned about their children becoming overweight.</b>",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ],
+        "correct_answer": "F",
+        "passage_id": "para_002",
+        "test_id": "test_05",
+        "marks": 1
+      },
+      {
+        "id": 20,
+        "type": "dropdown",
+        "text": "<b>Questions 22-25 <br>Complete the summary with the list of words A-L below.<br>A. </b>recent<br> <b>B. </b>past <b><br>C. </b>lost <b><br>D. </b>gain <b><br>E. </b>put <b><br>F. </b>difficulty Ginconclusive <b><br>H. </b>reveal <br><b>I. </b>remain <br><b>J. </b>future <b><br>K. </b>immediate <b><br>L. </b>poor<br><b>22. The main findings of the research showed that children who were able to catch up on ________",
+        "options": [
+          "A.recent",
+          "B.past",
+          "C.lost",
+          "D.gain",
+          "E.put",
+          "F.difficulty",
+          "G.inconclusive",
+          "H.reveal",
+          "I.remain",
+          "J.future",
+          "K.immediate",
+          "L.poor"
+        ],
+        "correct_answer": "C.lost",
+        "passage_id": "para_002",
+        "test_id": "test_05",
+        "marks": 1
+      },
+      {
+        "id": 21,
+        "type": "dropdown",
+        "text": "<b>23.sleep stayed fairly slim whereas children who did not were much more likely to _________weight.</b>",
+        "options": [
+          "A.recent",
+          "B,past",
+          "C.lost",
+          "D.gain",
+          "E.put",
+          "F.difficulty",
+          "G.inconclusive",
+          "H.reveal",
+          "I.remain",
+          "J.future",
+          "K.immediate",
+          "L.poor"
+        ],
+        "correct_answer": "D.gain",
+        "passage_id": "para_002",
+        "test_id": "test_05",
+        "marks": 1
+      },
+      {
+        "id": 22,
+        "type": "dropdown",
+        "text": "<b>24.The researchers mentioned that in __________ times a reduction in sleep time has become common with most people sleeping an hour or two less than in the past.",
+        "options": [
+          "A.recent",
+          "B,past",
+          "C.lost",
+          "D.gain",
+          "E.put",
+          "F.difficulty",
+          "G.inconclusive",
+          "H.reveal",
+          "I.remain",
+          "J.future",
+          "K.immediate",
+          "L.poor"
+        ],
+        "correct_answer": "A.recent",
+        "passage_id": "para_002",
+        "test_id": "test_05",
+        "marks": 1
+      },
+      {
+        "id": 23,
+        "type": "dropdown",
+        "text": "<b>25.However, the reasons why overweight children tended to sleep less on weekends than their slimmer peers ______ a mystery.</b>",
+        "options": [
+          "A.recent",
+          "B,past",
+          "C.lost",
+          "D.gain",
+          "E.put",
+          "F.difficulty",
+          "G.inconclusive",
+          "H.reveal",
+          "I.remain",
+          "J.future",
+          "K.immediate",
+          "L.poor"
+        ],
+        "correct_answer": "I.remain",
+        "passage_id": "para_002",
+        "test_id": "test_05",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "test_id": "test_05",
+    "essay_no": "para_003",
+    "paragraph_title": "Team Building",
+    "paragraph_text": "Particularly in times of economic downturn, efficiency is of supreme importance across all industry bases; whilst companies may be looking to cut their costs, many still invest in staff motivation, training and development programmes, having developed an understanding of just how crucial strong internal relationships can be for success.\n\n Louise Edwards of HR Success says that one of the barriers she comes across time and time again is that corporate heads often seem to understand that ‘team building’ is important but are not quite sure what it is or how to achieve it. In the terms of a sports club, she says, the team (i.e. what it is and how it is defined) is obvious and easy to identify. In contrast, she says, within a company – particularly a multi-layered, larger organisation, definitions may become more confused. Many define a business ‘team’ as the group of people who report to the same boss – a department, for example. However, according to Edwards, it is more productive to define a team as a group of people working towards a common goal. In training terms, therefore, this group could be members of a department with the same roles and responsibilities, such as a sales team with the common goal of selling or even the organisation as a whole, whose ‘goal’ in this case is the continued success of the organisation, their many different skills and roles all contributing to this in a number of ways.\n\n Brenda Durham of Corporate Trouble-Shooters believes it inevitable that to some extent conflict will exist in a successful workplace since the necessary diversity of skills and personalities required for success will also unavoidably lead to misunderstandings and disharmony from time to time. A cohesive unit that minimises friction, she believes, can however be developed in any organisation committed to investment in its people. Whilst the taking on of external expertise for staff training and team building programmes can be costly, a number of companies, particularly those with a robust human resources department, are undertaking the training themselves. Liaison Wizards, established in 2001 and headed by Jeff Blackshaw, offers free training and development advice to companies wishing to offer motivation seminars designed in house, in the belief that contextualised training is always more effective. The company’s own business model is based upon generating revenue from advertising on their popular website – a great success, so far, having surpassed financial projections for each year it has been in operation to date. \n\n Blackshaw likens the key to successful corporate team building to the tactics employed in a less formal sporting environment. He says that bonds, connections and empathy developed between members of a rugby team, for example, can also be developed within a department in the business world or even at company level. He says that good team work is fostered by respect, encouragement, shared enthusiasm and a caring and supportive workplace. Trying to exploit or dictate to personnel is sure to lead to failure, Blackshaw says\n\n. Brian Osbourne, Human Resources Director of Opmax Inc, believes that programmes developed in house are inherently more likely to be of greater success than external offerings for two main reasons. Most importantly, he says, people are much easier to motivate if they themselves can be involved in designing and deciding activities – this level of consultation at the planning stage being much easier to achieve for an internal department than an external consultant. Of only slightly less importance, says Osbourne, training activities must be perceived by participants as providing outcomes geared towards developing the individuals’ potential, Once again, programmes developed by people with an insight into the personalities and culture at hand can be more easily tailored to suit the distinctive needs of that particular audience.\n\n According to Osbourne, one of the biggest barriers to successful staff training is the perception that activities are too game-focussed, with no real objectives; many professionals, believing that such games are trite or patronising, are unable to appreciate the hidden benefits of building understanding and camaraderie within the group. If presented correctly, within the correct context and in conjunction with other, more staid approaches, Louise Edwards holds that games can be an enormous asset in staff training. In simple terms, Edwards defines the objectives of team building activities as a process, starting with the first stage – the clarification of the collective goals. This leads to the identification of the inhibitors preventing achievement of those goals and the introduction of enablers which will assist in goal achievement. This is followed by stage four – the final stage, where outcomes are measured and from that point on are monitored to ensure that goals are achieved and continue to be achieved. In stages 2 and 3 (identifying barriers and introducing positive alternatives) Edwards believes that the use of humour goes a long way towards relationship building on a personal level through development of empathy and removal of antipathy, ultimately fostering cooperation and support on a more formal level.\n\n Alan Kidman, HR Manager of Tellam Industries agrees that the use of humour and games within a training context can go a long way towards helping an organisation achieve its goals. He has recently designed a two month long in house team building programme for senior management and will soon be delivering the first of a series of 8 workshops and activities. The goal of the project, he says, was to strengthen communication and support within the extremely diverse departments of the organisation. Heads of six departments, collectively responsible for over 200 staff members, are to be involved in the series of seminars. The programme, Kidman says, is experimental and if it proves to be a success is also intended for use in the organisation’s branches overseas. Previously the organisation has taken a more formalised approach to staff development training relying on methods such as psychometric testing discussions, motivational conferences and formal appraisals. The new, and as yet untried, approach will challenge participants in, by comparison, rather radical ways. One initiative, for example, requiring the writing, organisation and delivery of a theatrical performance to which all staff members will be invited to view.\n\n Team building and motivational approaches include a wide variety of methodologies, techniques, theories and tools. Experts generally agree that different options may succeed or fail depending upon the culture of the organisation in which they are implemented. A fit with the personalities involved in crucial to success. Not only is delivery of appropriate training sessions themselves important but professional and measurable follow up is also a must.",
+    "instructions": {
+      "main_head_001": "Questions 26-30 Do the following statements agree with the information given in the reading passage? In boxes 26 -30 on your answer sheet write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+      "main_head_002": "Questions 31-35 Look at the following list of statements based on Reading Passage 3. Match the statement with the correct person A-E. You can use each letter more than once.",
+      "main_head_003": "Questions 36-40 Complete the summary USING NO MORE THAN TWO WORDS from Reading Passage 3 for each answer."
+    },
+    "questions": [
+      {
+        "id": 24,
+        "type": "dropdown",
+        "text": "<b>Questions 26-30  Do the following statements agree with the information given in the reading passage?  Choose TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.<br><br>26. Typical stresses of working with different people are removed with the correct training.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correct_answer": "FALSE",
+        "passage_id": "para_003",
+        "test_id": "test_05",
+        "marks": 1
+      },
+      {
+        "id": 25,
+        "type": "dropdown",
+        "text": "<b>27. Liaison Wizards claims that training has increased their income every year since the company started.</b>",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correct_answer": "FALSE",
+        "passage_id": "para_003",
+        "test_id": "test_05",
+        "marks": 1
+      },
+      {
+        "id": 26,
+        "type": "dropdown",
+        "text": "<b>28. Many companies are unsuccessful because they are dogmatic and take advantage of staff.</b>",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correct_answer": "NOT GIVEN",
+        "passage_id": "para_003",
+        "test_id": "test_05",
+        "marks": 1
+      },
+      {
+        "id": 27,
+        "type": "dropdown",
+        "text": "<b>29.In house training is more successful primarily because employees feel more involved in the planning.</b>",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correct_answer": "TRUE",
+        "passage_id": "para_003",
+        "test_id": "test_05",
+        "marks": 1
+      },
+      {
+        "id": 28,
+        "type": "dropdown",
+        "text": "<b>30. The value of games as a training tool can be misunderstood.</b>",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "correct_answer": "TRUE",
+        "passage_id": "para_003",
+        "test_id": "test_05",
+        "marks": 1
+      },
+      {
+        "id": 29,
+        "type": "dropdown",
+        "text": "<b>Questions 31-35 Look at the following list of statements based on Reading Passage 3. Match the statement with the correct person A-E.<br><br>31. Many companies will experience friction between staff.",
+        "options": [
+          "A. Louise Edwards",
+          "B. Brenda Durham",
+          "C. Jeff Blackshaw",
+          "D. Brian Osborne",
+          "E. Alan Kidman"
+        ],
+        "correct_answer": "B. Brenda Durham",
+        "passage_id": "para_003",
+        "test_id": "test_05",
+        "marks": 1
+      },
+      {
+        "id": 30,
+        "type": "dropdown",
+        "text": "<b>32. Internal training is favoured because it is more relevant.</b>",
+        "options": [
+          "A. Louise Edwards",
+          "B. Brenda Durham",
+          "C. Jeff Blackshaw",
+          "D. Brian Osborne",
+          "E. Alan Kidman"
+        ],
+        "correct_answer": "C. Jeff Blackshaw",
+        "passage_id": "para_003",
+        "test_id": "test_05",
+        "marks": 1
+      },
+      {
+        "id": 31,
+        "type": "dropdown",
+        "text": "<b>33. Cooperation within a workplace is vital.</b>",
+        "options": [
+          "A. Louise Edwards",
+          "B. Brenda Durham",
+          "C. Jeff Blackshaw",
+          "D. Brian Osborne",
+          "E. Alan Kidman"
+        ],
+        "correct_answer": "E. Alan Kidman",
+        "passage_id": "para_003",
+        "test_id": "test_05",
+        "marks": 1
+      },
+      {
+        "id": 32,
+        "type": "dropdown",
+        "text": "<b>34.A training exercise will encourage creativity.<b>",
+        "options": [
+          "A. Louise Edwards",
+          "B. Brenda Durham",
+          "C. Jeff Blackshaw",
+          "D. Brian Osborne",
+          "E. Alan Kidman"
+        ],
+        "correct_answer": "C. Jeff Blackshaw",
+        "passage_id": "para_003",
+        "test_id": "test_05",
+        "marks": 1
+      },
+      {
+        "id": 33,
+        "type": "dropdown",
+        "text": "<b>35. Game-based learning can be counterproductive.</b>",
+        "options": [
+          "A. Louise Edwards",
+          "B. Brenda Durham",
+          "C. Jeff Blackshaw",
+          "D. Brian Osborne",
+          "E. Alan Kidman"
+        ],
+        "correct_answer": "A. Louise Edwards",
+        "passage_id": "para_003",
+        "test_id": "test_05",
+        "marks": 1
+      },
+      {
+        "id": 34,
+        "type": "fill_in_the_blanks",
+        "text": "<b>Questions 36-40 Complete the summary USING NO MORE THAN TWO WORDS from Reading Passage 3 for each answer.<br><br>36. Team building can be considered to have ____ clear stages.",
+        "correct_answer": " four/4",
+        "passage_id": "para_003",
+        "test_id": "test_05",
+        "marks": 1
+      },
+      {
+        "id": 35,
+        "type": "fill_in_the_blanks",
+        "text": "<b>37. Initially, it is essential to be clear as to the _____ of the entire team or company.</b>",
+        "correct_answer": "collective goals",
+        "passage_id": "para_003",
+        "test_id": "test_05",
+        "marks": 1
+      },
+      {
+        "id": 36,
+        "type": "fill_in_the_blanks",
+        "text": "<b>38. Those barriers which are preventing the team from achieving these aims are identified as ______ and are addressed by introducing enablers.</b>",
+        "correct_answer": "inhibitors",
+        "passage_id": "para_003",
+        "test_id": "test_05",
+        "marks": 1
+      },
+      {
+        "id": 37,
+        "type": "fill_in_the_blanks",
+        "text": "<b>39. Here the use of _________ can be used to help build a cooperative relationship</b>",
+        "correct_answer": "humour",
+        "passage_id": "para_003",
+        "test_id": "test_05",
+        "marks": 1
+      },
+      {
+        "id": 38,
+        "type": "fill_in_the_blanks",
+        "text": "<b>40. Finally, success can be quantified and continually ________ </b> ",
+        "correct_answer": "monitored",
+        "passage_id": "para_003",
+        "test_id": "test_05",
+        "marks": 1
+      }
+    ]
+  }
+]

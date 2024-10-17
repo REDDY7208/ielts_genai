@@ -1,0 +1,365 @@
+{
+    "test_id": "test_02",
+    "sections": [
+      {
+        "part": "Section_01",
+        "paragraph_title": "South city cycling club / Name of club secretary: Jim Hunter",
+        "instructions": {
+          "main_head_001": "SECTION 1 - Complete the notes below. Write ONE WORD OR A NUMBER."
+        },
+        "questions": [
+          {
+            "id": 1,
+            "text": "<b>Membership</b><br>Full membership costs $260; this covers cycling and <b> (1)  _______ </b>all over Australia",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "races",
+            "marks": 1
+          },
+          {
+            "id": 2,
+            "text": "• Recreational membership costs $108 <br> • Cost of membership includes the club fee and <b>(2)  _______ </b>",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "insurance",
+            "marks": 1
+          },
+          {
+            "id": 3,
+            "text": "The club kit is made by a company called <b>(3)  _______ </b>",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "Jerriz",
+            "marks": 1
+          },
+          {
+            "id": 4,
+            "text": "<b>Training rides</b><br>• Chance to improve cycling skills and fitness<br>• Level B: speed about <b>(4)  _______ </b>kph",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "25",
+            "marks": 1
+          },
+          {
+            "id": 5,
+            "text": "<b>• Weekly sessions</b> <br>o Tuesdays at 5.30 am, meet at the <b>(5)  _______ </b>",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "stadium",
+            "marks": 1
+          },
+          {
+            "id": 6,
+            "text": "o Thursdays at 5.30 am, meet at the entrance to the <b>(6)  _______ </b>",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "park",
+            "marks": 1
+          },
+          {
+            "id": 7,
+            "text": "<b>Further information </b><br>• Rides are about an hour and half.<br> •  Members often have <b>(7)  _______ </b> together afterwards",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "coffee",
+            "marks": 1
+          },
+          {
+            "id": 8,
+            "text": " • There is not always a <b>(8)  _______ </b> with the group on these rides",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "leader",
+            "marks": 1
+          },
+          {
+            "id": 9,
+            "text": "• Check and print the <b>(9)  _______ </b>on the website beforehand",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "route",
+            "marks": 1
+          },
+          {
+            "id": 10,
+            "text": "• Bikes must have <b>(10)  _______ </b>",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "lights",
+            "marks": 1
+          }
+        ]
+      },
+      {
+        "part": "Section_02",
+        "paragraph_title": "Information on company volunteering projects",
+        "instructions": {
+          "main_head_001": "SECTION 2 - Choose the correct letter A, B, or C.",
+          "main_head_002": ""
+        },
+        "questions": [
+          {
+            "id": 11,
+            "text": "<b>11.</b> How much time for volunteering does the company allow per employee?",
+            "type": "choose_the_best",
+            "options": ["A two hours per week", "B one day per month", "C 8 hours per year"],
+            "correct_answer": "C 8 hours per year",
+            "marks": 1
+          },
+          {
+            "id": 12,
+            "text": "<b>12.</b> In feedback almost all employees said that volunteering improved their",
+            "type": "choose_the_best",
+            "options": ["A chances of promotion", "B job satisfaction", "C relationships with colleagues"],
+            "correct_answer": "B job satisfaction",
+            "marks": 1
+          },
+          {
+            "id": 13,
+            "text": "<b>13.</b> Last year some staff helped unemployed people with their",
+            "type": "choose_the_best",
+            "options": ["A literacy skills", "B job applications", "C communication skills"],
+            "correct_answer": "C communication skills",
+            "marks": 1
+          },
+          {
+            "id": 14,
+            "text": "<b>14.</b> This year the company will start a new volunteering project with a local",
+            "type": "choose_the_best",
+            "options": ["A school", "B park", "C charity"],
+            "correct_answer": "B park",
+            "marks": 1
+          },
+          {
+            "id": 15,
+            "text": "<b>15.</b> Where will the Digital Inclusion Day be held?",
+            "type": "choose_the_best",
+            "options": ["A at the company’s training facility", "B at a college", "C in a community centre"],
+            "correct_answer": "B at a college",
+            "marks": 1
+          },
+          {
+            "id": 16,
+            "text": "<b>16.</b> What should staff do if they want to take part in the Digital Inclusion Day?",
+            "type": "choose_the_best",
+            "options": ["A fill in a form", "B attend a training workshop", "C get permission from their managers"],
+            "correct_answer": "A fill in a form",
+            "marks": 1
+          },
+          {
+            "id": 17,
+            "text": "<b>Questions 17 and 18</b><br>Choose <b>TWO</b> letters <b>A-E</b><br><b>Which TWO things are mentioned about the participants on the last Digital Inclusion Day?</b>",
+            "type": "checkbox",
+            "options": [
+              "A they were all over 70",
+              "B they never used their computer",
+              "C their phones were mostly old fashioned",
+              "D they only used their phones for making calls",
+              "E they initially showed little interest"
+            ],
+            "correct_answer": ["C their phones were mostly old fashioned", "E they initially showed little interest"],
+            "marks": 2
+          },
+          {
+            "id": 18,
+            "text": "<b>Questions 19 and 20</b><br>Choose <b>TWO</b> letters <b>A-E</b><br><b>What TWO activities on the last Digital Inclusion Day did participants describe as useful?</b>",
+            "type": "checkbox",
+            "options": [
+              "A learning to use tablets",
+              "B communicating with family",
+              "C shopping online",
+              "D playing online games",
+              "E sending emails"
+            ],
+            "correct_answer": ["B communicating with family", "D playing online games"],
+            "marks": 2
+          }
+          
+        ]
+      },
+      {
+        "part": "Section_03",
+        "paragraph_title": "Planning a presentation on nanotechnology",
+        "instructions": {
+          "main_head_001": "SECTION 3 - Choose the correct letter A, B, or C.",
+          "main_head_002": ""
+        },
+        "questions": [
+          {
+            "id": 19,
+            "text": "<b>21.</b> Russ says that his difficulty in planning the presentation is due to",
+            "type": "choose_the_best",
+            "options": ["A his lack of knowledge about the topic.", "B his uncertainty about what he should try to achieve.", "C the short time that he has for preparation."],
+            "correct_answer": "B his uncertainty about what he should try to achieve.",
+            "marks": 1
+          },
+          {
+            "id": 20,
+            "text": "<b>22.</b>Russ and his tutor agree that his approach in the presentation will be",
+            "type": "choose_the_best",
+            "options": ["A to concentrate on how nanotechnology is used in one field.", "B to follow the chronological development of nanotechnology.", "C to show the range of applications of nanotechnology."],
+            "correct_answer": "A",
+            "marks": 1
+          },
+          {
+            "id": 21,
+            "text": "<b>23.</b>In connection with slides, the tutor advises Russ to",
+            "type": "choose_the_best",
+            "options": [" A talk about things that he can find slides to illustrate.", " B look for slides to illustrate the points he makes.", " C consider omitting slides altogether."],
+            "correct_answer": "C",
+            "marks": 1
+          },
+          {
+            "id": 22,
+            "text": "<b>24.</b>They both agree that the best way for Russ to start his presentation is",
+            "type": "choose_the_best",
+            "options": [" A to encourage the audience to talk.", " B to explain what Russ intends to do.", " C to provide an example."],
+            "correct_answer": "C",
+            "marks": 1
+          },
+          {
+            "id": 23,
+            "text": "<b>25.</b>What does the tutor advise Russ to do next while preparing his presentation?",
+            "type": "choose_the_best",
+            "options": [" A summarise the main point he wants to make", " B read the notes he has already made", " C list the topics he wants to cover"],
+            "correct_answer": "A",
+            "marks": 1
+          },
+          {
+            "id": 24,
+            "text": "<b>Questions 26-30</b><br> <b>What comments do the speakers make about each of the following aspects of Russ’s previous presentation?</b> <br>Choose <b>FIVE</b> answers from the box and write the correct letter only not a sentence <b>A-G</b> next to questions <b>26-30</b><br><br> <b>Comments</b><br><b>A</b> lacked a conclusion<br><b>B</b> useful in the future<br><b>C</b> not enough<br><b>D</b> sometimes distracting<br><b>E</b> showed originality<br><b>F</b> covered a wide range<br><b>G</b> not too technical<br><br><b>26</b>. structure: <b>_______</b>",
+            "type": "dropdown",
+            "options": ["A lacked a conclusion","B useful in the future","C not enough","D sometimes distracting","E showed originality","F covered a wide range","G not too technical"],
+            "correct_answer": "A lacked a conclusion",
+            "marks": 1
+          },
+          {
+            "id": 25,
+            "text": "<b>27</b>. eye contact: <b>_______</b>",
+            "type": "dropdown",
+            "options": ["A lacked a conclusion","B useful in the future","C not enough","D sometimes distracting","E showed originality","F covered a wide range","G not too technical"],
+            "correct_answer": "C not enough",
+            "marks": 1
+          },
+          {
+            "id": 26,
+            "text": "<b>28</b>. body language: <b>_______</b>",
+            "type": "dropdown",
+            "options": ["A lacked a conclusion","B useful in the future","C not enough","D sometimes distracting","E showed originality","F covered a wide range","G not too technical"],
+            "correct_answer": "D sometimes distracting",
+            "marks": 1
+          },
+          {
+            "id": 27,
+            "text": "<b>29</b>. choice of words: <b>_______</b>",
+            "type": "dropdown",
+            "options": ["A lacked a conclusion","B useful in the future","C not enough","D sometimes distracting","E showed originality","F covered a wide range","G not too technical"],
+            "correct_answer": "G not too technical",
+            "marks": 1
+          },
+          {
+            "id": 28,
+            "text": "<b>30</b>. handouts: <b>_______</b>",
+            "type": "dropdown",
+            "options": ["A lacked a conclusion","B useful in the future","C not enough","D sometimes distracting","E showed originality","F covered a wide range","G not too technical"],
+            "correct_answer": "B useful in the future",
+            "marks": 1
+          }
+          
+        ]
+      },
+       {
+      "part": "Section_04",
+      "paragraph_title": "Episodic memory",
+      "instructions": {
+        "main_head_001": "SECTION 4 - Questions 31-40 .Complete the notes below. Write ONE WORD ONLY for each answer."
+              },
+      "questions": [
+        {
+          "id": 29,
+          "text": " • The ability to recall details e.g. the time and <b>(31) ________ </b>of past events",
+          "type": "fill_in_the_blanks",
+          "options": [],
+          "correct_answer": "location",
+          "marks": 1
+        },
+        {
+          "id": 30,
+          "text": "• Different to semantic memory- the ability to remember general information about the<b> (32) __________ </b><br>",
+          "type": "fill_in_the_blanks",
+          "options": [],
+          "correct_answer": "world",
+          "marks": 1
+        },
+        {
+          "id": 31,
+          "text": "•which does not involve recalling <b> (33) __________ </b>information <b>",
+          "type": "fill_in_the_blanks",
+          "options": [],
+          "correct_answer":"personal",
+          "marks": 1
+        },
+        {
+          "id": 32,
+          "text": "Forming episodic memories involves three steps:<br><b>Encoding </b><br>• Involves receiving and processing information<br>• The more <b>(34)  __________ </b> given to an event the more successfully it can be encoded",
+          "type": "fill_in_the_blanks",
+          "options": [],
+          "correct_answer": "attention",
+          "marks": 1
+        },
+         {
+          "id": 33,
+          "text": "• To remember a <b>(35)  __________ </b>    it is useful to have a strategy for encoding such information",
+          "type": "fill_in_the_blanks",
+          "options": [],
+          "correct_answer": "name",
+          "marks": 1
+        },
+        {
+          "id": 34,
+          "text": "<b>Consolidation </b><br>• How memories are strengthened and stored <br>• Most effective when memories can be added to a <b>(36)  __________ </b>  ",
+          "type": "fill_in_the_blanks",
+          "options": [],
+          "correct_answer": "network",
+          "marks": 1
+        },
+        {
+          "id": 35,
+          "text": "• The <b>(37)  __________ </b>   of retrieval affects the strength of memories",
+          "type": "fill_in_the_blanks",
+          "options": [],
+          "correct_answer": "frequency",
+          "marks": 1
+        },
+        {
+          "id": 36,
+          "text": "<b>Retrieval </b><br>• Memory retrieval often depends on using a prompt e.g. the <b>(38)  __________ </b>  of an object near to the place where you left your car",
+          "type": "fill_in_the_blanks",
+          "options": [],
+          "correct_answer": "color",
+          "marks": 1
+        },
+        {
+          "id": 37,
+          "text": "<b>Episodic memory impairments</b> <br>• These affect people with a wide range of medical conditions <br>• Games which stimulate the <b>(39)  __________ </b>   have been found to help people with schizophrenia",
+          "type": "fill_in_the_blanks",
+          "options": [],
+          "correct_answer": "brain",
+          "marks": 1
+        },
+        {
+          "id": 38,
+          "text": "• Children with autism may have difficulty forming episodic memories – possibly because their concept of the <b>(40)  ___________</b> may be absent<br>• Memory training may help autistic children to develop social skills",
+          "type": "fill_in_the_blanks",
+          "options": [],
+          "correct_answer": " self",
+          "marks": 1
+        }
+      
+      ]
+    }
+  ],
+  
+   "submitEndpoint": "http://localhost:5010/api/submit/test02"
+}
+  

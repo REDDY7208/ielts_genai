@@ -1,0 +1,426 @@
+[
+ 
+  
+  {
+      
+    
+    "test_id": "test_01",
+    "essay_no": "para_001",
+    "paragraph_title": "MOUNT EVEREST AND HILLARY",
+    "paragraph_text": "Mount Everest, also known as Sagarmartha (Goddess of the Sky), is 8,348 metres tall, the highest mountain on earth above sea level. Formed about 60 million years ago and lying between Tibet and Nepal, Mount Everest appeals to climbers of every level, from novice to experienced climber. Each mountaineer pays a considerable amount of money to an experienced guide to help them achieve a successful climb. Everest was given its official English name in 1865 by the Royal Geographic Society upon recommendation of Andrew Waugh, the British Surveyor General of India at the time.\n\n When Everest was officially announced as the world’s highest mountain in 1852, it won interest from people all over the world, and the idea of climbing all (lie way to the summit was viewed as the ultimate feat. Nobody was able to climb Everest until 1920 when Tibet first opened its borders to outsiders, and between 1920 and 1952, seven major expeditions failed to reach the tip of Mount Everest, In fact, the mountain has a history of adversity and failure. With advances in climbing equipment in the last ten years or so, and more experienced guides, the fatality rates have dropped from 37% in 1990 to 4% in 2004. Nonetheless, the deadliest year in Mount Everest’s history was 1996, when 19 people died near the summit.\n\n In 1924, Mount Everest claimed the lives of its first two climbers. George Mallory and Andrew Irvine were two British climbers, attempting to reach the summit. The men were last seen heading for the top of the mountain until clouds surrounded Everest and they disappeared. Mallory’s body was not seen again until 75 years on, in May of 1999, and Irvine’s body is yet to be found. There is still no evidence as to whether these two men made it to the top or not, although disputes rages on, Those that believe the pair were the first; to climb Everest point to two specific points, firstly, Mallory’s daughter has always said that Mallory carried a photograph of his wife on his person with the intention of leaving it on the summit when he reached it. This photo was not found on the body when it was discovered. Secondly, Mallory’s snow’ goggles were in his pocket when the body was found, indicating that he died at night. This implies that he and Irvine had made a push for the summit and were descending very late in the day. Given their known departure time and movements, had they not made the summit, it is unlikely that they would have still been out by nightfall.\n\n The first time the actual peak of this monstrous mountain was reached was in 1953, in a combined effort by Sir Edmund Hillary and Tenzing Norgay. On the 29th of May that year, the duo conquered this epic mountain, standing at the highest point in the world for a brief 15 minutes. After a brief but fruitless search for evidence of the 1924 Mallory expedition, they buried a cross and some candy in the snow, taking a few photographs of the historic event. As Norgay had never operated a camera, there are no photographs of Hillary on top of the mountain, just shots of Norgay, and some additional photos looking down the mountain, ensuring evidence of their conquest and that the ascent was not faked.\n\n When the news reached London on June 2nd, Sir Edmund Hillary was knighted in the Order of the British Empire and Norgay (a subject of the King of Nepal) was granted the George Medai by the UK, Sir Hillary turned to Antarctic exploration and led the New Zealand section of the Trans-Antarctic expedition from 1955 to 1958. In 1958, he took part in a mechanised expedition to the South Pole. Hillary continued to organise further mountain- climbing expeditions but, as the years passed, he became more and more concerned with the welfare of the Nepalese people. In the 1960s, he returned to Nepal, to aid in the development of the society, building clinics, hospitals and schools. After conquering Everest, Sir Edmund Hillary devoted most of his life to helping the Sherpa people of Nepal through the Himalayan Trust.\n\n In January 2007, Sir Edmund Hillary went to Antarctica to commemorate the 50th anniversary of the founding of Scott Base. He flew to the station on 18 January 2007 with a delegation including the Prime Minister. On the 22nd of April 2007, while on a trip to Kathmandu, he was reported to have suffered a fall. There was no comment on the nature of his illness and lie did not immediately seek treatment. He was hospitalized after returning to New Zealand. Sadly, Sir Edmund Hillary died of a heart attack on the morning of January the 11th 2008. Hillary’s life was marked by wonderful achievements, his giving nature, grand discovery, and excitement. But he was a humble man who did not admit to being the first man to reach the summit of Everest until long after 1386, well after the death of his climbing companion Tenzing Norgay.\n\n The latest record for climbing Mount Everest was set on the 30th of May in 2005 by Nepalese Mona Mulepati and PemDorje Sherpa, who were the first couple to get married on top of Mount Everest.",
+  "instructions": {
+        "main_head_001": "Questions 1–6\nAnswer the questions below using NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer.\n\nWrite your answers in boxes 1 – 6 on your answer sheet.",
+        "main_head_002": "Questions 7–12\nDo the following statements agree with the information given in the reading passage?\n\nIn boxes 7–12 on your answer sheet write\n\nTRUE. if the statement agrees with the information\nFALSE. if the statement contradicts the information\nNOT GIVEN. If there is no information on this"
+    },
+    "questions": [
+        {
+            "id": 1,
+            "text": "<b> Questions 1–6 Answer the questions below using NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer.<br></strong><br><br>1.Who suggested that the name Everest be used to refer to the mountain?</b>",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "Andrew Waugh",
+            "passage_id": "para_001",
+            "test_id": "test_01" 
+        },
+        {
+            "id": 2,
+            "text": "<b>2. Which country prevented explorers climbing Everest until 1920?</b>",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "Nepal",
+            "passage_id": "para_001",
+            "test_id": "test_01"
+        },
+        {
+            "id": 3,
+            "text": "<b>3.What has not yet been recovered?</b>",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "Mallory's body",
+            "passage_id": "para_001",
+            "test_id": "test_01"
+        },
+        {
+            "id": 4,
+            "text": "<b>4. What was not found on Mallory’s body that indicates he may have reached the summit?</b>",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "summit badge",
+            "passage_id": "para_001",
+            "test_id": "test_01"
+        },
+        {
+            "id": 5,
+            "text": "<b>5. Who was photographed at the top of the mountain?</b>",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "Tenzing Norgay",
+            "passage_id": "para_001",
+            "test_id": "test_01"
+        },
+        {
+            "id": 6,
+            "text": "<b>6. What was the name of Hillary’s charitable organisation?</b>",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "Himalayan Trust",
+            "passage_id": "para_001",
+            "test_id": "test_01"
+        },
+        {
+            "id": 7,
+            "text": "<b>Questions 7–12 Do the following statements agree with the information given in the reading passage?<br>\n\nTRUE. if the statement agrees with the information\nFALSE. <br>if the statement contradicts the information\nNOT GIVEN. If there is no information on this</strong><br><br>7.Mortality rates on Everest have consistently declined since 1990.",
+            "type": "true_false_not_given",
+            "options": ["TRUE", "FALSE", "NOT GIVEN"],
+            "correct_answer": "NOT GIVEN",
+            "passage_id": "para_001",
+            "test_id": "test_01"
+        },
+        {
+            "id": 8,
+            "text": "<b>8. Hillary found evidence of the Mallory expedition.</b>",
+            "type": "true_false_not_given",
+            "options": ["TRUE", "FALSE", "NOT GIVEN"],
+            "correct_answer": "FALSE",
+            "passage_id": "para_001",
+            "test_id": "test_01"
+        },
+        {
+            "id": 9,
+            "text": "<b>9. Photographs were taken from the summit as proof of the Hillary/Norgay ascent.</b>",
+            "type": "true_false_not_given",
+            "options": ["TRUE", "FALSE", "NOT GIVEN"],
+            "correct_answer": "NOT GIVEN",
+            "passage_id": "para_001",
+            "test_id": "test_01"
+        },
+        {
+            "id": 10,
+            "text": "<b>10. Both Hillary and Norgay received recognition of their achievement from the British government.</b>",
+            "type": "true_false_not_given",
+            "options": ["TRUE", "FALSE", "NOT GIVEN"],
+            "correct_answer": "NOT GIVEN",
+            "passage_id": "para_001",
+            "test_id": "test_01"
+        },
+        {
+            "id": 11,
+            "text": "<b>11. Hillary was the first person to reach the South Pole by mechanized transport.</b>",
+            "type": "true_false_not_given",
+            "options": ["TRUE", "FALSE", "NOT GIVEN"],
+            "correct_answer": "NOT GIVEN",
+            "passage_id": "para_001",
+            "test_id": "test_01"
+        },
+        {
+            "id": 12,
+            "text": "<b>12. Hillary’s death was attributed to an accident that occurred in Kathmandu.</b>",
+            "type": "true_false_not_given",
+            "options": ["TRUE", "FALSE", "NOT GIVEN"],
+            "correct_answer": "NOT GIVEN",
+            "passage_id": "para_001",
+            "test_id": "test_01"
+        }
+    ]
+  },
+  {
+      
+    "essay_no": "para_002",
+    "paragraph_title": "SLEEP",
+    "paragraph_text": "A. Like many things about your body, scientists and medical professionals still have a lot to learn about the process of sleep. One earlier misconception that has now been revised is that the body completely slows down during sleep; it is now clear that the body’s major organs and regulatory systems continue to work actively – the lungs, heart, and stomach for example. Another important part of the body also operates at night – the glands and lymph nodes, which strengthen the immune system. This is commonly why the body’s natural immunity is weakened with insufficient sleep.\n\nB. In some cases, certain systems actually become more active while we sleep. Hormones required for muscle development and growth, for instance, as well as the growth of new nerve cells. In the brain, activity of the pathways needed for learning and memory is increased.\n\nC. Another common myth about sleep is that the body requires less sleep the older we get. Whilst it is true that babies need 16 hours compared to 9 hours and 8 hours respectively for teenagers and adults, this does not mean that older people need less sleep. However, what is true is that for a number of different factors, they often get less sleep or find their sleep less refreshing. This is because as people age, they spend less time in the deep, restful stages of sleep and are more easily awakened. Older people are also more likely to have medical conditions that affect their sleep, such as insomnia, sleep apnoea, and heart problems.\n\nD. Getting a good sleep is not just a matter of your head hitting the pillow at night and waking up in the morning. Your sleep goes in cycles throughout the night, moving back and forth between deep restorative sleep and more alert stages with dreaming. As the night progresses, you spend more time in a lighter dream sleep\n\nE. Sleep patterns can be broken down into two separate and distinct stages – REM and NREM sleep. REM (Rapid Eye Movement) sleep is when you dream. You usually have 3 to 5 periods of REM sleep each night, lasting from 5 minutes to over an hour, during which time your body’s activities increase. Breathing becomes fast, shallow, and uneven, with an increase in brain activity, heartbeat, and blood pressure. Although your major muscles generally don’t move, fingers and toes may twitch and body temperature changes and you may sweat or shiver.\n\nF. Research has concluded that this sleep is most important for your brain. It is when it is most active, processing emotions and memories and relieving stress. The areas used for learning and developing more skills are activated. In fact, the brain waves measured during REM sleep are similar to those measured when awake.\n\nG. NREM (Non-Rapid Eye Movement) sleep is dreamless sleep. NREM sleep consists of four stages of deeper and deeper sleep. As you move through the stages, you become more relaxed, less aware of what is happening around you, and more difficult to wake. Your body’s activity will also decrease as you move through the NREM stages, acting in the opposite manner to REM sleep. Stage 1 of NREM sleep is when you are falling asleep. This period generally lasts between 5 and 10 minutes, during which time you can be woken easily. During stage 2, you are in a light sleep—the in-between stage before you fall into a deep sleep. It lasts about 20 minutes. In stage 3, deep sleep begins, paving the way for stage 4, in which you are difficult to awaken and unaware of anything around you. This is when sleepwalking and talking can occur. This is the most important stage for your body. Your brain has slowed right down and is recovering. Blood flow is redirected from your brain to your large muscles allowing them to mend any damage from your day at work. People woken quickly from stage 4 sleep often feel a sense of disorientation, which is why it is helpful to use an alarm clock with an ascending ring.\n\nH. About an hour and a half into your sleep cycle, you will go from deep Stage 4 sleep back into light Stage 2 sleep, then into REM sleep, before the cycle begins again. About 75% of your sleep is NREM sleep. If you sleep for eight hours, about six of them will be NREM sleep. As the night progresses, you spend more time in dream sleep and lighter sleep.\n\nI. When you constantly get less sleep (even 1 hour less) than you need each night, it is called sleep debt. You may pay for it in daytime drowsiness, trouble concentrating, moodiness, lower productivity, and increased risk of falls and accidents. Although a daytime nap cannot replace a good night’s sleep, it can help make up for some of the harm done as a result of sleep debt. But avoid taking a nap after 3 pm as late naps may stop you from getting to sleep at night. And avoid napping for longer than 30 minutes as longer naps will make it harder to wake up and get back into the swing of things.",
+    "instructions": {
+      "main_head_001": "Questions 13-16\nDo the following statements agree with the information given in the reading passage?\n\nIn boxes 13-16 on your answer sheet write:\n\nTRUE. if the statement agrees with the information\nFALSE. if the statement contradicts the information\nNOT GIVEN. If there is no information on this",
+      "main_head_002": "Questions 17-20\nComplete the sentences below using NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer.\n\nWrite your answers in boxes 17–20 on your answer sheet.",
+      "main_head_003": "Questions 21-22\nChoose TWO letters, A-E.\n\nWrite your answers in boxes 21-22.\n\nNB Your answers may be given in either order.",
+      "main_head_004": "Questions 23-27\nThe reading passage has nine paragraphs, A-I.\n\nWhich paragraph contains the following information?\n\nWrite the correct letter A-I in boxes 23-27."
+    },
+    "questions": [
+      {
+        "id": 13,
+        "text": " <strong>\n Questions 13-16 Do the following statements agree with the information given in the reading passage?\n\n TRUE. if the statement agrees with the information\n FALSE. if the statement contradicts the information\n NOT GIVEN. If there is no information on this</strong><br><br><b>13.It was previously believed that biological processes slowed during sleep.</b>",
+        "type": "true_false_not_given",
+        "options": [
+          "True",
+          "False",
+          "Not Given"
+        ],
+        "correct_answer": "True",
+        "passage_id": "para_002",
+        "test_id": "test_01"
+      },
+      {
+        "id": 14,
+        "text": "<b>14.Teenagers lose less sleep than adults when they have a medical condition.</b>",
+        "type": "true_false_not_given",
+        "options": [
+          "True",
+          "False",
+          "Not Given"
+        ],
+        "correct_answer": "False",
+        "passage_id": "para_002",
+        "test_id": "test_01"
+      },
+      {
+        "id": 15,
+        "text": "<b>15.During the night, our sleep becomes increasingly deep.</b>",
+        "type": "true_false_not_given",
+        "options": [
+          "True",
+          "False",
+          "Not Given"
+        ],
+        "correct_answer": "False",
+        "passage_id": "para_002",
+        "test_id": "test_01"
+      },
+      {
+        "id": 16,
+        "text": "<b>16.Lack of sleep can cause heart problems and other medical conditions.</b>",
+        "type": "true_false_not_given",
+        "options": [
+          "True",
+          "False",
+          "Not Given"
+        ],
+        "correct_answer": "True",
+        "passage_id": "para_002",
+        "test_id": "test_01"
+      },
+      {
+        "id": 17,
+        "text": "<strong> Questions 17-20 Complete the sentences below using NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer.\n\n</strong><br><br><b>17. REM sleep can help reduce __________</b>",
+        "type": "fill_in_the_blanks",
+        "options": [],
+        "correct_answer": "stress and memories",
+        "passage_id": "para_002",
+        "test_id": "test_01"
+      },
+      {
+        "id": 18,
+        "text": "<b>18. During REM sleep, __________ are similar to those recorded whilst awake.</b>",
+        "type": "fill_in_the_blanks",
+        "options": [],
+        "correct_answer": "brain waves",
+        "passage_id": "para_002",
+        "test_id": "test_01"
+      },
+      {
+        "id": 19,
+        "text": "<b>19. During Stage 1 NREM sleep, you can be __________ with little effort.</b>",
+        "type": "fill_in_the_blanks",
+        "options": [],
+        "correct_answer": "awakened easily",
+        "passage_id": "para_002",
+        "test_id": "test_01"
+      },
+      {
+        "id": 20,
+        "text": "<b>20. Suddenly being woken from deep sleep can cause __________</b>",
+        "type": "fill_in_the_blanks",
+        "options": [],
+        "correct_answer": "a sense of disorientation",
+        "passage_id": "para_002",
+        "test_id": "test_01"
+      },
+      {
+        "id": 21,
+        "text": "<strong> Questions 21-22 Choose TWO letters, A-E.\n\n Write your answers in boxes 21-22.\n\n NB Your answers may be given in either order.</strong><br><br><b> Which of the following are true about REM sleep? (Select 2 options that apply)</b>",
+        "type": "checkbox",
+        "options": [
+          "A: is more common for younger people.",
+          "B: is when we dream.",
+          "C: may cause your extremities to move of their own accord.",
+          "D: lasts about an hour a night.",
+          "E: is when the brain is most relaxed."
+        ],
+        "correct_answer": ["B", "C"],
+        "passage_id": "para_002",
+        "test_id": "test_01"
+      },
+     
+      {
+        "id": 22,
+        "text": "<b>23.  Differences in sleep patterns between generations</b>",
+        "type": "dropdown",
+        "options": ["A", "B", "C", "D", "E", "F", "G", "H", "I"],
+        "correct_answer": "C",
+        "passage_id": "para_002",
+        "test_id": "test_01"
+      },
+      {
+        "id": 23,
+        "text": " <strong>\n Questions 24-26 The reading passage has nine paragraphs, A-I.\n\nWhich paragraph contains the following information?\n\nWrite the correct letter A-I </strong><br><br><b>24. Brain activity is limited as resources are diverted</b>",
+        "type": "dropdown",
+        "options": ["A", "B", "C", "D", "E", "F", "G", "H", "I"],
+        "correct_answer": "G",
+        "passage_id": "para_002",
+        "test_id": "test_01"
+      },
+      {
+        "id": 24,
+        "text": "<b>25. Repetition of the cycle</b>",
+        "type": "dropdown",
+        "options": ["A", "B", "C", "D", "E", "F", "G", "H", "I"],
+        "correct_answer": "H",
+        "passage_id": "para_002",
+        "test_id": "test_01"
+      },
+      {
+        "id": 25,
+        "text": "<b>26. Dangers of accumulated lack of sleep</b>",
+        "type": "dropdown",
+        "options": ["A", "B", "C", "D", "E", "F", "G", "H", "I"],
+        "correct_answer": "I",
+        "passage_id": "para_002",
+        "test_id": "test_01"
+      }
+      
+    ]
+  },
+  {
+    
+    "test_id": "test_01",
+    "essay_no": "para_003",
+    "paragraph_title": "Stealth Forces in Weight Loss",
+    "paragraph_text": "Stealth Forces in Weight Loss The field of weight loss is like the ancient fable about the blind men and the elephant. Each man investigates a different part of the animal and reports back, only to discover their findings are bafflingly incompatible.\n\n A. The various findings by public-health experts, physicians, psychologists, geneticists, molecular biologists, and nutritionists are about as similar as an elephant’s tusk is to its tail. Some say obesity is largely predetermined by our genes and biology; others attribute it to an overabundance of fries, soda, and screensucking; still others think we’re fat because of viral infection, insulin, or the metabolic conditions we encountered in the womb. “Everyone subscribes to their own little theory,” says Robert Berkowitz, medical director of the Center for Weight and Eating Disorders at the University of Pennsylvania School of Medicine. We’re programmed to hang onto the fat we have, and some people are predisposed to create and carry more fat than others. Diet and exercise help, but in the end the solution will inevitably be more complicated than pushing away the plate and going for a walk. “It’s not as simple as ‘You’re fat because you’re lazy,’” says Nikhil Dhurandhar, an associate professor at Pennington Biomedical Research Center in Baton Rouge. “Willpower is not a prerogative of thin people. It’s distributed equally.” \n\n B. Science may still be years away from giving us a miracle formula for fat-loss. Hormone leptin is a crucial player in the brain’s weight-management circuitry. Some people produce too little leptin; others become desensitized to it. And when obese people lose weight, their leptin levels plummet along with their metabolism. The body becomes more efficient at using fuel and conserving fat, which makes it tough to keep the weight off. Obese dieters’ bodies go into a state of chronic hunger, a feeling Rudolph Leibel, an obesity researcher at Columbia University, compares to thirst. “Some people might be able to tolerate chronic thirst, but the majority couldn’t stand it,” says Leibel. “Is that a behavioral problem - a lack of willpower? I don’t think so.”\n\n  C. The government has long espoused moderate daily exercise - of the evening-walk or take-the-stairs variety - but that may not do much to budge the needle on the scale. A 150-pound person burns only 150 calories on a half-hour walk, the equivalent of two apples. It’s good for the heart, less so for the gut. “Radical changes are necessary,” says Deirdre Barrett, a psychologist at Harvard Medical School and author of Waistland. “People don’t lose weight by choosing the small fries or taking a little walk every other day.” Barrett suggests taking a cue from the members of the National Weight Control Registry (NWCR), a self-selected group of more than 5,000 successful weight-losers who have shed an average of 66 pounds and kept it off 5.5 years. Some registry members lost weight using low-carb diets; some went low-fat; others eliminated refined foods. Some did it on their own; others relied on counseling. That said, not everyone can lose 66 pounds and not everyone needs to. The goal shouldn’t be getting thin, but getting healthy. It’s enough to whittle your weight down to the low end of your set range, says Jeffrey Friedman, a geneticist at New York’s Rockefeller University. Losing even 10 pounds vastly decreases your risk of diabetes, heart disease, and high blood pressure. The point is to not give up just because you don’t look like a swimsuit model. \n\n D. The negotiation between your genes and the environment begins on day one. Your optimal weight, writ by genes, appears to get edited early on by conditions even before birth, inside the womb. If a woman has high blood-sugar levels while she’s pregnant, her children are more likely to be overweight or obese, according to a study of almost 10,000 mother-child pairs. Maternal diabetes may influence a child’s obesity risk through a process called metabolic imprinting, says Teresa Hillier, an endocrinologist with Kaiser Permanente’s Center for Health Research and the study’s lead author. The implication is clear: Weight may be established very early on, and obesity largely passed from mother to child. Numerous studies in both animals and humans have shown that a mother’s obesity directly increases her child’s risk for weight gain. The best advice for moms-to-be: Get fit before you get pregnant. You’ll reduce your risk of complications during pregnancy and increase your chances of having a normal-weight child. \n\n E. It’s the $64,000 question: Which diets work? It got people wondering: Isn’t there a better way to diet? A study seemed to offer an answer. The paper compared two groups of adults: those who, after eating, secreted high levels of insulin, a hormone that sweeps blood sugar out of the bloodstream and promotes its storage as fat, and those who secreted less. Within each group, half were put on a low-fat diet and half on a low-glycemic-load diet. On average, the low-insulin- secreting group fared the same on both diets, losing nearly 10 pounds in the first six months - but they gained about half of it back by the end of the 18-month study. The high-insulin group didn’t do as well on the low-fat plan, losing about 4.5 pounds, and gaining back more than half by the end. But the most successful were the high- insulin-secretors on the low-glycemic-load diet. They lost nearly 13 pounds and kept it off.\n\n  F. What if your fat is caused not by diet or genes, but by germs - say, a virus? It sounds like a sci-fi horror movie, but new research suggests some dimension of the obesity epidemic may be attributable to infection by common viruses, says Dhurandhar. The idea of “infectobesity” came to him 20 years ago when he was a young doctor treating obesity in Bombay. He discovered that a local avian virus, SMAM-1, caused chickens to die, sickened with organ damage but also, strangely, with lots of abdominal fat. In experiments, Dhurandhar found that SMAM-1-infected chickens became obese on the same diet as uninfected ones, which stayed svelte. G. He later moved to the U.S. and onto a bona fide human virus, adenovirus 36 (AD-36). In the lab, every species of animal Dhurandhar infected with the virus became obese - chickens got fat, mice got fat, even rhesus monkeys at the zoo that picked up the virus from the environment suddenly gained 15 percent of their body weight upon exposure. In his latest studies, Dhurandhar has isolated a gene that, when blocked from expressing itself, seems to turn off the virus’s fattening power. Stem cells extracted from fat cells and then exposed to AD-36 reliably blossom into fat cells - but when stem cells are exposed to an AD-36 virus with the key gene inhibited, the stems cells don’t differentiate. The gene appears to be necessary and sufficient to trigger AD-36-related obesity, and the goal is to use the research to create a sort of obesity vaccine.",
+  
+  
+    "instructions": {
+      "main_head_001": "Questions 27-31 Reading Passage has seven sections, A-G. Which section contains the following information? Write the correct letter, A-G, in boxes 27-31 on your answer sheet. NB You may use any letter more than once.",
+      "main_head_002": "Questions 32-36 Look at the following researchers and the list of findings below. Match each researcher with the correct finding. Write the correct letter in boxes 32-36 on your answer sheet. NB You may use any letter more than once. A. Robert Berkowitz B. Rudolph Leibel C. Nikhil Dhurandhar D. Deirdre Barrett E. Jeffrey Friedman F. Teresa Hillier",
+      "main_head_003": "Questions 37-40 Complete the summary below. Choose NO MORE THAN ONE WORD from the passage for each answer. Write your answers in boxes 37-40 on your answer sheet."
+    },
+    "questions": [
+      {
+        "id": 26,
+        "text": " <strong>Questions 27-31 Reading Passage has seven sections, A-G. Which section contains the following information? Write the correct letter, A-G,NB You may use any letter more than once.</strong><br><br><b>27. Evaluation on the effect of weight loss on different kinds of diets:</b>",
+        "type": "dropdown",
+        "options": ["A", "B", "C", "D", "E", "F", "G"],
+        "correct_answer": "E",
+        "passage_id": "para_003",
+        "test_id": "test_01"
+      },
+      {
+        "id": 27,
+        "text": "<b>28. An example of research which includes the relatives of the participants:</b>",
+        "type": "dropdown",
+        "options": ["A", "B", "C", "D", "E", "F", "G"],
+        "correct_answer": "D",
+        "passage_id": "para_003",
+        "test_id": "test_01"
+      },
+      {
+        "id": 28,
+        "text": "<b>29. An example of a group of people who did not regain weight immediately after weight loss:</b>",
+        "type": "dropdown",
+        "options": ["A", "B", "C", "D", "E", "F", "G"],
+        "correct_answer": "C",
+        "passage_id": "para_003",
+        "test_id": "test_01"
+      },
+      {
+        "id": 29,
+        "text": "<b>30. Long term hunger may appear to be acceptable to most of the participants during the period of losing weight program:</b>",
+        "type": "dropdown",
+        "options": ["A", "B", "C", "D", "E", "F", "G"],
+        "correct_answer": "B",
+        "passage_id": "para_003",
+        "test_id": "test_01"
+      },
+      {
+        "id": 30,
+        "text": "<b>31. A continuous experiment may lead to a practical application besides diet or hereditary resort:</b>",
+        "type": "dropdown",
+        "options": ["A", "B", "C", "D", "E", "F", "G"],
+        "correct_answer": "G",
+        "passage_id": "para_003",
+        "test_id": "test_01"
+      },
+      {
+        "id": 31,
+        "text": "<strong>Questions 32-36 Look at the following researchers and the list of findings below. Match each researcher with the correct finding.<br><br> A. Robert Berkowitz <br>B. Rudolph Leibel <br>C. Nikhil Dhurandhar <br>D. Deirdre Barrett<br> E. Jeffrey Friedman <br>F. Teresa Hillier</strong><br><br><b>32. A person’s weight is predetermined by the interaction of his/her DNA and the environment:<b>",
+        "type": "dropdown",
+        "options": ["A", "B", "C", "D", "E", "F"],
+        "correct_answer": "E",
+        "passage_id": "para_003",
+        "test_id": "test_01"
+      },
+      {
+        "id": 32,
+        "text": "<b>33. Pregnant mothers who are overweight may risk their fetus in gaining weight:</b>",
+        "type": "dropdown",
+        "options": ["A", "B", "C", "D", "E", "F"],
+        "correct_answer": "F",
+        "passage_id": "para_003",
+        "test_id": "test_01"
+      },
+      {
+        "id": 33,
+        "text": "<b>34. The aim of losing weight should be keeping healthy rather than being attractive:</b>",
+        "type": "dropdown",
+        "options": ["A", "B", "C", "D", "E", "F"],
+        "correct_answer": "D",
+        "passage_id": "para_003",
+        "test_id": "test_01"
+      },
+      {
+        "id": 34,
+        "text": "<b>35. Small changes in lifestyle will not help in reducing much weight:</b>",
+        "type": "dropdown",
+        "options": ["A", "B", "C", "D", "E", "F"],
+        "correct_answer": "D",
+        "passage_id": "para_003",
+        "test_id": "test_01"
+      },
+      {
+        "id": 35,
+        "text": "<b>36. Researchers should be divided into different groups with their own point of view about weight loss:</b>",
+        "type": "dropdown",
+        "options": ["A", "B", "C", "D", "E", "F"],
+        "correct_answer": "A",
+        "passage_id": "para_003",
+        "test_id": "test_01"
+      },
+      {
+        "id": 36,
+        "text": "<b>Questions 37-40 Complete the summary below. Choose NO MORE THAN ONE WORD from the passage for each answer.</strong><br><br>37. In Bombay Clinic, a young doctor who came up with the concept ‘infectobesity ’ believed that the obesity is caused by a kind of virus. For years, he conducted experiments on __________.<b>",
+        "type": "fill_in_the_blanks",
+        "options": [],
+        "correct_answer": "chickens",
+        "passage_id": "para_003",
+        "test_id": "test_01"
+      },
+      {
+        "id": 37,
+        "text": "<b>38. Finally, later as he moved to America, he identified a new virus named __________________ which proved to be a significant breakthrough inducing more weight.</b>",
+        "type": "fill_in_the_blanks",
+        "options": [],
+        "correct_answer": "adenovirus 36 (AD-36)",
+        "passage_id": "para_003",
+        "test_id": "test_01"
+      },
+      {
+        "id": 38,
+        "text": "<b>39. Although there seems no way to eliminate the virus still now, a kind of _______________ can be separated as to block the effectiveness of the virus.</b>",
+        "type": "fill_in_the_blanks",
+        "options": [],
+        "correct_answer": "gene",
+        "passage_id": "para_003",
+        "test_id": "test_01"
+      },
+      {
+        "id": 39,
+        "text": "<b>40. In the future, the doctor future is aiming at developing a new ___________________ which might effectively combat against the virus.</b>",
+        "type": "fill_in_the_blanks",
+        "options": [],
+        "correct_answer": "obesity vaccine",
+        "passage_id": "para_003",
+        "test_id": "test_01"
+      }
+    ]
+  }
+  ]
+  
+   
+   

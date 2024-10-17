@@ -1,0 +1,384 @@
+{
+    "test_id": "test_10",
+    "sections": [
+      {
+        "part": "Section_01",
+        "paragraph_title": "Things to do before we go ",
+        "instructions": {
+          "main_head_001": "SECTION 1 - Questions 1 – 10 .Complete the notes below. Write ONE WORD OR A NUMBER. ",
+          "main_head_002": "Complete the notes below. Write One WORDS AND/OR A NUMBER for each answer."
+        },
+        "questions": [
+          {
+            "id": 1,
+            "text": "<b>Things to do before we go<b><br>Questions 1-6</b><br>• Example:Collect the currency</b><br> Cancel appointment with the <b>(1) _________</b> (Monday)",
+            "type": "fill_in_the_blanks",
+            "correct_answers": "hairdresser",
+            "marks": 1
+          },
+          {
+            "id": 2,
+            "text": "<br>Begin taking the <b>(2) ________</b> (Tuesday)",       
+            "type": "fill_in_the_blanks",
+            "correct_answers": "tablets" ,
+            "marks": 1
+          },
+          {
+            "id": 3,
+            "text": "<br>Buy <b> (3) ________</b> , a small bag,",
+            "type": "fill_in_the_blanks",
+            "correct_answers":"sunglasses",
+            "marks": 1
+          },
+          {
+            "id": 4,
+            "text":"a spare <b>(4) ________</b>,",
+            "type": "fill_in_the_blanks",
+            "correct_answers": "lock",
+                    
+            "marks": 1
+          },
+          {
+            "id": 5,
+            "text":"an <br>electrical <b> (5) ________</b>.",
+            "type": "fill_in_the_blanks",
+            "correct_answers":["adaptor","adapter"],
+            "marks": 1
+          },
+          {
+            "id": 6,
+            "text": "<br> Book a <b>(6) __________</b>",
+            "type": "fill_in_the_blanks",
+            "correct_answers":"taxi",
+             "marks": 1
+          },
+          {
+            "id": 7,
+            "text": "<b>Questions 7-10(Write the answers 7 to 10  below in one box )</b><br><b>Instructions for Laura’s mum</b><br>• Feed the cat<br> • Vet’s details: Name: Colin <b>(7) ____________</b> <br>",
+            "type": "fill_in_the_blanks",
+            "correct_answers": "Jefferey",
+              "marks": 1
+          },
+          {
+            "id": 8,
+            "text": "• Tel:<b> (8) __________ </b><br>",
+            "type": "fill_in_the_blanks",
+            "correct_answers": "0777594128",
+             "marks": 1
+          },
+          {
+            "id":9,
+            "text": "• Address: Fore street (opposite the <b> (9)  ______________</b> ) <br>",
+            "type": "fill_in_the_blanks",
+            "correct_answers":"church",
+             "marks": 1
+          },
+          {
+            "id": 10,
+            "text": "• Water the plants<br>Meet the heating engineer on <b>(10) ____________</b>",
+            "type": "fill_in_the_blanks",
+            "correct_answers" :["30 April","30th April"],
+            "marks": 1
+          }
+    
+        ]
+      },
+      {
+        "part": "Section_02",
+        "paragraph_title": "Adbourne Film Festival<br>You will hear a talk on local radio about a ‘short film’ festival in the town of Adbourne.",
+        "instructions": {
+          "main_head_001": "SECTION 2 - Questions 11-20",
+          "main_head_002": "Choose the correct answer A, B, or C."
+        },
+        "questions": [
+          {
+            "id": 11,
+            "text": " <b>Questions 11-16 </b><br>Choose the correct answer <b>A, B or C</b> <br> <b> 11. </b>Why was the Film Festival started?",
+            "type": "choose_the_best",
+            "options": [
+              "A To encourage local people to make films.",
+              "B To bring more tourists to the town.",
+              "C To use money released from another project."
+            ],
+            "correct_answer": "C To use money released from another project.",
+            "marks": 1
+          },
+          {
+            "id": 12,
+            "text": " <b> 12. </b>What is the price range for tickets?",
+            "type": "choose_the_best",
+            "options": ["A £1.00-£2.50", "B 50p – £2.00", "C £1.50-£2.50"],
+            "correct_answer": "A £1.00-£2.50",
+            "marks": 1
+          },
+          {
+            "id": 13,
+            "text": " <b> 13. </b>As well as online, tickets for the films can be obtained",
+            "type": "choose_the_best",
+            "options": [
+              "A from the local library.",
+              "B from several different shops.",
+              "C from the two festival cinemas."
+            ],
+            "correct_answer": "A from the local library.",
+            "marks": 1
+          },
+          {
+            "id": 14,
+            "text": " <b> 14. </b>Last year’s winning film was about",
+            "type": "choose_the_best",
+            "options": [
+              "A farms of the future.",
+              "B schools and the environment.",
+              "C green transport options."
+            ],
+            "correct_answer": "C green transport options.",
+            "marks": 1
+          },
+          {
+            "id": 15,
+            "text": " <b> 15. </b>This year the competition prize is",
+            "type": "choose_the_best",
+            "options": [
+              "A a stay in a hotel.",
+              "B film-making equipment.",
+              "C a sum of money."
+            ],
+            "correct_answer": "B film-making equipment.",
+            "marks": 1
+          },
+          {
+            "id": 16,
+            "text": " <b> 16. </b>The deadline for entering a film in the competition is the end of",
+            "type": "choose_the_best",
+            "options": ["A May.", "B June.", "C July."],
+            "correct_answer": "C July.",
+            "marks": 1
+          },
+          {
+            "id": 17,
+            "text": "<b>Questions 17 and 18</b><br>Choose <b>TWO</b> letters <b>A-E</b><br>What <b>TWO</b> main criteria are used to judge the film competition?<br>",
+            "type": "checkbox",
+            "options": [
+              "A Ability to persuade.",
+              "B Quality of the story.",
+              "C Memorable characters.",
+              "D Quality of photography.",
+              "E Originality."
+            ],
+            "correct_answer": ["D Quality of photography.",
+              "E Originality."],
+            "marks": 2
+          },
+          {
+            "id": 18,
+            "text": "<b>Questions 19 and 20</b><br>Choose <b>TWO</b> letters <b>A-E</b><br>What <b>TWO</b> changes will be made to the competition next year?<br>",
+            "type": "checkbox",
+            "options": [
+              "A A new way of judging",
+              "B A different length of time",
+              "C An additional age category",
+              "D Different performance times",
+              "E New locations for performances"
+            ],
+            "correct_answer": ["C An additional age category",
+              "E New locations for performances"],
+            "marks": 2
+          }
+        ]
+      },
+      {
+        "part": "Section_03",
+        "paragraph_title": "Research on web-based crosswords",
+        "instructions": {
+          "main_head_001": " SECTION 3 - Questions 21-24. Choose the correct letter A, B, or C.",
+          "main_head_002": ""
+        },
+        "questions": [
+          {
+            "id": 19,
+            "text": "<b>21. Leela and Jake chose this article because</b>",
+            "type": "choose_the_best",
+            "options": [
+              "A it was on a topic familiar to most students.",
+              "B it covered both IT and education issues.",
+              "C it dealt with a very straightforward concept."
+            ],
+            "correct_answer": "C it dealt with a very straightforward concept.",
+            "marks": 1
+          },
+          {
+            "id": 20,
+            "text": "<b>22. How did Leela and Jake persuade students to take part in their research?</b>",
+            "type": "choose_the_best",
+            "options": [
+              "A They convinced them they would enjoy the experience.",
+              "B They said it would help them do a particular test.",
+              "C They offered to help them with their own research later on."
+            ],
+            "correct_answer": "B They said it would help them do a particular test.",
+            "marks": 1
+          },
+          {
+            "id": 21,
+            "text": "<b>23. Leela and Jake changed the design of the original questionnaire because</b>",
+            "type": "choose_the_best",
+            "options": [
+              "A it was too short for their purposes.",
+              "B it asked misleading questions.",
+              "C it contained out-of-date points."
+            ],
+            "correct_answer": "C it contained out-of-date points.",
+            "marks": 1
+          },
+          {
+            "id": 22,
+            "text": "<b>24. Leela was surprised by the fact that</b>",
+            "type": "choose_the_best",
+            "options": [
+              "A it is normal for questionnaire returns to be low.",
+              "B so many students sent back their questionnaires.",
+              "C the questionnaire responses were of such high quality."
+            ],
+            "correct_answer": "A it is normal for questionnaire returns to be low.",
+            "marks": 1
+          },
+          {
+            "id":23,
+            "text": "<b>Questions 25 and 26</b><br>What <b>TWO</b> things did respondents say they liked most about doing the crossword?<br>",
+            "type": "checkbox",
+            "options": [
+              "A It helped them spell complex technical terms.",
+              "B It was an enjoyable experience.",
+              "C It helped them concentrate effectively.",
+              "D It increased their general motivation to study.",
+              "E It showed what they still needed to study."
+            ],
+            "correct_answer": ["C It helped them concentrate effectively.","E It showed what they still needed to study."],
+            "marks": 2
+          },
+          {
+            "id":24 ,
+            "text": "<b>Questions 27 and 28</b><br>In which<b> TWO</b> areas did these research findings differ from those of the original study?<br>",
+            "type": "checkbox",
+            "options": [
+              "A Students’ interest in doing similar exercises.",
+              "B How much students liked doing the crossword.",
+              "C Time taken to do the crossword.",
+              "D Gender differences in appreciation.",
+              "E Opinions about using crosswords for formal assessment."
+            ],
+            "correct_answer": ["D Gender differences in appreciation.",
+              "E Opinions about using crosswords for formal assessment."],
+            "marks": 2
+          },
+          {
+            "id": 25,
+            "text": "<b>Questions 29 and 30</b><br>What <b>TWO</b> skills did Leela and Jake agree they had learned from the project?<br>",
+            "type": "checkbox",
+            "options": [
+              "A How to manage their time effectively.",
+              "B How to process numerical data.",
+              "C How to design research tools.",
+              "D How to reference other people’s work.",
+              "E How to collaborate in research."
+            ],
+            "correct_answer": ["C How to design research tools.","E How to collaborate in research."],
+            "marks": 2
+          }
+        ]
+      },
+      {
+        "part": "Section_04",
+        "paragraph_title": "Job Satisfaction Study",
+        "instructions": {
+          "main_head_001": "SECTION 4 - Questions 31-40 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer.",
+          "main_head_002": ""
+        },
+        "questions": [
+          {
+            "id": 26,
+            "text": "• Workers involved in the study were employed at a <b>(31) __________</b>",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "call centre",
+            "marks": 1
+          },
+          {
+            "id": 27,
+            "text": "•  Despite some apparent differences between groups of workers, the survey results were statistically <b>(32) __________</b>",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "inconclusive",
+            "marks": 1
+          },
+          {
+            "id": 28,
+            "text": "•  The speaker analysed the study’s <b>(33) __________ </b>to identify any problems with it.",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "methods",
+            "marks": 1
+          },
+          {
+            "id": 29,
+            "text": "•  The various sub-groups were <b>(34) __________ </b>in size.",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "unequal",
+            "marks": 1
+          },
+          {
+            "id": 30,
+            "text": "•  Workers in the part-time group were mainly <b>(35) _________</b>",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": ["female","women"],
+            "marks": 1
+          },
+          {
+            "id": 31,
+            "text": "•  The <b>(36)__________</b> of workers who agreed to take part in the study was disappointing.",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "response",
+            "marks": 1
+          },
+          {
+            "id": 32,
+            "text": "•  Researchers were unable to <b>(37) __________ </b>the circumstances in which workers filled out the questionnaire.",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "control",
+            "marks": 1
+          },
+          {
+            "id": 33,
+            "text": "•  In future, the overall size of the <b>(38) __________ </b> should be increased.",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": ["sample","group"],
+            "marks": 1
+          },
+          {
+            "id": 34,
+            "text": "•  In future studies, workers should be prevented from having discussions with <b> (39) __________ </b>",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer":  [ "other colleagues","their colleagues"],
+            "marks": 1
+          },
+          {
+            "id": 35,
+            "text": "•  Workers should be reassured that their responses to questions are <b>(40) __________</b>",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "confidential",
+            "marks": 1
+          }
+        ]
+      }
+    ],
+     "submitEndpoint": "http://localhost:5010/api/submit/test10"
+  }
+  

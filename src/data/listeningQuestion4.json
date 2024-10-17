@@ -1,0 +1,411 @@
+{
+    "test_id": "test_04",
+    "sections": [
+      {
+        "part": "Section_01",
+        "paragraph_title": "Alex's Training",
+        "instructions": {
+          "main_head_001": "SECTION 1 - Questions 1-10 Complete the notes below. Write ONE WORD OR A NUMBER."
+        },
+        "questions": [
+          {
+            "id": 1,
+            "text": "Alex completed his training in 2014 .<br><b>About the applicant:</b><br> • At first Alex did his training in the <b>1</b>____ department.",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "finance",
+            "marks":1
+          },
+          {
+            "id": 2,
+            "text": " • Alex did not have a qualification from school in <b>2</b> ____.",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "maths",
+            "marks":1
+          },
+          {
+            "id": 3,
+            "text": " • Alex thinks he should have done the diploma in <b>3</b> ____ skills.",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "business",
+            "marks":1
+          },
+          {
+            "id": 4,
+            "text": " • Age of other trainees: the youngest was <b>4</b> ____.",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "17",
+            "marks":1
+          },
+          {
+            "id": 5,
+            "text": "<b>Benefits of doing training at JPNW:</b><br> • Trainees receive the same amount of <b>5</b> ____ as permanent staff.",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "holidays",
+            "marks":1
+          },
+          {
+            "id": 6,
+            "text": " • Trainees go to <b>6</b>____ one day per month.",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "college",
+            "marks":1
+          },
+          {
+            "id": 7,
+            "text": " • The company is in a convenient <b>7</b> ____.",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "location",
+              "marks":1
+          },
+          {
+            "id": 8,
+            "text": "<b>Advice for interview:</b> <br> • Do not wear <b>8</b>____ ",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "jeans",
+            "marks":1
+          },
+          {
+            "id": 9,
+            "text": " • Do not be <b>9</b> ____ .",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "late",
+            "marks":1
+          },
+          {
+            "id": 10,
+            "text": " • Make sure you <b>10</b> ____ .",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "smile",
+            "marks":1
+          }
+        ]
+      },
+      {
+        "part": "Section_02",
+        "paragraph_title": "The Snow Centre",
+        "instructions": {
+          "main_head_001": "SECTION 2 - Questions 11-16. Choose the correct letter A, B, or C."
+        },
+        "questions": [
+         
+          {
+            "id": 11,
+            "text": "<b>11. Annie recommends that when cross-country skiing, the visitors should",
+            "type": "choose_the_best",
+            "options": [
+              "A get away from the regular trails",
+              "B stop to enjoy views of the scenery",
+              "C go at a slow speed at the beginning"
+            ],
+            "correct_answer": "A get away from the regular trails",
+            "marks":1
+          },
+          {
+            "id": 12,
+            "text": "<b>12. What does Annie tell the group about this afternoon’s dog-sled trip?",
+            "type": "choose_the_best",
+            "options": [
+              "A Those who want to can take part in a race",
+              "B Anyone has the chance to drive a team of dogs",
+              "C One group member will be chosen to lead the trail"
+            ],
+            "correct_answer": "B Anyone has the chance to drive a team of dogs",
+            "marks":1
+          },
+          {
+            "id": 13,
+            "text": "<b>13. What does Annie say about the team relay event?",
+            "type": "choose_the_best",
+            "options": [
+              "A All participants receive a medal",
+              "B The course is 4 km long",
+              "C Each team is led by a teacher"
+            ],
+            "correct_answer":  "A All participants receive a medal",
+            "marks":1
+          },
+          {
+            "id": 14,
+            "text": "<b>14. On the snow-shoe trip, the visitors will",
+            "type": "choose_the_best",
+            "options": [
+              "A visit an old gold mine",
+              "B learn about unusual flowers",
+              "C climb to the top of a mountain"
+            ],
+            "correct_answer": "C climb to the top of a mountain",
+            "marks":1
+          },
+          {
+            "id": 15,
+            "text": "<b>15. The cost of accommodation in the mountain hut includes",
+            "type": "choose_the_best",
+            "options": [
+              "A a supply of drinking water",
+              "B transport of visitors’ luggage",
+              "C cooked meals"
+            ],
+            "correct_answer": "A a supply of drinking water",
+            "marks":1
+          },
+          {
+            "id": 16,
+            "text": "<b>16. If there is a storm while the visitors are in the hut, they should",
+            "type": "choose_the_best",
+            "options": [
+              "A contact the bus driver",
+              "B wait until the weather improves",
+              "C use the emergency locator beacon"
+            ],
+            "correct_answer": "B wait until the weather improves",
+            "marks":1
+          },
+          {
+            "id": 17,
+            "text": "<b>Questions 17-20</b><br> <b>What information does Annie give about skiing on each of the following mountain trails?</b> <br>Choose <b>FOUR</b> answers from the options below and write the correct letter <b>A-F</b> next to questions <b>17-20</b> <br><br> <b>Information</b> <br><b>A</b> it has a good place to stop and rest.<br><b>B</b> it is suitable for all abilities.<br><b>C</b> it involves crossing a river.<br><b>D</b> it demands a lot of skill.<br><b>E</b> it may be closed in bad weather.<br><b>F</b> it has some very narrow sections <br> <br><b>17</b>.  Highland trail: _______",
+            "type": "dropdown",
+            "options":["A it has a good place to stop and rest.","B it is suitable for all abilities.","C it involves crossing a river.","D it demands a lot of skill.","E it may be closed in bad weather."," F it has some very narrow sections"],
+            "correct_answer": "B it is suitable for all abilities.",
+            "marks":1
+          },
+          {
+            "id": 18,
+            "text": "<b>18</b>. Pine trail: _______",
+            "type": "dropdown",
+            "options":["A it has a good place to stop and rest.","B it is suitable for all abilities.","C it involves crossing a river.","D it demands a lot of skill.","E it may be closed in bad weather."," F it has some very narrow sections"],
+            "correct_answer": "D it demands a lot of skill.",
+            "marks":1
+          },
+          {
+            "id": 19,
+            "text": "<b>19</b>. Stony trail: _______",
+            "type": "dropdown",
+            "options":["A it has a good place to stop and rest.","B it is suitable for all abilities.","C it involves crossing a river.","D it demands a lot of skill.","E it may be closed in bad weather."," F it has some very narrow sections"],
+            "correct_answer": "A it has a good place to stop and rest.",
+            "marks":1
+          },
+          {
+            "id": 20,
+            "text": "<b>20</b>. Loser’s trail: _______",
+            "type": "dropdown",
+            "options":["A it has a good place to stop and rest.","B it is suitable for all abilities.","C it involves crossing a river.","D it demands a lot of skill.","E it may be closed in bad weather."," F it has some very narrow sections"],
+            "correct_answer": "E it may be closed in bad weather.",
+            "marks":1
+          }
+        ]
+      },
+      {
+        "part": "Section_03",
+        "paragraph_title": "Labels giving nutritional information on food packaging",
+        "instructions": {
+          "main_head_001": "SECTION 3 - Questions 21-26. Choose the correct letter A, B, or C."
+        },
+        "questions": [
+            {
+                "id": 21,
+                "text": "<b>21. What was Jack’s attitude to nutritional food labels before this project?",
+                "type": "choose_the_best",
+                "options": [
+                  "A He didn’t read everything on them",
+                  "B He didn’t think they were important",
+                  "C He thought they were too complicated"
+                ],
+                "correct_answer": "A He didn’t read everything on them",
+                "marks":1
+              },
+              {
+                "id": 22,
+                "text": "<b>22. Alice says that before doing this project.",
+                "type": "choose_the_best",
+                "options": [
+                  "A she was unaware of what certain foods contained",
+                  "B she was too lazy to read food labels",
+                  "C she was only interested in the number of calories"
+                ],
+                "correct_answer": "A she was unaware of what certain foods contained",
+                "marks":1
+              },
+              {
+                "id": 23,
+                "text": "<b>23. When discussing supermarket brands of pizza, Jack agrees with Alice that",
+                "type": "choose_the_best",
+                "options": [
+                  "A the list of ingredients is shocking",
+                  "B he will hesitate before buying pizza again",
+                  "C the nutritional label is misleading"
+                ],
+                "correct_answer": "C the nutritional label is misleading",
+                "marks":1
+              },
+              {
+                "id": 24,
+                "text": "<b>24. Jack prefers the daily value system to other labelling systems because it is",
+                "type": "choose_the_best",
+                "options": [
+                  "A more accessible",
+                  "B more logical",
+                  "C more comprehensive"
+                ],
+                "correct_answer":  "C more comprehensive",
+                "marks":1
+              },
+              {
+                "id": 25,
+                "text": "<b>25. What surprised both students about one flavour of crisps?",
+                "type": "choose_the_best",
+                "options": [
+                  "A The percentage of artificial additives given was incorrect",
+                  "B The products did not contain any meat",
+                  "C The labels did not list all the ingredients"
+                ],
+                "correct_answer": "B The products did not contain any meat",
+                "marks":1
+              },
+              {
+                "id": 26,
+                "text": "<b>26. What do the students think about research into the impact of nutritional food labelling?",
+                "type": "choose_the_best",
+                "options": [
+                  "A It did not produce clear results",
+                  "B It focused on the wrong people",
+                  "C It made unrealistic recommendations"
+                ],
+                "correct_answer":"A It did not produce clear results",
+                "marks":1
+              },
+              {
+                "id": 27,
+                "text": "<b>Questions 27 and 28</b><br>Choose <b>TWO</b> letters <b>A-E</b><br>Which <b>TWO</b> things surprised the students about the traffic-light system for nutritional labels?",
+                "type": "checkbox",
+                "options": [
+                  "A its widespread use",
+                  "B the fact that it is voluntary for supermarkets",
+                  "C how little research was done before its introduction",
+                  "D its unpopularity with food manufacturers",
+                  "E the way that certain colours are used"
+                ],
+                "correct_answer": [ "B the fact that it is voluntary for supermarkets",
+                "C how little research was done before its introduction"],
+                "marks":2
+              },
+              {
+                "id": 28,
+                "text": "<b>Questions 29 and 30.</b><br>Choose <b>TWO</b> letters <b>A-E</b><br>Which <b>TWO</b> things are <b>true</b> about the participants in the study on the traffic-light system?",
+                "type": "checkbox",
+                "options": [
+                  "A They had low literacy levels.",
+                  "B They were regular consumers of packaged food.",
+                  "C They were selected randomly.",
+                  "D They were from all socio-economic groups.",
+                  "E They were interviewed face-to-face."
+                ],
+                "correct_answer": ["D They were from all socio-economic groups.",
+                  "E They were interviewed face-to-face."],
+                "marks":2
+              }
+        ]
+      },
+      {
+        "part": "Section_04",
+        "paragraph_title": "The History of Coffee",
+        "instructions": {
+          "main_head_001": "SECTION 4 - Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "main_head_002": ""
+        },
+        "questions": [
+          {
+            "id": 29,
+            "text": "<b> Coffee in the Arab world</b> <br> •These was small-scale trade in wild coffee from Ethiopia.<br>• 1522: Coffee was approved in the Ottoman court as a type of medicine.<br>• 1623: In Constantinople, the ruler ordered the <b>31</b> ____ of every coffee house.",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "destruction",
+            "marks":1
+          },
+          {
+            "id": 30,
+            "text": "<b>Coffee arrives in Europe (17th century)</b><br> • Coffee shops were compared to <b>32</b> ____.",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "university",
+            "marks":1
+          },
+          {
+            "id": 31,
+            "text": "• They played an important part in social and <b>33</b> ____ changes.",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "political",
+            "marks":1
+          },
+          {
+            "id": 32,
+            "text": "<b>Coffee and European colonisation </b><br>• European powers established coffee plantations in their coloniesTypes of coffee were often named according to the <b>34</b>____ they came from.",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "ports",
+            "marks":1
+          },
+          {
+            "id": 33,
+            "text": "• In Brazil and the Caribbean, most cultivation depended on <b>35</b> ____.",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "slaves",
+            "marks":1
+          },
+          {
+            "id": 34,
+            "text": "• In Java, coffee was used as a form of <b>36</b> ____.",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "taxation",
+            "marks":1
+          },
+          {
+            "id": 35,
+            "text": "• Coffee became almost as important as <b>37</b> ____.",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "sugar",
+            "marks":1
+          },
+          {
+            "id": 36,
+            "text": "• The move towards the consumption of <b>38</b>____ in Britain did not also take place in the USA.",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "tea",
+            "marks":1
+          },
+          {
+            "id": 37,
+            "text": "<b>Coffee in the 19th century </b><br>• Prices dropped because of improvements in the <b>39</b> ____ .",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "transportation",
+            "marks":1
+          },
+          {
+            "id": 38,
+            "text": "• Industrial workers found coffee helped them to work at  <b>40</b> ____ ",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": " night",
+            "marks":1
+          }
+        ]
+      }
+    ],
+    "submitEndpoint": "http://localhost:5010/api/submit/test04"
+  }
+  

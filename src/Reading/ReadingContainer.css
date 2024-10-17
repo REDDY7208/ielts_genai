@@ -1,0 +1,239 @@
+/* Center content vertically and horizontally */
+.con_center_reading {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+}
+ 
+/* Add animation to the heading */
+.reading_headingg {
+  /* flex: 1; */
+  font-size: 2rem;
+  color: #a82727;
+  margin: 30px 0 20px 0;
+  text-align: center;
+  animation: fadeIn 1s ease-in-out; /* Animation added */
+  grid-row: 1;
+}
+ 
+/* Fade-in animation */
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+ 
+/* Button container - 3 buttons per row on desktop */
+.button-container-reading {
+  display: grid;
+  grid-template-columns: 1fr; /* 3 buttons per row on desktop */
+  grid-template-rows: auto auto auto;
+ /* Space between buttons */
+  width: 80%;
+  justify-items: center; /* Center align buttons */
+  padding: 0 20px; /* Add some padding for responsiveness */
+  margin: 20px 0;
+  position: relative;
+  overflow: visible;
+}
+ 
+/* Dynamic button styling */
+.btn-read-dynamic {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 250px; /* Set a specific width */
+  height: auto; /* Set a specific height */
+  padding:10px 20px;
+  font-size: 1.2rem;
+  font-weight: bold;
+ 
+  background-color: #F7CE56;
+  color: #000;
+  border: 2px solid #000;
+  border-radius:20px;
+  cursor: pointer;
+  margin: 0 30px !important;
+  background: linear-gradient(135deg, #F39C12, #F7CE56);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease, transform 0.2s ease box-shadow 0.3s ease !important;
+}
+ 
+.btn-read-dynamic span{
+  margin: 15px 0;
+  font-weight: bold;
+color: #000;
+}
+.btn-read-dynamic .icon {
+  font-size: 3.5rem; /* Adjust icon size */
+  margin-right: 10px;
+  margin-top: 5px;
+  margin-bottom: 10px; /* Add space between icon and text */
+  color: #fff; /* Set icon color */
+  transition: color 0.3s ease; /* Smooth transition for hover effects */
+}
+.btn-read-dynamic:hover .icon {
+  transform: translateY(-20); /* Rotate the icon in a full circle */
+  text-shadow: 0 0 15px rgba(255, 223, 63, 0.9), /* Bright golden tone */
+               0 0 25px rgba(255, 193, 37, 0.8), /* Darker outer glow */
+               0 0 35px rgba(255, 165, 0, 0.7);
+  /* color: #2ecc71; Change icon color on hover */
+ 
+}
+ 
+.btn-container-reading{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 30px 60px;
+  grid-row: 2;
+  width: 100%;
+  justify-items: center;
+}
+ 
+ 
+/* Hover effect for the button */
+.btn-read-dynamic:hover {
+  background-color: #e8ce7d;
+  border: 2px solid #F39C12;
+  color: #000000;
+  transform: scale(1.05); /* Slight scaling effect on hover */
+}
+ 
+/* Media query for tablets and smaller devices */
+ 
+ 
+ 
+@media (max-width: 1024px) {
+  /* 2 buttons per row on tablets */
+  .button-container {
+    grid-template-columns: repeat(2, 1fr); /* 2 buttons per row */
+    gap: 15px;
+  }
+ 
+  .reading_headingg {
+    font-size: 1.8rem;
+    font-weight: bold;
+   
+ 
+   
+  }
+ 
+  .btn-read-dynamic {
+    padding: 10px 18px;
+    font-size: 0.95rem;
+  }
+  .btn-read-dynamic:hover .icon {
+    transform: translateY(-20); /* Rotate the icon in a full circle */
+    text-shadow: 0 0 15px rgba(255, 223, 63, 0.9), /* Bright golden tone */
+                 0 0 25px rgba(255, 193, 37, 0.8), /* Darker outer glow */
+                 0 0 35px rgba(255, 165, 0, 0.7);
+    /* color: #2ecc71; Change icon color on hover */
+   
+  }
+  .btn-read-dynamic:hover {
+    background-color: #e8ce7d;
+    border: 2px solid #F39C12;
+    color: #000000;
+    transform: scale(1.05); /* Slight scaling effect on hover */
+  }
+}
+ 
+@media (max-width: 768px) {
+  /* 1 button per row for small tablets */
+  .button-container {
+    grid-template-columns: 1fr; /* 1 button per row */
+    gap: 10px;
+  }
+ 
+  .reading_headingg {
+    font-size: 1.5rem;
+    font-weight: bold;
+   
+  }
+ 
+  .btn-read-dynamic {
+    padding: 10px 16px;
+    font-size: 0.9rem;
+    width: 250px; /* Set a specific width */
+    height: auto;
+  }
+  .btn-container-reading{
+    grid-template-columns: 1fr;
+  }
+  .btn-read-dynamic:hover {
+    background-color: #e8ce7d;
+    border: 2px solid #F39C12;
+    color: #000000;
+    transform: scale(1.05); /* Slight scaling effect on hover */
+  }
+  .btn-read-dynamic:hover .icon {
+    transform: translateY(-20); /* Rotate the icon in a full circle */
+    text-shadow: 0 0 15px rgba(255, 223, 63, 0.9), /* Bright golden tone */
+                 0 0 25px rgba(255, 193, 37, 0.8), /* Darker outer glow */
+                 0 0 35px rgba(255, 165, 0, 0.7);
+    /* color: #2ecc71; Change icon color on hover */
+   
+  }
+}
+ 
+@media (max-width: 480px) {
+  /* Mobile-specific styles */
+ 
+.btn-read-dynamic span
+ {
+margin-top: 2px;
+ }
+  .reading_headingg  {
+    margin: 180px 20px 40px 20px;
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  .btn-container-reading{
+    grid-template-columns: 1fr;
+  }
+ 
+  .btn-read-dynamic {
+    padding: 8px 12px;
+    font-size: 0.5rem;
+   
+    width: 150px; /* Set a specific width */
+    height: 100px;
+   
+  }
+  .btn-read-dynamic .icon {
+    font-size: 1.5rem; /* Adjust icon size */
+margin-left: 10px;
+    margin-top: 15px; /* Add space between icon and text */
+    color: #fff; /* Set icon color */
+    transition: color 0.3s ease; /* Smooth transition for hover effects */
+  }
+  .btn-read-dynamic:hover .icon {
+    transform: translateY(-20); /* Rotate the icon in a full circle */
+    text-shadow: 0 0 15px rgba(255, 223, 63, 0.9), /* Bright golden tone */
+                 0 0 25px rgba(255, 193, 37, 0.8), /* Darker outer glow */
+                 0 0 35px rgba(255, 165, 0, 0.7);
+    /* color: #2ecc71; Change icon color on hover */
+   
+  }
+ 
+  .button-container-reading {
+    gap: 3px; /* Reduce gap between buttons on mobile */
+  }
+  .btn-read-dynamic:hover {
+    background-color: #e8ce7d;
+    color: #000000;
+    transform: scale(1.05); /* Slight scaling effect on hover */
+  }
+ 
+ 
+}
+ 

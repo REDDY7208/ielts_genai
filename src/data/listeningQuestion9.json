@@ -1,0 +1,387 @@
+{
+    "test_id": "test_05",
+    "sections": [
+      {
+        "part": "Section_01",
+        "paragraph_title": "Crime Report",
+        "instructions": {
+          "main_head_001": "SECTION 1 - Questions 1-10 Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "main_head_002": ""
+        },
+        "questions": [
+          {
+            "id": 1,
+            "text": "Type of crime: theft<br> Personal information<br> <b>Example</b>: Name – Louise Taylor<br>Nationality: <b>(1) _____________</b><br>Date of birth: 14 December 1977",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "Canadian",
+            "marks": 1
+          },
+          {
+            "id": 2,
+            "text": "Occupation: interior designer<br>Reason for visit: business (to buy antique <b>(2) _________ </b>).",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "furniture",
+            "marks":1
+          },
+          {
+            "id": 3,
+            "text": "Length of stay:two months<br>Current address: <b>(3) _________</b> Apartments (No 15).",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "park",
+            "marks":1
+          },
+          {
+            "id": 4,
+            "text": "<b>Details of theft</b> <br> Items stolen: – a wallet containing approximately <b>(4) £ _______</b>",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "250",
+            "marks":1
+          },
+          {
+            "id": 5,
+            "text": " – a <b>(5)__________</b>.",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "phone",
+            "marks":1
+          },
+          {
+            "id": 6,
+            "text": "Date of theft: <b>(6) _________</b>",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": ["10 September","10th September"],
+            "marks":1
+          },
+          {
+            "id": 7,
+            "text": "<b>Possible time and place of theft</b> <br>Location: outside the <b>(7)__________</b> at about 4 pm.",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "museum",
+            "marks":1
+          },
+          {
+            "id": 8,
+            "text": "Details of suspect: – some boys asked for the <b>(8)_________</b>then ran off.",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "time",
+            "marks":1
+          },
+          {
+            "id": 9,
+            "text": "– one had a T-shirt with a picture of a tiger<br> – he was about 12, slim build with <b>(9) ___________</b> hair.",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": ["blond","blonde"],
+            "marks":1
+          },
+          {
+            "id": 10,
+            "text": "Crime reference number allocated – <b>(10) ____________</b>",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "8795482361",
+            "marks":1
+          }
+        ]
+      },
+      {
+        "part": "Section_02",
+        "paragraph_title": "Induction Talk for New Apprentices",
+        "instructions": {
+          "main_head_001": "SECTION 2 - Questions 11-14 Which advice does the manager give about the first week of an apprenticeship? "
+        },
+        "questions": [
+          {
+            "id": 11,
+            "text": "<b>Questions 11 and 12</b><br>Choose <b>TWO</b> letters <b>A-E</b><br>Which <b>TWO</b> pieces of advice for the first week of an apprenticeship does the manager give? ",
+            "type": "checkbox",
+            "options": [
+            "A get to know colleagues",
+            "B learn from any mistakes",
+            "C ask lots of questions",
+            "D react positively to feedback",
+            "E enjoy new challenges"
+            ],
+            "correct_answer": ["A get to know colleagues","C ask lots of questions"],
+            "marks":2
+          },
+          {
+            "id": 12,
+            "text": "<b>Questions 13 and 14</b><br>Choose <b>TWO</b> letters <b>A-E</b><br>Which <b>TWO</b> things does the manager say mentors can help with?",
+            "type": "checkbox",
+            "options": [
+            "A confidence-building",
+            "B making career plans",
+            "C completing difficult tasks",
+            "D making a weekly timetable",
+            "E reviewing progress"
+            ],
+            "correct_answer": ["B making career plans","E reviewing progress"],
+            "marks":2
+          },
+          {
+            "id": 13,                                                                                                                                    
+            "text": "<b>Questions 15-20</b><br> <b>What does the manager say about each of the following aspects of the company policy for apprentices?</b> <br>Choose <b>A, B, or C</b> and write the correct letter next to questions <b>15-20</b> <br><br><b>A</b> It is encouraged.<br><b>B</b> There are some restrictions.<br><b>C</b> It is against the rules.<br><br> <b> Company policy for apprentices </b><br> <br><b>15</b>. Using the internet: _______",
+            "type": "dropdown",
+            "options":["A It is encouraged.","B There are some restrictions.","C It is against the rules."],
+            "correct_answer": "B There are some restrictions.",
+            "marks":1
+          },
+          {
+            "id": 14,
+            "text": "<b>16</b>. Flexible working: _______",
+            "type": "dropdown",
+            "options":["A It is encouraged.","B There are some restrictions.","C It is against the rules."],
+            "correct_answer": "B There are some restrictions.",
+            "marks":1
+          },
+          {
+            "id": 15,
+            "text": "<b>17</b>. Booking holidays: _______",
+            "type": "dropdown",
+            "options":["A It is encouraged.","B There are some restrictions.","C It is against the rules."],
+            "correct_answer": "C It is against the rules.",
+            "marks":1
+          },
+          {
+            "id": 16,
+            "text": "<b>18</b>. Working overtime: _______",
+            "type": "dropdown",
+            "options":["A It is encouraged.","B There are some restrictions.","C It is against the rules."],
+           "correct_answer": "A It is encouraged.",
+            "marks":1
+          },
+          {
+            "id": 17,
+            "text": "<b>19</b>. Wearing trainers: _______",
+             "type": "dropdown",
+            "options":["A It is encouraged.","B There are some restrictions.","C It is against the rules."],
+            "correct_answer": "A It is encouraged.",
+            "marks":1
+          },
+          {
+            "id": 18,
+            "text": "<b>20</b>. Bringing food to work: _______",
+            "type": "dropdown",
+            "options":["A It is encouraged.","B There are some restrictions.","C It is against the rules."],
+            "correct_answer": "C It is against the rules.",
+            "marks":1
+          }
+        ]
+      },
+      {
+    "part": "Section_03",
+    "paragraph_title": "Cities Built by the Sea",
+    "instructions": {
+      "main_head_001": "SECTION 3 - Questions 21-25. Choose the correct letter A, B, or C.",
+      "main_head_002": ""
+    },
+    "questions": [
+      {
+        "id": 19,
+        "text": "<b>21. Carla and Rob were surprised to learn that coastal cities</b>",
+        "type": "choose_the_best",
+        "options": [
+          "A contain nearly half the world’s population",
+          "B include most of the world’s largest cities",
+          "C are growing twice as fast as other cities"
+        ],
+        "correct_answer": "B include most of the world’s largest cities",
+        "marks":1
+  
+      },
+      {
+        "id": 20,
+        "text": "<b>22. According to Rob, building coastal cities near to rivers</b>",
+        "type": "choose_the_best",
+        "options": [
+          "A may bring pollution to the cities",
+          "B may reduce the land available for agriculture",
+          "C may mean the countryside is spoiled by industry"
+        ],
+        "correct_answer": "A may bring pollution to the cities",
+        "marks":1
+      },
+      {
+        "id": 21,
+        "text": "<b>23. What mistake was made when building water drainage channels in Miami in the 1950s?</b>",
+        "type": "choose_the_best",
+        "options": [
+          "A There were not enough of them",
+          "B They were made of unsuitable materials",
+          "C They did not allow for the effects of climate change"
+        ],
+        "correct_answer": "C They did not allow for the effects of climate change",
+        "marks":1
+      },
+      {
+        "id": 22,
+        "text": "<b>24. What do Rob and Carla think that the authorities in Miami should do immediately?</b>",
+        "type": "choose_the_best",
+        "options": [
+          "A take measures to restore ecosystems",
+          "B pay for a new flood prevention system",
+          "C stop disposing of waste materials into the ocean"
+        ],
+        "correct_answer": "B pay for a new flood prevention system",
+        "marks":1
+      },
+      {
+        "id": 23,
+        "text": "<b>25. What do they agree should be the priority for international action?</b>",
+        "type": "choose_the_best",
+        "options": [
+          "A greater coordination of activities",
+          "B more sharing of information",
+          "C agreement on shared policies"
+        ],
+        "correct_answer": "A greater coordination of activities",
+        "marks":1
+      },
+      
+      {
+        "id": 24,
+        "text": "<b>Questions 26-30</b><br>What decision do the students make about each of the following parts of their presentation?<br>Choose <b>FIVE</b> answers from the box and write the correct letter <b>A-G</b> next to Questions <b>26-30</b>. <br><br><b>Decisions</b><br><b>A</b> use visuals<br><b>B</b> keep it short<br><b>C</b> involve other students<br><b>D</b> check the information is accurate<br><b>E</b> provide a handout<br><b>F</b> focus on one example<br><b>G</b> do online research<br><br><b>Parts of the presentation</b><br><b>26</b>. Historical background: _______",
+        "type": "dropdown",
+        "options":["A use visuals","B keep it short","C involve other students","D check the information is accurate","E provide a handout","F focus on one example","G do online research"],
+        "correct_answer": "B keep it short",
+        "marks":1
+      },
+      {
+        "id": 25,
+        "text": "<b>27</b>. Geographical factors: _______",
+        "type": "dropdown",
+        "options":["A use visuals","B keep it short","C involve other students","D check the information is accurate","E provide a handout","F focus on one example","G do online research"],
+        "correct_answer": "A use visuals",
+        "marks":1
+      },
+      {
+        "id": 26,
+        "text": "<b>28</b>. Past mistakes: _______",
+        "type": "dropdown",
+        "options":["A use visuals","B keep it short","C involve other students","D check the information is accurate","E provide a handout","F focus on one example","G do online research"],
+        "correct_answer": "F focus on one example",
+        "marks":1
+      },
+      {
+        "id": 27,
+        "text": "<b>29</b>. Future risks: _______",
+        "type": "dropdown",
+        "options":["A use visuals","B keep it short","C involve other students","D check the information is accurate","E provide a handout","F focus on one example","G do online research"],
+        "correct_answer": "G do online research",
+        "marks":1
+      },
+      {
+        "id": 28,
+        "text": "<b>30</b>. International implications: _______",
+        "type": "dropdown",
+        "options":["A use visuals","B keep it short","C involve other students","D check the information is accurate","E provide a handout","F focus on one example","G do online research"],
+        "correct_answer": "C involve other students",
+        "marks":1
+      }
+    ]
+  },
+      {
+        "part": "Section_04",
+        "paragraph_title": "Marine Renewable Energy (Ocean Energy)",
+        "instructions": {
+          "main_head_001": "SECTION 4 - Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer."
+        },
+        "questions": [
+          {
+            "id": 29,
+            "text": "<b>Introduction </b><br>More energy required because of growth in population and <b>(31) __________ </b><br>What’s needed:<br>• renewable energy sources<br>• methods that won’t create pollution",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "industry",
+            "marks":1
+          },
+          {
+            "id": 30,
+            "text": "<b>Wave energy </b> <br> Advantage: waves provide a <b>(32) __________ </b>source of renewable energy.<br>Electricity can be generated using offshore or onshore systems Onshore systems may use a reservoir",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "constant",
+            "marks":1
+          },
+          {
+            "id": 31,
+            "text": "<b>Problems:</b> •  waves can move in any <b>(33) __________</b>",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "direction",
+            "marks":1
+          },
+          {
+            "id": 32,
+            "text": "•  movement of sand, etc. on the <b>(34) __________ </b> of the ocean may be affected.",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "floor",
+            "marks":1
+          },
+          {
+            "id": 33,
+            "text": "<b>Tidal energy</b> <br> Tides are more <b>(35) __________ </b> than waves.",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "predictable",
+            "marks":1
+          },
+          {
+            "id": 34,
+            "text": "Planned tidal lagoon in Wales: <br> • will be created in a <b>(36) __________ </b> at Swansea.",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "bay",
+            "marks":1
+          },
+          {
+            "id": 35,
+            "text": " • breakwater (dam) containing 16 turbines <br>• rising tide forces water through turbines, generating electricity <br>• Stored water is released through <b>(37) __________</b>, driving the turbines in the reverse direction.",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "gates",
+            "marks":1
+          },
+          {
+            "id": 36,
+            "text": "<b>Advantages:</b><br> • not dependent on weather <br> • no <b>(38) __________ </b> is required to make it work.",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "fuel",
+            "marks":1
+          },
+          {
+            "id": 37,
+            "text": "• likely to create a number of <b>(39) __________</b>",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "jobs",
+            "marks":1
+          },
+          {
+            "id": 38,
+            "text": "<b>Problem: </b><br> • may harm fish and birds, e.g. by affecting <b>(40) __________ </b>and building up silt.",
+            "type": "fill_in_the_blanks",
+            "options": [],
+            "correct_answer": "migration",
+            "marks":1
+          }
+        ]
+      }
+    ],
+     "submitEndpoint": "http://localhost:5010/api/submit/test09"
+  }
+  
+      
+      
+    
+  

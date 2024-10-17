@@ -1,0 +1,374 @@
+:root {
+  --primary: #1f3e72;
+  --secondary: rgba(255, 255, 255, 0.78);
+  --black: #131110;
+  --blue-gradient: linear-gradient(97.05deg, #4066ff 3.76%, #2949c6 100%);
+  --orange-gradient: linear-gradient(270deg, #ffb978 0%, #ff922d 100%);
+  --blue: #4066ff;
+  --lightBlue: #eeeeff;
+  --shadow: 0px 23px 21px -8px rgba(136, 160, 255, 0.25);
+}
+ 
+.r-wrapper {
+  padding: 1.5rem;
+  width: 100%;
+}
+ 
+.r-container {
+  overflow: hidden;
+  position: relative;
+}
+ 
+.r-head {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+ 
+.r-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 0.6rem;
+  padding: 1rem;
+  border-radius: 10px;
+  max-width: max-content;
+  margin: auto;
+  transition: all 300ms ease-in;
+  position: relative;
+  background: var(--secondary);
+  box-shadow: var(--shadow);
+ 
+}
+ 
+.r-card > img {
+  width: 100%;
+  max-width: 18rem; /*default 16 rem */
+  border-radius: 3rem;
+ 
+}
+ 
+.r-card > .r-price {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+ 
+.r-card > .primaryText {
+  font-size: 1.5rem;
+  color: var(--primary);
+  font-weight: bold;
+}
+ 
+.r-card > .secondaryText {
+  font-size: 0.9rem;
+  color: rgb(140, 139, 139);
+}
+ 
+.r-card:hover {
+  transform: scale(1.025);
+  cursor: pointer;
+  background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0) 0%,
+      rgba(136, 160, 255, 0.46) 217.91%
+  );
+  box-shadow: 0px 72px 49px -51px rgba(136, 160, 255, 0.21);
+}
+.price-det
+{
+  color: '#fff' !important;
+  font-weight: bold;
+  font-size: 20px;
+}
+ 
+.swiper-horizontal {
+  overflow: visible;
+}
+ 
+.r-buttons{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  position: absolute;
+  color: #000 !important;
+  top: -4rem;
+  right: 0;
+}
+ 
+ 
+ 
+.r-buttons button {
+  font-size: 1.2rem;
+  padding: 0.2rem 0.8rem;
+  color: blue;
+  border: none;
+  border-radius: 5px;
+  background-color: white;
+  cursor: pointer;
+  box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.25);
+}
+ 
+.scroll-container {
+  overflow: hidden;
+  white-space: nowrap;
+  width: 100%;
+  position: relative;
+}
+ 
+.scroll-text {
+  display: inline-block;
+  animation: scroll 40s linear infinite;
+  margin: 20px 0;
+  font-weight: bold;
+  color: #a92909;
+  font-size: 20px;
+}
+ 
+.scroll-text span {
+  margin-right: 50px;
+  color: #a92909;
+  cursor: pointer;
+}
+ 
+.orangeText {
+  color: rgb(64, 2, 197);
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+ 
+.primaryText {
+  color: #220808 !important;
+  font-weight: bold;
+  font-size: 2rem;
+}
+ 
+.secondaryText {
+  color: rgb(140, 139, 139);
+  font-size: 0.9rem;
+}
+ 
+.button {
+  font-weight: 500;
+  padding: 0.6rem 1.4rem;
+  color: white;
+  background: var(--blue-gradient);
+  border: none;
+  border-radius: 4px;
+  transition: all 300ms ease-in;
+}
+ 
+.button:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
+.plan-name
+{
+  color: #fff;
+}
+.popup-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+ 
+.popup-content {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 400px;
+  text-align: center;
+}
+ 
+.popup-content h2 {
+  font-size: 1.8rem;
+  color: var(--primary);
+}
+ 
+.popup-content p {
+  font-size: 1rem;
+  color: rgb(140, 139, 139);
+}
+ 
+.popup-content .r-price {
+  font-size: 1.5rem;
+  margin: 10px 0;
+}
+ 
+.popup-content button {
+  font-weight: 500;
+  padding: 0.6rem 1.4rem;
+  color: white;
+  background: var(--blue-gradient);
+  border: none;
+  border-radius: 4px;
+  transition: all 300ms ease-in;
+  cursor: pointer;
+  margin-top: 10px;
+}
+ 
+.popup-content button:hover {
+  transform: scale(1.1);
+}
+.popup-button{
+  margin-left: 10px;
+}
+ 
+/* Add this to your CSS file */
+.ordered-list {
+  list-style: none; /* Remove the default bullet points */
+  padding-left: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px; /* Adds space between the list items */
+}
+ 
+.list-item {
+  display: flex;
+  align-items: center;
+ 
+}
+ 
+.checkmark {
+  color: green !important;
+  font-size: 18px;
+  margin-right: 10px;
+}
+ 
+.list-text {
+  font-size: 16px;
+  color: #fff;
+ 
+}
+ 
+ 
+@keyframes scroll {
+  0% {
+      transform: translateX(100%);
+  }
+  100% {
+      transform: translateX(-100%);
+  }
+}
+ 
+@media (min-width: 1536px) {
+  .r-wrapper {
+      max-width: 1280px;
+      margin: auto;
+  }
+}
+ 
+@media (min-width: 640px) {
+  .r-wrapper {
+      padding: 4rem;
+  }
+}
+ 
+@media (min-width: 1280px), (min-width: 768px) {
+  .r-wrapper {
+      padding: 2rem;
+  }
+ 
+.r-card > img {
+  width: 100%;
+  max-width: 18rem; /*default 16 rem */
+  border-radius: 3rem;
+ 
+}
+}
+ 
+@media (max-width: 640px) {
+  .primaryText {
+      font-size: 1.5rem;
+  }
+  .orangeText {
+      font-size: 1.2rem;
+  }
+}
+/* ======================================================= */
+/* Add these styles to your Residencies.css */
+ 
+.popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+ 
+.popup-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  z-index: 100;
+}
+ 
+.popup-content {
+  position: relative;
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 400px;
+  width: 100%;
+  z-index: 200;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+}
+ 
+.popup-close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: none;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+}
+ 
+.popup-header {
+  margin-bottom: 20px;
+}
+ 
+.popup-header h2 {
+  margin: 0;
+  font-size: 24px;
+}
+ 
+.popup-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+ 
+.popup-price {
+  margin-bottom: 20px;
+  font-size: 18px;
+  font-weight: bold;
+}
+ 
+.popup-payment-btn {
+  margin-bottom: 10px;
+  width: 100%;
+}
+ 
+.popup-cancel-btn {
+  width: 100%;
+}
+ 
+ 

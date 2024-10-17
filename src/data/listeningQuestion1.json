@@ -1,0 +1,404 @@
+{
+  "test_id": "test_01",
+  "sections":[
+    {
+  "part": "Section_01",
+  "paragraph_title": "JUNIOR CYCLE CAMP",
+  "instructions": {
+    "main_head_001": "SECTION 1 - Questions 1-10 Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer.",
+    "main_head_002": ""
+  },
+  "questions": [
+    {
+      "id": 1,
+      "text": "<b>The course focuses on skills </b>.<br> • Charlie would be placed in Level <b>5</b>. <br>• First of all, children at this level are taken to practise in a <b>1</b> _____",
+      "type": "fill_in_the_blanks",
+      "options": [],
+      "correct_answer": "park"
+    },
+    {
+      "id": 2,
+      "text": "<b>Instructors</b><br> •Instructors wear <b>2</b> _____ shirts.",
+      "type": "fill_in_the_blanks",
+      "options": [],
+      "correct_answer": "blue"
+    },
+    {
+      "id": 3,
+      "text": " <b>Instructors</b><br>• A <b>3</b> _____ is required and training is given.",
+      "type": "fill_in_the_blanks",
+      "options": [],
+      "correct_answer": "reference"
+    },
+    {
+      "id": 4,
+      "text": "<b>Classes</b><br> The size of the classes is limited. <br>• There are quiet times during the morning for a<b> 4 </b>_____ or a game.",
+      "type": "fill_in_the_blanks",
+      "options": [],
+      "correct_answer": "story"
+    },
+    {
+      "id": 5,
+      "text": "• Classes are held even if there is <b> 5</b> _____",
+      "type": "fill_in_the_blanks",
+      "options": [],
+      "correct_answer": "rain"
+    },
+    {
+      "id": 6,
+      "text": "<b>What to bring</b> <br>• a change of clothing<br> • a <b>6</b> _____",
+      "type": "fill_in_the_blanks",
+      "options": [],
+      "correct_answer": "snack"
+    },
+    {
+      "id": 7,
+      "text": " <b>What to bring</b> <br>• shoes (not sandals) <br>• Charlie’s <b>7</b> _____",
+      "type": "fill_in_the_blanks",
+      "options": [],
+      "correct_answer": "medication"
+    },
+    {
+      "id": 8,
+      "text": "<b>Day 1</b><br> • Charlie should arrive at 9.20 am on the first day.<br> • Before the class, his <b>8 </b> _____ will be checked.",
+      "type": "fill_in_the_blanks",
+      "options": [],
+      "correct_answer": "helmet"
+    },
+    {
+      "id": 9,
+      "text": "<b>Day 1</b> <br>• He should then go to the<b> 9</b> _____ to meet his class instructor.",
+      "type": "fill_in_the_blanks",
+      "options": [],
+      "correct_answer": "tent"
+    },
+    {
+      "id": 10,
+      "text": "<b>Cost</b><br> • The course costs<b>10 </b> $_____ per week",
+      "type": "fill_in_the_blanks",
+      "options": [],
+      "correct_answer": "199"
+    }
+  ]
+    },
+    {
+      "part": "Section_02",
+      "instructions": {
+        "main_head_001": "SECTION 2 - Questions 11 and 12\nChoose TWO letters, A-E.",
+        "main_head_002": "Questions 13 and 14\nChoose TWO letters, A-E.",
+        "main_head_003": "Questions 15-20\nWhat information does Megan give about each of the following job opportunities?\nChoose SIX answers from the box and write the correct letter, A-H, next to the job opportunities.\n Information\nA not a permanent job\nB involves leading a team\nC experience not essential\nD intensive work but also fun\nE chance to earn more through overtime\nF chance for rapid promotion\nG accommodation available\nH local travel involved"
+      },
+      "questions": [
+        {
+          "id": 11,
+          "text": "  According to Megan, what are the <b>TWO</b> main advantages of working in the agriculture and horticulture sectors?",
+          "type": "checkbox",
+          "options": [
+            "A the active lifestyle",
+            "B the above-average salaries",
+            "C the flexible working opportunities",
+            "D the opportunities for overseas travel",
+            "E the chance to be in a natural environment"
+          ],
+          "correct_answer": ["A", "C"]
+        },
+       
+        {
+          "id": 12,
+          "text": " <b>Questions 13 and 14</b> <br></br>Which <b>TWO</b> of the following are likely to be disadvantages for people working outdoors?",
+          "type": "checkbox",
+          "options": [
+            "A the increasing risk of accidents",
+            "B being in a very quiet location",
+            "C difficult weather conditions at times",
+            "D the cost of housing",
+            "E the level of physical fitness required"
+          ],
+          "correct_answer": ["B", "C"]
+        },
+        {
+          "id": 13,
+          "text": "<b>Questions 15-20</b><br></br>What information does <b>Megan</b> give about each of the following job opportunities?<br>Choose <b>ONE</b> answers for Each questions from the box and write the correct letter,<b> A-H</b>, next to the job opportunities.<br> Information<br> <b>A</b> not a permanent job<br><b>B</b> involves leading a team<br><b>C</b> experience not essential<br><b>D</b> intensive work but also fun<br><b>E</b> chance to earn more through overtime<br><b>F</b> chance for rapid promotion<br><b>G</b> accommodation available<br><b>H</b> local travel involved.<br><br><b>15.Fresh food commercial manager</b>",
+          "type": "dropdown",
+          "options": [
+            "A not a permanent job",
+            "B involves leading a team",
+            "C experience not essential",
+            "D intensive work but also fun",
+            "E chance to earn more through overtime",
+            "F chance for rapid promotion",
+            "G accommodation available",
+            "H local travel involved"
+          ],
+          "correct_answer": "D"
+        },
+        {
+          "id": 14,
+          "text": "<b>16.Agronomist</b>",
+          "type": "dropdown",
+          "options": [
+            "A not a permanent job",
+            "B involves leading a team",
+            "C experience not essential",
+            "D intensive work but also fun",
+            "E chance to earn more through overtime",
+            "F chance for rapid promotion",
+            "G accommodation available",
+            "H local travel involved"
+          ],
+          "correct_answer": "F"
+        },
+        {
+          "id": 15,
+          "text": "<b>17.Fresh produce buyer</b>",
+          "type": "dropdown",
+          "options": [
+            "A not a permanent job",
+            "B involves leading a team",
+            "C experience not essential",
+            "D intensive work but also fun",
+            "E chance to earn more through overtime",
+            "F chance for rapid promotion",
+            "G accommodation available",
+            "H local travel involved"
+          ],
+          "correct_answer": "A"
+        },
+        {
+          "id": 16,
+          "text": "<b>18.Garden centre sales manager</b>",
+          "type": "dropdown",
+          "options": [
+            "A not a permanent job",
+            "B involves leading a team",
+            "C experience not essential",
+            "D intensive work but also fun",
+            "E chance to earn more through overtime",
+            "F chance for rapid promotion",
+            "G accommodation available",
+            "H local travel involved"
+          ],
+          "correct_answer": "H"
+        },
+        {
+          "id": 17,
+          "text": "<b>19.Tree technician</b>",
+          "type": "dropdown",
+          "options": [
+            "A not a permanent job",
+            "B involves leading a team",
+            "C experience not essential",
+            "D intensive work but also fun",
+            "E chance to earn more through overtime",
+            "F chance for rapid promotion",
+            "G accommodation available",
+            "H local travel involved"
+          ],
+          "correct_answer": "C"
+        },
+        {
+          "id": 18,
+          "text": "<b>20.Farm worker</b>",
+          "type": "dropdown",
+          "options": [
+            "A not a permanent job",
+            "B involves leading a team",
+            "C experience not essential",
+            "D intensive work but also fun",
+            "E chance to earn more through overtime",
+            "F chance for rapid promotion",
+            "G accommodation available",
+            "H local travel involved"
+          ],
+          "correct_answer": "G"
+        }
+      ]
+    },
+    {
+      "part": "Section_03",
+      "instructions": {
+        "main_head_001": "SECTION 3 - Questions 21 and 22\nChoose TWO letters, A-E.\nWhich TWO points does Adam make about his experiment on artificial sweeteners?",
+        "main_head_002": "Questions 23 and 24\nChoose TWO letters, A-E.\nWhich TWO problems did Rosie have when measuring the fat content of nuts?",
+        "main_head_003": "Questions 25-30\nChoose the correct letter, A, B or C."
+      },
+      "questions": [
+        {
+          "id": 19,
+          "text": " <b>Questions 21 and 22 </b> <br> Which <b>TWO</b> points does Adam make about his experiment on artificial sweeteners?",
+          "type": "checkbox",
+          "options": [
+            "A The results were what he had predicted.",
+            "B The experiment was simple to set up.",
+            "C A large sample of people was tested.",
+            "D The subjects were unaware of what they were drinking.",
+            "E The test was repeated several times for each person."
+          ],
+          "correct_answer": ["C", "D"]
+        },
+        {
+          "id": 20,
+          "text": "  <b>Questions 23 and 24 </b> <br> Which <b>TWO</b> problems did Rosie have when measuring the fat content of nuts?",
+          "type": "checkbox",
+          "options": [
+            "A She used the wrong sort of nuts.",
+            "B She used an unsuitable chemical.",
+            "C She did not grind the nuts up finely enough.",
+            "D She did not use a large enough sample.",
+            "E She used a slightly inaccurate balance."
+          ],
+          "correct_answer": ["B", "E"]
+        },
+        {
+          "id": 21,
+          "text": " <b>25. Adam suggests that restaurants could reduce obesity if their menus</b>",
+          "type": "choose_the_best",
+          "options": [
+            "A offered fewer options.",
+            "B had more low-calorie foods.",
+            "C were organised in a particular way."
+          ],
+          "correct_answer": "C were organised in a particular way."
+        },
+        {
+          "id": 22,
+          "text": "<b>26.The students agree that food manufacturers deliberately</b>",
+          "type": "choose_the_best",
+          "options": [
+            "A make calorie counts hard to understand.",
+            "B fail to provide accurate calorie counts.",
+            "C use ineffective methods to reduce calories."
+          ],
+          "correct_answer": "A"
+        },
+        {
+          "id": 23,
+          "text": "<b>27.What does Rosie say about levels of exercise in England?</b>",
+          "type": "choose_the_best",
+          "options": [
+            "A The amount recommended is much too low.",
+            "B Most people overestimate how much they do.",
+            "C Women now exercise more than they used to."
+          ],
+          "correct_answer": "B Most people overestimate how much they do."
+        },
+        {
+          "id": 24,
+          "text": "<b>28.Adam refers to the location and width of stairs in a train station to illustrate</b>",
+          "type": "choose_the_best",
+          "options": [
+            "A practical changes that can influence people’s behaviour.",
+            "B methods of helping people who have mobility problems.",
+            "C ways of preventing accidents by controlling crowd movement."
+          ],
+          "correct_answer": "A practical changes that can influence people’s behaviour."
+        },
+        {
+          "id": 25,
+          "text": "<b>29.What do the students agree about including reference to exercise in their presentation?</b>",
+          "type": "choose_the_best",
+          "options": [
+            "A They should probably leave it out.",
+            "B They need to do more research on it.",
+            "C They should discuss this with their tutor."
+          ],
+          "correct_answer": "A They should probably leave it out."
+        },
+        {
+          "id": 26,
+          "text": "<b>30.What are the students going to do next for their presentation?</b>",
+          "type": "choose_the_best",
+          "options": [
+            "A prepare some slides for it",
+            "B find out how long they have for it",
+            "C decide on its content and organisation"
+          ],
+          "correct_answer": "C decide on its content and organisation"
+        }
+ 
+  ]
+   },
+   {
+    "part": "Section_04",
+    "paragraph_title": "HAND KNITTING",
+    "instructions": {
+      "main_head_001": "SECTION 4 - Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer.",
+      "main_head_002": ""
+    },
+    "questions": [
+      {
+        "id": 27,
+        "text": "We imagine someone like a <b>31</b> _____ knitting.",
+        "type": "fill_in_the_blanks",
+        "options": [],
+        "correct_answer": "grandmother"
+      },
+      {
+        "id": 28,
+        "text": "A <b>32</b> _____ ago, knitting was expected to disappear.",
+        "type": "fill_in_the_blanks",
+        "options": [],
+        "correct_answer": "decade"
+      },
+      {
+        "id": 29,
+        "text": "People are buying more <b>33</b> _____ for knitting nowadays.",
+        "type": "fill_in_the_blanks",
+        "options": [],
+        "correct_answer": "equipment"
+      },
+      {
+        "id": 30,
+        "text": "<b>Benefits of knitting</b><br> • gives support in times of <b>34</b> _____ difficulty.",
+        "type": "fill_in_the_blanks",
+        "options": [],
+        "correct_answer": "economic"
+      },
+      {
+        "id": 31,
+        "text": "• requires only <b>35</b> _____ skills and little money to start.<br>• reduces stress in a busy life",
+        "type": "fill_in_the_blanks",
+        "options": [],
+        "correct_answer": "basic"
+      },
+      {
+        "id": 32,
+        "text": "<b>Early knitting</b><br> •  The origins are not known. <br>Findings show early knitted items to be <b>36</b> _____ in shape.",
+        "type": "fill_in_the_blanks",
+        "options": [],
+        "correct_answer": "round"
+      },
+      {
+        "id": 33,
+        "text": " • The first needles were made of natural materials such as wood and <b>37</b> _____",
+        "type": "fill_in_the_blanks",
+        "options": [],
+        "correct_answer": "bone"
+      },
+      {
+        "id": 34,
+        "text": " • Early yarns felt <b>38</b> _____ to touch.<br>• Wool became the most popular yarn for spinning.",
+        "type": "fill_in_the_blanks",
+        "options": [],
+        "correct_answer": "rough"
+      },
+      {
+        "id": 35,
+        "text": " • Geographical areas had their own <b>39</b> _____ of knitting.",
+        "type": "fill_in_the_blanks",
+        "options": [],
+        "correct_answer": "style"
+      },
+      {
+        "id": 36,
+        "text": " • Everyday tasks like looking after <b>40</b> _____ were done while knitting.",
+        "type": "fill_in_the_blanks",
+        "options": [],
+        "correct_answer": "sheep"
+      }
+    ]
+  }
+  
+  ],
+  "submitEndpoint": "http://localhost:5010/api/submit/test01"
+}
+
